@@ -411,7 +411,7 @@
 const OPTIONS = {
   industries: {
     hollywood:{label:"Hollywood"}, bollywood:{label:"Bollywood"},
-    indian_regional:{label:"Indian Regional"}, bangladesh:{label:"Bangladesh"},
+    bangladesh:{label:"Bangladesh"},
     international:{label:"International"}
   },
   platforms: {
@@ -845,7 +845,6 @@ function renderShelves(){
   html += `<div class="section-divider"></div>`;
   html += shelf("hollywood","Hollywood", byIndustry("hollywood"));
   html += shelf("bollywood","Bollywood", byIndustry("bollywood"));
-  html += shelf("indian_regional","Indian Regional", byIndustry("indian_regional"));
   html += shelf("bangladesh","Bangladesh", byIndustry("bangladesh"));
   html += `<div class="section-divider"></div>`;
   html += `<div class="shelf" id="ott"><div class="shelf-head"><div class="shelf-title">OTT Releases</div></div></div>`;
