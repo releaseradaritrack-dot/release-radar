@@ -1699,5 +1699,642 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-08-20T06:07:04.768569Z",
+    "new_titles": [
+      {
+        "id": "movie-1745152",
+        "title": "Above",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1744846",
+        "title": "anywhere",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "movie-1516698",
+        "title": "The Last Sunrise",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "movie-1384216",
+        "title": "The Dog Stars",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "movie-1433568",
+        "title": "The Rope Curse 4: Kuntilanak",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "movie-1716269",
+        "title": "Rumah Singgah",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "movie-1514026",
+        "title": "Buddy",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-860508",
+        "title": "The Whisper Man",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1502135",
+        "title": "Secret File",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-822653",
+        "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-290193",
+        "title": "Mousetrap",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-324546",
+        "title": "One-Room TA",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-306630",
+        "title": "You Maniac",
+        "release_date": "2026-08-29"
+      },
+      {
+        "id": "tv-284825",
+        "title": "Mr. Fanboy",
+        "release_date": "2026-08-29"
+      },
+      {
+        "id": "tv-305644",
+        "title": "Four Hands, Two Sonatas",
+        "release_date": "2026-08-29"
+      },
+      {
+        "id": "movie-1741498",
+        "title": "LOOP",
+        "release_date": "2026-08-31"
+      },
+      {
+        "id": "tv-320166",
+        "title": "Taskmaster Poland",
+        "release_date": "2026-08-31"
+      },
+      {
+        "id": "movie-1743005",
+        "title": "Drain Flies",
+        "release_date": "2026-09-01"
+      },
+      {
+        "id": "movie-1101412",
+        "title": "Fall 2: Deadpoint",
+        "release_date": "2026-09-02"
+      },
+      {
+        "id": "movie-1137844",
+        "title": "Mayday",
+        "release_date": "2026-09-03"
+      },
+      {
+        "id": "movie-1742283",
+        "title": "Tikus!",
+        "release_date": "2026-09-03"
+      },
+      {
+        "id": "movie-1380417",
+        "title": "By Any Means",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1284046",
+        "title": "Onslaught",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-324015",
+        "title": "BASTA",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-315142",
+        "title": "Juliet & Juliet",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "movie-1741506",
+        "title": "Le Trident",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-299247",
+        "title": "La cible",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-331033",
+        "title": "Colisión",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-329889",
+        "title": "Buzz",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "movie-1302904",
+        "title": "Practical Magic 2",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "movie-1440098",
+        "title": "Drawn Together",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "movie-1377237",
+        "title": "Runner",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1375441",
+        "title": "Primetime",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1744677",
+        "title": "Mindflip",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1743597",
+        "title": "The Remotes",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "tv-316241",
+        "title": "Pls Love",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1481609",
+        "title": "Closing Night",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "tv-314939",
+        "title": "A Love Other Than Yours",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "tv-295263",
+        "title": "Police in Love",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1742914",
+        "title": "No Handouts",
+        "release_date": "2026-09-14"
+      },
+      {
+        "id": "movie-1671257",
+        "title": "Voices",
+        "release_date": "2026-09-14"
+      },
+      {
+        "id": "movie-1423191",
+        "title": "Resident Evil",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1465063",
+        "title": "Forgotten Island",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1739499",
+        "title": "Alien Spa",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-299255",
+        "title": "Discipline and Punish",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-312663",
+        "title": "The Fixers",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1573054",
+        "title": "Play House",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-890216",
+        "title": "Pacific",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "tv-275102",
+        "title": "The Scandal",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1746929",
+        "title": "Mr. Creamjeans' Hidey Hole",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "movie-1263337",
+        "title": "Heart of the Beast",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "movie-1418428",
+        "title": "The Assassin(s)",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "movie-1483525",
+        "title": "Possible Love",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "movie-1727650",
+        "title": "Ibadah & Cinta",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "movie-1422041",
+        "title": "La Bola Negra",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-310133",
+        "title": "4 Blocks Zero",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1656018",
+        "title": "Michael Jackson: A Life in Music",
+        "release_date": "2026-09-29"
+      },
+      {
+        "id": "movie-1283515",
+        "title": "Verity",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-1248832",
+        "title": "Digger",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-297577",
+        "title": "Rizzler News",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-1556321",
+        "title": "Death Whisperer: Saming the Werebeast",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-1244523",
+        "title": "Beware Boiúna",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-1376400",
+        "title": "Crawlers",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-298505",
+        "title": "Coven Academy",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-258165",
+        "title": "East of Eden",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-298852",
+        "title": "War",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-319800",
+        "title": "NCIS: New York",
+        "release_date": "2026-10-06"
+      },
+      {
+        "id": "tv-288673",
+        "title": "Carrie",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-1400837",
+        "title": "Other Mommy",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-1148365",
+        "title": "Matchbox: The Movie",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-303630",
+        "title": "Cupertino",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-313630",
+        "title": "Eternally Yours",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-285322",
+        "title": "Below",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-1281331",
+        "title": "The Social Reckoning",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1443151",
+        "title": "Double Trouble",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1236045",
+        "title": "Animals",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-284833",
+        "title": "Avatar: Seven Havens",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-313078",
+        "title": "Mystery Science Theater 3000: The RiffTrax Experiments",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-293610",
+        "title": "Doctor X",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1744590",
+        "title": "Zeitgeist",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-326160",
+        "title": "The X Protocol",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "movie-1153576",
+        "title": "Street Fighter",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-213375",
+        "title": "VisionQuest",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-286183",
+        "title": "Hollywood Arts",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "tv-213562",
+        "title": "Crystal Lake",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "tv-329575",
+        "title": "The Pellikandy Show",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1255833",
+        "title": "Whalefall",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1400940",
+        "title": "Clayface",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1154730",
+        "title": "La Gradiva",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-791523",
+        "title": "Wildwood",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-330430",
+        "title": "Love After Lockup: Relationship Rehab",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-322267",
+        "title": "Newlyweds",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-292741",
+        "title": "Nocturne",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-326007",
+        "title": "Learning with Pibby: Armageddon",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1743163",
+        "title": "The Cryonicist",
+        "release_date": "2026-11-01"
+      },
+      {
+        "id": "tv-314271",
+        "title": "Bass X Machina",
+        "release_date": "2026-11-03"
+      },
+      {
+        "id": "tv-258989",
+        "title": "The Greatest",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1117898",
+        "title": "The Cat in the Hat",
+        "release_date": "2026-11-05"
+      },
+      {
+        "id": "movie-1585239",
+        "title": "Club Kid",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1562642",
+        "title": "Ghost Soldier",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-891621",
+        "title": "Wild Horse Nine",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1744045",
+        "title": "Moroccan Mint",
+        "release_date": "2026-11-08"
+      },
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-291507",
+        "title": "The Body",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-249565",
+        "title": "The Good Daughter",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1300968",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "release_date": "2026-11-18"
+      },
+      {
+        "id": "tv-308007",
+        "title": "The Altruists",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "tv-290826",
+        "title": "Dig",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "movie-1538497",
+        "title": "Hexed",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "movie-1400336",
+        "title": "Focker-in-Law",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-171802",
+        "title": "Blade Runner 2099",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-327346",
+        "title": "Astral Watch",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1170608",
+        "title": "Dune: Part Three",
+        "release_date": "2026-12-15"
+      },
+      {
+        "id": "movie-1003596",
+        "title": "Avengers: Doomsday",
+        "release_date": "2026-12-16"
+      },
+      {
+        "id": "tv-307325",
+        "title": "The Eyes",
+        "release_date": "2026-12-18"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1204680",
+        "title": "Coyote vs. Acme",
+        "old_date": "2026-08-28",
+        "new_date": "2026-08-20",
+        "detected_at": "2026-08-20T06:07:04.768122Z"
+      },
+      {
+        "id": "movie-1341138",
+        "title": "Spa Weekend",
+        "old_date": "2026-08-21",
+        "new_date": "2026-08-20",
+        "detected_at": "2026-08-20T06:07:04.768138Z"
+      },
+      {
+        "id": "movie-445466",
+        "title": "Idiots",
+        "old_date": "2026-08-28",
+        "new_date": "2026-08-20",
+        "detected_at": "2026-08-20T06:07:04.768140Z"
+      },
+      {
+        "id": "movie-1424965",
+        "title": "Ice Skater",
+        "old_date": "2026-02-24",
+        "new_date": "2026-08-20",
+        "detected_at": "2026-08-20T06:07:04.768144Z"
+      },
+      {
+        "id": "movie-656908",
+        "title": "Ramayana",
+        "old_date": "2026-11-08",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-08-20T06:07:04.768181Z"
+      }
+    ]
   }
 ]
