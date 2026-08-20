@@ -2336,5 +2336,38 @@
         "detected_at": "2026-08-20T06:07:04.768181Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-20T08:05:06.328287Z",
+    "new_titles": [
+      {
+        "id": "movie-848700",
+        "title": "Minotaur",
+        "release_date": "2026-10-14"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1255833",
+        "title": "Whalefall",
+        "old_date": "2026-10-16",
+        "new_date": "2026-10-14",
+        "detected_at": "2026-08-20T08:05:06.327748Z"
+      },
+      {
+        "id": "movie-1743163",
+        "title": "The Cryonicist",
+        "old_date": "2026-11-01",
+        "new_date": "2026-10-16",
+        "detected_at": "2026-08-20T08:05:06.327761Z"
+      },
+      {
+        "id": "movie-1585239",
+        "title": "Club Kid",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-08-20T08:05:06.327765Z"
+      }
+    ]
   }
 ]
