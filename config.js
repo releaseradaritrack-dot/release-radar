@@ -9,5 +9,5 @@
 // Security rules (in supabase/schema.sql) permit. Never paste the
 // "service_role" key here; that one must stay a GitHub Actions secret only.
 
-window.SUPABASE_URL = "YOUR_SUPABASE_PROJECT_URL";
-window.SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_PUBLIC_KEY";
+window.SUPABASE_URL = "https://wwkvxhiynvbpnzpppode.supabase.co)";
+window.SUPABASE_ANON_KEY = "sb_publishable_SG0TUSXk4TBaBik-aTWGsA_4521LH_u";
