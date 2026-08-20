@@ -5,10 +5,9 @@
     "lookahead_days": 120
   },
   "industries": {
-    "hollywood": { "label": "Hollywood", "tmdb_region": "US", "tmdb_language": "en" },
-    "bollywood": { "label": "Bollywood", "tmdb_region": "IN", "tmdb_language": "hi" },
-    "indian_regional": { "label": "Indian Regional", "tmdb_region": "IN", "tmdb_languages": ["ta", "te", "ml", "kn"] },
-    "bangladesh": { "label": "Bangladesh", "tmdb_region": "BD", "tmdb_language": "bn" },
+    "hollywood": { "label": "Hollywood", "tmdb_region": "US", "tmdb_language": "en", "tmdb_origin_country": "US" },
+    "bollywood": { "label": "Bollywood", "tmdb_region": "IN", "tmdb_language": "hi", "tmdb_origin_country": "IN" },
+    "bangladesh": { "label": "Bangladesh", "tmdb_region": "BD", "tmdb_language": "bn", "tmdb_origin_country": "BD" },
     "international": { "label": "International", "tmdb_region": null, "tmdb_language": null }
   },
   "platforms": {
