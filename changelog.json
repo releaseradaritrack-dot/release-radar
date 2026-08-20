@@ -2418,5 +2418,46 @@
         "detected_at": "2026-08-20T14:10:29.592473Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-20T19:45:43.984711Z",
+    "new_titles": [
+      {
+        "id": "movie-1433568",
+        "title": "The Rope Curse 4: Kuntilanak",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "tv-322275",
+        "title": "The Traitors: New Blood",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-313078",
+        "title": "Mystery Science Theater 3000: The RiffTrax Experiments",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-310794",
+        "title": "The Collective",
+        "release_date": "2026-10-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1377237",
+        "title": "Runner",
+        "old_date": "2026-09-10",
+        "new_date": "2026-09-11",
+        "detected_at": "2026-08-20T19:45:43.984181Z"
+      },
+      {
+        "id": "movie-1248832",
+        "title": "Digger",
+        "old_date": "2026-09-30",
+        "new_date": "2026-10-02",
+        "detected_at": "2026-08-20T19:45:43.984199Z"
+      }
+    ]
   }
 ]

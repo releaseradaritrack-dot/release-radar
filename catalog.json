@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T14:10:29.050615Z",
+  "generated_at": "2026-08-20T19:45:43.611778Z",
   "window_start": "2026-08-20",
   "window_end": "2026-12-18",
-  "count": 213,
+  "count": 215,
   "items": [
     {
       "id": "movie-1363288",
@@ -288,29 +288,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1746116",
-      "tmdb_id": 1746116,
-      "type": "movie",
-      "industry": "international",
-      "title": "Captive",
-      "original_title": "Captive",
-      "release_date": "2026-08-21",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Horror"
-      ],
-      "language": "en",
-      "synopsis": "After a group of friends is abducted, they find themselves as the unwilling participants of a violent live stream: one that's impossible to trace and impossible to stop. CAPTIVE is based on real internet crimes and uses multi POV to put the viewer inside their harrowing journey, bringing them face to face with evil.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fEX0ioaLs6srhauLo3qMCE7VFZb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jd15DLwvROUxZU3SBi6xQoCwWdS.jpg",
-      "popularity": 7.181,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1422011",
       "tmdb_id": 1422011,
       "type": "movie",
@@ -328,6 +305,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
       "popularity": 7.5495,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1746116",
+      "tmdb_id": 1746116,
+      "type": "movie",
+      "industry": "international",
+      "title": "Captive",
+      "original_title": "Captive",
+      "release_date": "2026-08-21",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "synopsis": "After a group of friends is abducted, they find themselves as the unwilling participants of a violent live stream: one that's impossible to trace and impossible to stop. CAPTIVE is based on real internet crimes and uses multi POV to put the viewer inside their harrowing journey, bringing them face to face with evil.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fEX0ioaLs6srhauLo3qMCE7VFZb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jd15DLwvROUxZU3SBi6xQoCwWdS.jpg",
+      "popularity": 7.181,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -680,10 +680,34 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1433568",
+      "tmdb_id": 1433568,
+      "type": "movie",
+      "industry": "international",
+      "title": "The Rope Curse 4: Kuntilanak",
+      "original_title": "粽邪4：坤蒂拉娜",
+      "release_date": "2026-08-27",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "language": "zh",
+      "synopsis": "A forbidden exorcism is livestreamed in Indonesia, awakening the legendary female spirit Kuntilanak. What begins as an online spectacle quickly turns deadly. In Taiwan, Mila watches the ritual—and becomes the curse’s first victim. Soon, mysterious deaths and violent possessions follow. When Yulan collapses and is found to have lost part of her soul, it becomes clear that this is not an isolated incident, but a transnational curse. Seeking answers, Mila’s son returns her ashes to Indonesia, hoping to uncover the truth behind her death. Instead, he steps into a nightmare rooted in ancient folklore and unresolved hatred. As supernatural violence escalates, the group realizes that once Kuntilanak is summoned, the curse will not stop—until it claims everything in its path.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6u8F23BammMeCWLvWITbFM2Nwbe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2VDV1ZBHV1PKKBcWjRRCydZO1YR.jpg",
+      "popularity": 8.0483,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1514026",
       "tmdb_id": 1514026,
       "type": "movie",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "Buddy",
       "original_title": "Buddy",
       "release_date": "2026-08-28",
@@ -1167,29 +1191,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1101412",
-      "tmdb_id": 1101412,
-      "type": "movie",
-      "industry": "international",
-      "title": "Fall 2: Deadpoint",
-      "original_title": "Fall 2: Deadpoint",
-      "release_date": "2026-09-02",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Thriller"
-      ],
-      "language": "en",
-      "synopsis": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
-      "popularity": 24.8581,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1380417",
       "tmdb_id": 1380417,
       "type": "movie",
@@ -1230,6 +1231,29 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/ePpUXJIMa4QfJqzze9y8QzSnKSo.jpg",
       "popularity": 4.4494,
       "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1101412",
+      "tmdb_id": 1101412,
+      "type": "movie",
+      "industry": "international",
+      "title": "Fall 2: Deadpoint",
+      "original_title": "Fall 2: Deadpoint",
+      "release_date": "2026-09-02",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "synopsis": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+      "popularity": 24.8581,
+      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -1723,31 +1747,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1377237",
-      "tmdb_id": 1377237,
-      "type": "movie",
-      "industry": "international",
-      "title": "Runner",
-      "original_title": "Runner",
-      "release_date": "2026-09-10",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Thriller"
-      ],
-      "language": "en",
-      "synopsis": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mKEdYG9PxlVDHZYOhSwa9fFykAl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
-      "popularity": 8.9236,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-300507",
       "tmdb_id": 300507,
       "type": "series",
@@ -1766,6 +1765,31 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
       "popularity": 12.205,
       "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1377237",
+      "tmdb_id": 1377237,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Runner",
+      "original_title": "Runner",
+      "release_date": "2026-09-11",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "en",
+      "synopsis": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mKEdYG9PxlVDHZYOhSwa9fFykAl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
+      "popularity": 8.9236,
+      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -2245,6 +2269,27 @@
       "trailer_url": ""
     },
     {
+      "id": "tv-322275",
+      "tmdb_id": 322275,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "The Traitors: New Blood",
+      "original_title": "The Traitors: New Blood",
+      "release_date": "2026-09-17",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [],
+      "language": "en",
+      "synopsis": "Set at an ancient castle set deep in the Scottish Highlands, everyday Americans work together on a series of exhilarating missions to build a prize fund worth up to $250,000. Hidden amongst the Faithful are the Traitors, whose goal is to eliminate the Faithful and claim the prize for themselves. Under the cover of darkness, the Traitors murder the Faithful one by one in a treacherous spree while the Faithful try to uncover the Traitors and banish them from the game. If the Faithful contestants banish all the Traitors, they will share the prize fund, but if a Traitor (or Traitors) makes it to the end, they will steal all the money.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gIXRmBU4H64MUMr8AP9JhflyNwJ.jpg",
+      "backdrop_url": "",
+      "popularity": 1.2963,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-312663",
       "tmdb_id": 312663,
       "type": "series",
@@ -2619,6 +2664,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1483525",
+      "tmdb_id": 1483525,
+      "type": "movie",
+      "industry": "international",
+      "title": "Possible Love",
+      "original_title": "가능한 사랑",
+      "release_date": "2026-09-23",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "ko",
+      "synopsis": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+      "popularity": 7.3135,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1418428",
       "tmdb_id": 1418428,
       "type": "movie",
@@ -2639,29 +2707,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vxLkqJHsFmrnOg78KoTvwxXDTKo.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/mCUZLymzVjfYJXEON4wg8ilx2H8.jpg",
       "popularity": 7.1316,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1483525",
-      "tmdb_id": 1483525,
-      "type": "movie",
-      "industry": "international",
-      "title": "Possible Love",
-      "original_title": "가능한 사랑",
-      "release_date": "2026-09-23",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "ko",
-      "synopsis": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "popularity": 7.3135,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -2841,29 +2886,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1656018",
-      "tmdb_id": 1656018,
-      "type": "movie",
-      "industry": "international",
-      "title": "Michael Jackson: A Life in Music",
-      "original_title": "Michael Jackson: A Life in Music",
-      "release_date": "2026-09-29",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Documentary"
-      ],
-      "language": "en",
-      "synopsis": "The legendary journey of Michael Jackson, from his early days with the Jackson 5 to his breakthrough albums and live concerts.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aekwk423LleTvQDV9t2Z0NLG0PO.jpg",
-      "backdrop_url": "",
-      "popularity": 5.8909,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1283515",
       "tmdb_id": 1283515,
       "type": "movie",
@@ -2882,55 +2904,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
       "popularity": 11.0055,
       "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1248832",
-      "tmdb_id": 1248832,
-      "type": "movie",
-      "industry": "international",
-      "title": "Digger",
-      "original_title": "Digger",
-      "release_date": "2026-09-30",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Comedy"
-      ],
-      "language": "en",
-      "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
-      "popularity": 8.8123,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "tv-297577",
-      "tmdb_id": 297577,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "Rizzler News",
-      "original_title": "Rizzler News",
-      "release_date": "2026-09-30",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Comedy",
-        "Mystery"
-      ],
-      "language": "en",
-      "synopsis": "A show about the rise of Rob the newsman as he builds Rizzler News from the ground and single handedly destroys the competition",
-      "poster_url": "",
-      "backdrop_url": "",
-      "popularity": 0.4507,
-      "platform": "ott",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -3096,6 +3069,29 @@
       "backdrop_url": "",
       "popularity": 3.6776,
       "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1248832",
+      "tmdb_id": 1248832,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Digger",
+      "original_title": "Digger",
+      "release_date": "2026-10-02",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Comedy"
+      ],
+      "language": "en",
+      "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+      "popularity": 8.8123,
+      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -3504,6 +3500,30 @@
       "trailer_url": ""
     },
     {
+      "id": "tv-313078",
+      "tmdb_id": 313078,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "Mystery Science Theater 3000: The RiffTrax Experiments",
+      "original_title": "Mystery Science Theater 3000: The RiffTrax Experiments",
+      "release_date": "2026-10-09",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "language": "en",
+      "synopsis": "Mystery Science Theater 3000: The RiffTrax Experiments is a 2026 limited series that reunites legacy MST3K writers and performers Michael J. Nelson, Kevin Murphy, and Bill Corbett. Serving as an official collaboration between the RiffTrax team and the MST3K production house, the series brings the core cast of the show's 1990s era back to the Satellite of Love.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ksG1QJG0slyY7avG0OgoFRMJE43.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nOxtkQCSfhQmPT1e3okPxACdzyS.jpg",
+      "popularity": 1.2743,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-718833",
       "tmdb_id": 718833,
       "type": "movie",
@@ -3684,6 +3704,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/dRYMAd6kC7asvVRxeb6gw9f1ZhW.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/5meyJp8HLOCx420HUdHbyajuK0f.jpg",
       "popularity": 0.8163,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-310794",
+      "tmdb_id": 310794,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "The Collective",
+      "original_title": "The Collective",
+      "release_date": "2026-10-12",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "synopsis": "The Collective is a fictional series that is fused with drama, suspense, action, and a little comedy. The story takes place in current times in the United States. The story's main character is Cashmere Wellington a successful sports agent who ends up leaving her profession when she finds out that her great grandfather has passed and she is now the CEO of an exclusive high-end art gallery that her great grandfather created and owned. However, that is not the only thing Cashmere will be  inheriting. Come along on for the ride as Cashmere must fight to defend her family's legacy. A original screen play created written and directed by Colored Girl Film Productions members of The Uniq Art Collective's subsidiary group.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 0.501,
       "platform": "ott",
       "source": "TMDB",
       "official_url": "",
