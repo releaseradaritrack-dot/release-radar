@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Release Radar — Admin</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="./config.js"></script>
+<style>
+  :root{
+    --bg:#0a0b0f;--bg-raised:#121319;--glass:rgba(255,255,255,0.055);--glass-border:rgba(255,255,255,0.10);
+    --gold:#f5a83c;--violet:#8b6bf2;--text:#f3f1ec;--text-dim:#9a99a6;--text-faint:#65646f;--danger:#f2545b;
+    --radius-md:14px;--radius-sm:9px;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;padding:0 0 60px;}
+  .display{font-family:'Bebas Neue',sans-serif;letter-spacing:0.02em;}
+  header{padding:20px 28px;border-bottom:1px solid var(--glass-border);display:flex;justify-content:space-between;align-items:center;}
+  header b{font-family:'Bebas Neue',sans-serif;font-size:24px;}
+  main{max-width:900px;margin:0 auto;padding:30px 20px;}
+  .gate{max-width:420px;margin:80px auto;padding:30px;background:var(--glass);border:1px solid var(--glass-border);border-radius:var(--radius-md);text-align:center;}
+  .card{background:var(--glass);border:1px solid var(--glass-border);border-radius:var(--radius-md);padding:22px;margin-bottom:24px;}
+  h2{font-family:'Bebas Neue',sans-serif;font-size:24px;margin:0 0 16px;letter-spacing:0.02em;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+  label{display:block;font-size:11px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.06em;margin:10px 0 5px;}
+  input,select,textarea{width:100%;padding:10px 12px;border-radius:var(--radius-sm);background:rgba(255,255,255,0.04);
+    border:1px solid var(--glass-border);color:var(--text);font-size:13.5px;font-family:'Inter',sans-serif;outline:none;}
+  textarea{min-height:70px;resize:vertical;}
+  .btn{padding:11px 18px;border-radius:100px;font-size:13.5px;font-weight:600;cursor:pointer;border:none;background:var(--gold);color:#1a1204;margin-top:14px;}
+  .btn.secondary{background:var(--glass);color:var(--text);border:1px solid var(--glass-border);}
+  table{width:100%;border-collapse:collapse;font-size:13px;}
+  th,td{text-align:left;padding:9px 8px;border-bottom:1px solid rgba(255,255,255,0.06);}
+  th{color:var(--text-faint);font-weight:600;font-size:11px;text-transform:uppercase;}
+  .badge{padding:2px 8px;border-radius:100px;font-size:10.5px;background:rgba(245,168,60,0.15);color:var(--gold);}
+  .rowbtn{cursor:pointer;color:var(--text-faint);font-size:12px;margin-right:10px;}
+  .rowbtn:hover{color:var(--text);}
+  .muted{color:var(--text-faint);font-size:12px;line-height:1.6;}
+</style>
+</head>
+<body>
+<header><b>RELEASE RADAR — ADMIN</b><span id="whoami" class="muted"></span></header>
+<main>
+
+  <div id="gate" class="gate">
+    <h2 class="display">Admin sign-in</h2>
+    <p class="muted">Sign in with the email address you added to the <code>admins</code> table in Supabase.</p>
+    <input type="email" id="gateEmail" placeholder="you@example.com" style="margin:14px 0;">
+    <button class="btn" id="gateSendBtn" style="width:100%;">Send magic link</button>
+    <p class="muted" id="gateStatus" style="margin-top:12px;"></p>
+  </div>
+
+  <div id="panel" style="display:none;">
+    <div class="card">
+      <h2>Add / edit a title</h2>
+      <p class="muted">Use this for titles TMDB doesn't cover (Hoichoi, Chorki, most Bangladesh releases) or to correct a TMDB-sourced title. Leave Release Time blank if it isn't officially confirmed — never guess.</p>
+      <input type="hidden" id="f_id">
+      <div class="grid">
+        <div><label>Title</label><input id="f_title"></div>
+        <div><label>Original title (optional)</label><input id="f_original_title"></div>
+        <div><label>Type</label><select id="f_type"><option value="movie">Movie</option><option value="series">Series</option></select></div>
+        <div><label>Industry</label>
+          <select id="f_industry">
+            <option value="hollywood">Hollywood</option><option value="bollywood">Bollywood</option>
+            <option value="indian_regional">Indian Regional</option><option value="bangladesh">Bangladesh</option>
+            <option value="international">International</option>
+          </select>
+        </div>
+        <div><label>Platform</label>
+          <select id="f_platform">
+            <option value="theatrical">Theatrical</option><option value="netflix">Netflix</option>
+            <option value="prime_video">Prime Video</option><option value="disney_plus">Disney+</option>
+            <option value="hoichoi">Hoichoi</option><option value="chorki">Chorki</option>
+            <option value="binge">Binge</option><option value="hbo_max">HBO / Max</option><option value="ott">Other streaming</option>
+          </select>
+        </div>
+        <div><label>Status</label>
+          <select id="f_status">
+            <option value="confirmed">Confirmed</option><option value="estimated">Estimated</option>
+            <option value="rumored">Rumored — not confirmed</option><option value="date_tbd">Date TBD</option>
+            <option value="delayed">Delayed</option><option value="cancelled">Cancelled</option>
+          </select>
+        </div>
+        <div><label>Release date</label><input type="date" id="f_release_date"></div>
+        <div><label>Release time (leave blank if unconfirmed)</label><input type="time" id="f_release_time"></div>
+        <div><label>Genres (comma-separated)</label><input id="f_genres" placeholder="Drama, Thriller"></div>
+        <div><label>Language</label><input id="f_language" placeholder="bn"></div>
+        <div><label>Poster URL</label><input id="f_poster_url"></div>
+        <div><label>Backdrop URL</label><input id="f_backdrop_url"></div>
+        <div><label>Trailer URL</label><input id="f_trailer_url"></div>
+        <div><label>Official URL</label><input id="f_official_url"></div>
+      </div>
+      <label>Synopsis</label><textarea id="f_synopsis"></textarea>
+      <label style="display:flex;align-items:center;gap:8px;margin-top:14px;">
+        <input type="checkbox" id="f_featured" style="width:auto;"> Feature this title on the homepage hero
+      </label>
+      <button class="btn" id="saveTitleBtn">Save title</button>
+      <button class="btn secondary" id="clearFormBtn">Clear form</button>
+      <p class="muted" id="formStatus"></p>
+    </div>
+
+    <div class="card">
+      <h2>Manually added / verified titles</h2>
+      <table>
+        <thead><tr><th>Title</th><th>Date</th><th>Status</th><th>Industry</th><th></th></tr></thead>
+        <tbody id="titlesTable"></tbody>
+      </table>
+    </div>
+
+    <div class="card">
+      <h2>Recent release-date changes</h2>
+      <p class="muted">Detected automatically by the GitHub Actions sync (reads <code>changelog.json</code> from the live site).</p>
+      <table>
+        <thead><tr><th>Title</th><th>Old date</th><th>New date</th><th>Detected</th></tr></thead>
+        <tbody id="changesTable"></tbody>
+      </table>
+    </div>
+
+    <div class="card">
+      <h2>Data sync</h2>
+      <p class="muted">Automatic titles (TMDB) refresh every 6 hours via GitHub Actions. To trigger it immediately: go to your repository's <b>Actions</b> tab → "Update Release Radar Data" → <b>Run workflow</b>. (A manual-trigger button isn't placed here on purpose — that would require exposing a GitHub access token in this public page, which isn't safe.)</p>
+    </div>
+
+    <button class="btn secondary" id="signOutBtn">Sign out</button>
+  </div>
+</main>
+
+<script>
+if(!window.SUPABASE_URL || window.SUPABASE_URL.startsWith("YOUR_")){
+  document.querySelector('main').innerHTML = '<div class="card"><h2>Not set up yet</h2><p class="muted">Add your Supabase URL and anon key to config.js first — see README.md.</p></div>';
+} else {
+  const supa = window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_ANON_KEY);
+  let isAdmin = false;
+
+  async function checkAdmin(user){
+    if(!user) return false;
+    const { data } = await supa.from('admins').select('email').eq('email', user.email).maybeSingle();
+    return !!data;
+  }
+
+  async function boot(){
+    const { data:{ session } } = await supa.auth.getSession();
+    supa.auth.onAuthStateChange((_e, s)=> route(s?.user));
+    route(session?.user);
+  }
+
+  async function route(user){
+    isAdmin = await checkAdmin(user);
+    if(user && isAdmin){
+      document.getElementById('gate').style.display = 'none';
+      document.getElementById('panel').style.display = '';
+      document.getElementById('whoami').textContent = user.email;
+      loadTitles(); loadChanges();
+    } else if (user && !isAdmin){
+      document.getElementById('gate').innerHTML = '<h2 class="display">Not an admin</h2><p class="muted">' + user.email + ' isn\'t in the admins table yet. Add it in Supabase: <code>insert into public.admins (email) values (\'' + user.email + '\');</code></p>';
+    } else {
+      document.getElementById('gate').style.display = '';
+      document.getElementById('panel').style.display = 'none';
+    }
+  }
+
+  document.getElementById('gateSendBtn').addEventListener('click', async ()=>{
+    const email = document.getElementById('gateEmail').value.trim();
+    const status = document.getElementById('gateStatus');
+    if(!email){ status.textContent = "Enter an email."; return; }
+    status.textContent = "Sending…";
+    const { error } = await supa.auth.signInWithOtp({ email, options:{ emailRedirectTo: location.href } });
+    status.textContent = error ? error.message : "Check your email for the sign-in link.";
+  });
+
+  document.getElementById('signOutBtn').addEventListener('click', async ()=>{ await supa.auth.signOut(); });
+
+  async function readForm(){
+    const genres = document.getElementById('f_genres').value.split(',').map(s=>s.trim()).filter(Boolean);
+    const title = document.getElementById('f_title').value.trim();
+    const release_date = document.getElementById('f_release_date').value;
+    const idField = document.getElementById('f_id').value;
+    const id = idField || ('manual-' + title.toLowerCase().replace(/[^a-z0-9]+/g,'-').slice(0,40) + '-' + release_date);
+    return {
+      id, title, original_title: document.getElementById('f_original_title').value.trim(),
+      type: document.getElementById('f_type').value, industry: document.getElementById('f_industry').value,
+      platform: document.getElementById('f_platform').value, status: document.getElementById('f_status').value,
+      release_date, release_time: document.getElementById('f_release_time').value,
+      genres, language: document.getElementById('f_language').value.trim(),
+      synopsis: document.getElementById('f_synopsis').value.trim(),
+      poster_url: document.getElementById('f_poster_url').value.trim(),
+      backdrop_url: document.getElementById('f_backdrop_url').value.trim(),
+      trailer_url: document.getElementById('f_trailer_url').value.trim(),
+      official_url: document.getElementById('f_official_url').value.trim(),
+      featured: document.getElementById('f_featured').checked,
+      created_by: (await supa.auth.getUser()).data?.user?.email || 'admin',
+      updated_at: new Date().toISOString()
+    };
+  }
+
+  document.getElementById('saveTitleBtn').addEventListener('click', async ()=>{
+    const status = document.getElementById('formStatus');
+    const row = await readForm();
+    if(!row.title || !row.release_date){ status.textContent = "Title and release date are required."; return; }
+    const { error } = await supa.from('manual_titles').upsert(row);
+    status.textContent = error ? ("Error: " + error.message) : "Saved.";
+    if(!error){ clearForm(); loadTitles(); }
+  });
+
+  function clearForm(){
+    ['f_id','f_title','f_original_title','f_genres','f_language','f_synopsis','f_poster_url','f_backdrop_url','f_trailer_url','f_official_url','f_release_date','f_release_time']
+      .forEach(id=> document.getElementById(id).value = '');
+    document.getElementById('f_featured').checked = false;
+  }
+  document.getElementById('clearFormBtn').addEventListener('click', clearForm);
+
+  async function loadTitles(){
+    const { data } = await supa.from('manual_titles').select('*').order('release_date');
+    const tbody = document.getElementById('titlesTable');
+    tbody.innerHTML = (data||[]).map(t=>`
+      <tr>
+        <td>${t.title}${t.featured?' <span class="badge">Featured</span>':''}</td>
+        <td>${t.release_date}</td>
+        <td>${t.status}</td>
+        <td>${t.industry}</td>
+        <td><span class="rowbtn" data-edit="${t.id}">Edit</span><span class="rowbtn" data-del="${t.id}">Delete</span></td>
+      </tr>`).join('') || '<tr><td colspan="5" class="muted">No manually added titles yet.</td></tr>';
+
+    tbody.querySelectorAll('[data-edit]').forEach(el=> el.addEventListener('click', ()=> fillForm(data.find(t=>t.id===el.dataset.edit))));
+    tbody.querySelectorAll('[data-del]').forEach(el=> el.addEventListener('click', async ()=>{
+      if(!confirm('Delete this title?')) return;
+      await supa.from('manual_titles').delete().eq('id', el.dataset.del);
+      loadTitles();
+    }));
+  }
+
+  function fillForm(t){
+    if(!t) return;
+    document.getElementById('f_id').value = t.id;
+    document.getElementById('f_title').value = t.title || '';
+    document.getElementById('f_original_title').value = t.original_title || '';
+    document.getElementById('f_type').value = t.type || 'movie';
+    document.getElementById('f_industry').value = t.industry || 'hollywood';
+    document.getElementById('f_platform').value = t.platform || 'theatrical';
+    document.getElementById('f_status').value = t.status || 'confirmed';
+    document.getElementById('f_release_date').value = t.release_date || '';
+    document.getElementById('f_release_time').value = t.release_time || '';
+    document.getElementById('f_genres').value = (t.genres||[]).join(', ');
+    document.getElementById('f_language').value = t.language || '';
+    document.getElementById('f_synopsis').value = t.synopsis || '';
+    document.getElementById('f_poster_url').value = t.poster_url || '';
+    document.getElementById('f_backdrop_url').value = t.backdrop_url || '';
+    document.getElementById('f_trailer_url').value = t.trailer_url || '';
+    document.getElementById('f_official_url').value = t.official_url || '';
+    document.getElementById('f_featured').checked = !!t.featured;
+    window.scrollTo({top:0, behavior:'smooth'});
+  }
+
+  async function loadChanges(){
+    try{
+      const res = await fetch('./changelog.json', {cache:'no-store'});
+      const log = await res.json();
+      const rows = [];
+      log.forEach(run => (run.date_changes||[]).forEach(c => rows.push({...c, run_at: run.run_at})));
+      rows.sort((a,b)=> new Date(b.detected_at) - new Date(a.detected_at));
+      document.getElementById('changesTable').innerHTML = rows.slice(0,30).map(c=>`
+        <tr><td>${c.title}</td><td>${c.old_date}</td><td>${c.new_date}</td><td>${new Date(c.detected_at).toLocaleDateString()}</td></tr>
+      `).join('') || '<tr><td colspan="4" class="muted">No date changes detected yet.</td></tr>';
+    }catch(e){
+      document.getElementById('changesTable').innerHTML = '<tr><td colspan="4" class="muted">changelog.json not reachable yet.</td></tr>';
+    }
+  }
+
+  boot();
+}
+</script>
+</body>
+</html>

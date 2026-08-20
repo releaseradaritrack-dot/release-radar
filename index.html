@@ -1,0 +1,944 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Release Radar — Your Next Watch Starts Here</title>
+<meta name="description" content="Track upcoming Hollywood, Bollywood, and Bangladesh movie & series releases. Never miss a premiere.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="./config.js"></script>
+<style>
+  :root{
+    --bg:#0a0b0f;
+    --bg-raised:#121319;
+    --glass:rgba(255,255,255,0.055);
+    --glass-border:rgba(255,255,255,0.10);
+    --glass-hover:rgba(255,255,255,0.09);
+    --gold:#f5a83c;
+    --gold-dim:#c9862a;
+    --violet:#8b6bf2;
+    --cyan:#2fd8d8;
+    --text:#f3f1ec;
+    --text-dim:#9a99a6;
+    --text-faint:#65646f;
+    --danger:#f2545b;
+    --radius-lg:22px;
+    --radius-md:14px;
+    --radius-sm:9px;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(ellipse 900px 500px at 15% -10%, rgba(139,107,242,0.16), transparent 60%),
+      radial-gradient(ellipse 700px 500px at 100% 0%, rgba(47,216,216,0.10), transparent 55%),
+      var(--bg);
+    color:var(--text);
+    font-family:'Inter',sans-serif;
+    -webkit-font-smoothing:antialiased;
+    min-height:100vh;
+  }
+  ::selection{background:var(--gold);color:#100c00;}
+  a{color:inherit;text-decoration:none;}
+  .display{font-family:'Bebas Neue',sans-serif;letter-spacing:0.02em;}
+  .mono{font-family:'JetBrains Mono',monospace;}
+
+  /* ---------- NAV ---------- */
+  header{
+    position:sticky;top:0;z-index:50;
+    display:flex;align-items:center;justify-content:space-between;
+    padding:16px 28px;
+    background:rgba(10,11,15,0.72);
+    backdrop-filter:blur(18px) saturate(140%);
+    -webkit-backdrop-filter:blur(18px) saturate(140%);
+    border-bottom:1px solid var(--glass-border);
+  }
+  .logo{display:flex;align-items:center;gap:9px;font-size:22px;}
+  .logo .dot{width:9px;height:9px;border-radius:50%;background:var(--gold);box-shadow:0 0 12px 2px var(--gold);}
+  .logo b{font-family:'Bebas Neue',sans-serif;font-size:24px;letter-spacing:0.04em;}
+  nav.links{display:flex;gap:26px;font-size:14px;color:var(--text-dim);}
+  nav.links a:hover{color:var(--text);}
+  .nav-actions{display:flex;align-items:center;gap:12px;}
+  .icon-btn{
+    width:38px;height:38px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+    background:var(--glass);border:1px solid var(--glass-border);cursor:pointer;font-size:15px;
+  }
+  .icon-btn:hover{background:var(--glass-hover);}
+
+  /* marquee ticker — the signature element */
+  .ticker-wrap{
+    overflow:hidden;border-bottom:1px solid var(--glass-border);
+    background:linear-gradient(90deg, rgba(245,168,60,0.10), rgba(139,107,242,0.08));
+    padding:7px 0;
+  }
+  .ticker{display:inline-flex;white-space:nowrap;animation:scroll-left 38s linear infinite;}
+  .ticker span{padding:0 26px;font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:0.04em;color:var(--gold);}
+  .ticker span i{color:var(--text-faint);font-style:normal;margin-right:8px;}
+  @keyframes scroll-left{from{transform:translateX(0);}to{transform:translateX(-50%);}}
+
+  /* ---------- HERO ---------- */
+  .hero{position:relative;margin:20px 20px 0;border-radius:var(--radius-lg);overflow:hidden;min-height:520px;
+    display:flex;align-items:flex-end;background:#111;}
+  .hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0.55;}
+  .hero::after{content:"";position:absolute;inset:0;
+    background:linear-gradient(180deg, rgba(10,11,15,0.05) 10%, rgba(10,11,15,0.55) 55%, rgba(10,11,15,0.96) 96%),
+               linear-gradient(90deg, rgba(10,11,15,0.75), transparent 55%);}
+  .hero-inner{position:relative;z-index:2;padding:38px;display:flex;justify-content:space-between;align-items:flex-end;
+    width:100%;gap:24px;flex-wrap:wrap;}
+  .hero-text{max-width:640px;}
+  .eyebrow{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--gold);letter-spacing:0.12em;text-transform:uppercase;margin-bottom:10px;display:block;}
+  .hero-title{font-size:clamp(38px,6vw,64px);line-height:0.95;margin:0 0 14px;}
+  .hero-meta{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:18px;}
+  .badge{
+    padding:5px 12px;border-radius:100px;font-size:12px;font-weight:600;
+    background:var(--glass);border:1px solid var(--glass-border);backdrop-filter:blur(6px);
+  }
+  .badge.gold{background:rgba(245,168,60,0.16);border-color:rgba(245,168,60,0.4);color:var(--gold);}
+  .badge.violet{background:rgba(139,107,242,0.16);border-color:rgba(139,107,242,0.4);color:#c3b3ff;}
+  .badge.cyan{background:rgba(47,216,216,0.14);border-color:rgba(47,216,216,0.4);color:var(--cyan);}
+  .hero-syn{color:var(--text-dim);font-size:14.5px;line-height:1.6;margin-bottom:22px;max-width:520px;}
+  .hero-actions{display:flex;gap:12px;flex-wrap:wrap;}
+
+  .btn{
+    padding:12px 20px;border-radius:100px;font-size:14px;font-weight:600;cursor:pointer;border:none;
+    display:inline-flex;align-items:center;gap:8px;transition:transform .15s ease, box-shadow .15s ease;
+  }
+  .btn:active{transform:scale(0.97);}
+  .btn-primary{background:var(--gold);color:#1a1204;box-shadow:0 6px 24px -6px rgba(245,168,60,0.55);}
+  .btn-primary:hover{box-shadow:0 8px 30px -4px rgba(245,168,60,0.7);}
+  .btn-glass{background:var(--glass);color:var(--text);border:1px solid var(--glass-border);backdrop-filter:blur(8px);}
+  .btn-glass:hover{background:var(--glass-hover);}
+  .btn-sm{padding:8px 14px;font-size:12.5px;}
+
+  /* countdown — film countdown-leader styling */
+  .countdown{display:flex;gap:10px;}
+  .cd-cell{
+    width:64px;height:64px;border-radius:50%;
+    background:var(--glass);border:1.5px solid var(--glass-border);
+    display:flex;flex-direction:column;align-items:center;justify-content:center;
+    backdrop-filter:blur(10px);
+  }
+  .cd-cell b{font-family:'JetBrains Mono',monospace;font-size:19px;color:var(--gold);}
+  .cd-cell span{font-size:9px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.06em;}
+  .countdown-wrap{margin-bottom:20px;}
+  .countdown-label{font-size:11px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.1em;margin-bottom:8px;}
+
+  /* ---------- SEARCH + FILTERS ---------- */
+  .toolbar{margin:34px 20px 0;display:flex;flex-direction:column;gap:14px;}
+  .search-row{display:flex;gap:10px;flex-wrap:wrap;}
+  .search-box{
+    flex:1;min-width:220px;display:flex;align-items:center;gap:10px;
+    background:var(--glass);border:1px solid var(--glass-border);border-radius:100px;padding:12px 18px;
+    backdrop-filter:blur(10px);
+  }
+  .search-box input{background:none;border:none;outline:none;color:var(--text);font-size:14px;width:100%;font-family:'Inter',sans-serif;}
+  .search-box input::placeholder{color:var(--text-faint);}
+  .filter-pills{display:flex;gap:8px;flex-wrap:wrap;}
+  .pill{
+    padding:8px 15px;border-radius:100px;font-size:12.5px;font-weight:500;cursor:pointer;
+    background:var(--glass);border:1px solid var(--glass-border);color:var(--text-dim);
+    transition:all .15s ease;
+  }
+  .pill:hover{color:var(--text);}
+  .pill.active{background:var(--gold);color:#1a1204;border-color:var(--gold);font-weight:700;}
+  .filter-group{display:flex;gap:8px;flex-wrap:wrap;align-items:center;}
+  .filter-group .glabel{font-size:11px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.08em;margin-right:4px;}
+
+  /* ---------- SHELVES ---------- */
+  .shelf{margin:40px 0 0;}
+  .shelf-head{display:flex;align-items:baseline;justify-content:space-between;padding:0 20px;margin-bottom:14px;}
+  .shelf-title{font-size:24px;display:flex;align-items:center;gap:10px;}
+  .shelf-count{font-size:12px;color:var(--text-faint);font-family:'JetBrains Mono',monospace;}
+  .shelf-scroll{display:flex;gap:16px;overflow-x:auto;padding:4px 20px 18px;scroll-snap-type:x proximity;}
+  .shelf-scroll::-webkit-scrollbar{height:6px;}
+  .shelf-scroll::-webkit-scrollbar-thumb{background:var(--glass-border);border-radius:10px;}
+  .empty-shelf{padding:24px 20px;color:var(--text-faint);font-size:13px;background:var(--glass);border:1px dashed var(--glass-border);border-radius:var(--radius-md);margin:0 20px;}
+
+  /* ---------- CARD ---------- */
+  .card{
+    flex:0 0 190px;scroll-snap-align:start;cursor:pointer;
+    background:var(--glass);border:1px solid var(--glass-border);border-radius:var(--radius-md);
+    overflow:hidden;transition:transform .18s ease, border-color .18s ease;
+  }
+  .card:hover{transform:translateY(-5px);border-color:rgba(245,168,60,0.4);}
+  .card-poster{position:relative;width:100%;aspect-ratio:2/3;background:#1a1b22;overflow:hidden;}
+  .card-poster img{width:100%;height:100%;object-fit:cover;display:block;}
+  .card-type{position:absolute;top:8px;left:8px;font-size:9.5px;font-weight:700;padding:3px 8px;border-radius:100px;
+    background:rgba(10,11,15,0.75);backdrop-filter:blur(6px);text-transform:uppercase;letter-spacing:0.05em;}
+  .card-type.movie{color:var(--gold);}
+  .card-type.series{color:var(--violet);}
+  .card-cd{position:absolute;bottom:8px;right:8px;font-family:'JetBrains Mono',monospace;font-size:10px;
+    background:rgba(10,11,15,0.8);padding:3px 7px;border-radius:6px;color:var(--cyan);}
+  .card-body{padding:12px 12px 14px;}
+  .card-title{font-size:14px;font-weight:700;margin:0 0 6px;line-height:1.25;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:36px;}
+  .card-date{font-size:11.5px;color:var(--text-dim);font-family:'JetBrains Mono',monospace;margin-bottom:8px;}
+  .card-tags{display:flex;gap:5px;flex-wrap:wrap;}
+  .tag{font-size:9.5px;padding:2.5px 7px;border-radius:100px;background:rgba(255,255,255,0.06);color:var(--text-faint);}
+
+  /* ---------- SECTION HEADERS FOR INDUSTRY BLOCKS ---------- */
+  .section-divider{margin:56px 20px 0;padding-top:30px;border-top:1px solid var(--glass-border);}
+
+  /* ---------- MODAL ---------- */
+  .modal-backdrop{
+    position:fixed;inset:0;background:rgba(6,6,9,0.78);backdrop-filter:blur(6px);
+    display:none;align-items:flex-start;justify-content:center;z-index:100;padding:30px 16px;overflow-y:auto;
+  }
+  .modal-backdrop.open{display:flex;}
+  .modal{
+    width:100%;max-width:720px;background:var(--bg-raised);border:1px solid var(--glass-border);
+    border-radius:var(--radius-lg);overflow:hidden;margin-top:20px;
+  }
+  .modal-hero{position:relative;height:280px;background:#111;}
+  .modal-hero img{width:100%;height:100%;object-fit:cover;opacity:0.65;}
+  .modal-hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 40%,var(--bg-raised) 96%);}
+  .modal-close{position:absolute;top:16px;right:16px;z-index:3;width:34px;height:34px;border-radius:50%;
+    background:rgba(10,11,15,0.7);border:1px solid var(--glass-border);color:var(--text);cursor:pointer;font-size:16px;}
+  .modal-body{padding:0 30px 30px;margin-top:-70px;position:relative;z-index:2;}
+  .modal-title{font-size:38px;margin:0 0 8px;}
+  .modal-syn{color:var(--text-dim);font-size:14px;line-height:1.7;margin:18px 0;}
+  .modal-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:14px;margin:22px 0;}
+  .modal-field span{display:block;font-size:10.5px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:4px;}
+  .modal-field b{font-size:13.5px;font-weight:600;}
+  .modal-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px;}
+
+  footer{margin:70px 20px 30px;padding-top:30px;border-top:1px solid var(--glass-border);
+    display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px;color:var(--text-faint);font-size:12.5px;}
+
+  /* ---------- ACCOUNT / PREFERENCES PANEL ---------- */
+  .acct-modal{width:100%;max-width:460px;background:var(--bg-raised);border:1px solid var(--glass-border);
+    border-radius:var(--radius-lg);padding:26px;margin-top:60px;}
+  .acct-tabs{display:flex;gap:6px;margin-bottom:20px;border-bottom:1px solid var(--glass-border);padding-bottom:12px;}
+  .acct-tab{padding:7px 14px;border-radius:100px;font-size:12.5px;font-weight:600;cursor:pointer;color:var(--text-dim);}
+  .acct-tab.active{background:var(--glass);color:var(--gold);border:1px solid var(--glass-border);}
+  .field{margin-bottom:14px;}
+  .field label{display:block;font-size:11px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:6px;}
+  .field input[type=text],.field input[type=email],.field input[type=number]{
+    width:100%;padding:11px 14px;border-radius:var(--radius-sm);background:var(--glass);
+    border:1px solid var(--glass-border);color:var(--text);font-size:14px;font-family:'Inter',sans-serif;outline:none;}
+  .toggle-row{display:flex;align-items:center;justify-content:space-between;padding:10px 0;
+    border-bottom:1px solid rgba(255,255,255,0.05);}
+  .toggle-row span{font-size:13px;}
+  .toggle{width:40px;height:22px;border-radius:100px;background:var(--glass);border:1px solid var(--glass-border);
+    position:relative;cursor:pointer;flex-shrink:0;}
+  .toggle::after{content:"";position:absolute;top:2px;left:2px;width:16px;height:16px;border-radius:50%;
+    background:var(--text-faint);transition:all .15s ease;}
+  .toggle.on{background:rgba(245,168,60,0.25);border-color:var(--gold);}
+  .toggle.on::after{left:20px;background:var(--gold);}
+  .chip-select{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px;}
+  .muted-note{font-size:11.5px;color:var(--text-faint);line-height:1.6;margin-top:14px;}
+
+  @media (max-width:640px){
+    header{padding:14px 16px;}
+    nav.links{display:none;}
+    .hero{margin:14px 14px 0;min-height:460px;}
+    .hero-inner{padding:22px;}
+    .cd-cell{width:52px;height:52px;}
+    .cd-cell b{font-size:15px;}
+    .toolbar,.shelf-head,.shelf-scroll,.section-divider,footer{margin-left:14px;margin-right:14px;}
+    .shelf-scroll{padding-left:0;padding-right:0;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo"><span class="dot"></span><b>RELEASE RADAR</b></div>
+  <nav class="links">
+    <a href="#today">Today</a>
+    <a href="#week">This Week</a>
+    <a href="#hollywood">Hollywood</a>
+    <a href="#bollywood">Bollywood</a>
+    <a href="#bangladesh">Bangladesh</a>
+    <a href="#ott">OTT</a>
+  </nav>
+  <div class="nav-actions">
+    <div class="icon-btn" id="watchlistNavBtn" title="Watchlist">★</div>
+    <div class="icon-btn" id="accountNavBtn" title="Account">◐</div>
+  </div>
+</header>
+
+<div class="ticker-wrap"><div class="ticker" id="tickerTrack"></div></div>
+
+<!-- HERO -->
+<section class="hero" id="heroSection">
+  <img id="heroImg" src="" alt="">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <span class="eyebrow">Featured Upcoming Release</span>
+      <h1 class="hero-title display" id="heroTitle">Loading…</h1>
+      <div class="hero-meta" id="heroMeta"></div>
+      <div class="countdown-wrap">
+        <div class="countdown-label">Countdown to release</div>
+        <div class="countdown" id="heroCountdown"></div>
+      </div>
+      <p class="hero-syn" id="heroSyn"></p>
+      <div class="hero-actions">
+        <button class="btn btn-primary" id="heroDetailsBtn">View Details</button>
+        <button class="btn btn-glass" id="heroCalBtn">+ Add to Calendar</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SEARCH + FILTERS -->
+<div class="toolbar">
+  <div class="search-row">
+    <div class="search-box">
+      <span>⌕</span>
+      <input type="text" id="searchInput" placeholder="Search title, platform, genre, industry, language…">
+    </div>
+  </div>
+  <div class="filter-group">
+    <span class="glabel">Industry</span>
+    <div class="filter-pills" id="industryPills"></div>
+  </div>
+  <div class="filter-group">
+    <span class="glabel">Type</span>
+    <div class="filter-pills" id="typePills">
+      <div class="pill active" data-type="all">All</div>
+      <div class="pill" data-type="movie">Movies</div>
+      <div class="pill" data-type="series">Series</div>
+    </div>
+  </div>
+  <div class="filter-group">
+    <span class="glabel">Platform</span>
+    <div class="filter-pills" id="platformPills"></div>
+  </div>
+</div>
+
+<!-- Filtered search results (shown only while searching/filtering) -->
+<div class="shelf" id="resultsShelf" style="display:none;">
+  <div class="shelf-head"><div class="shelf-title">Results</div><div class="shelf-count mono" id="resultsCount"></div></div>
+  <div class="shelf-scroll" id="resultsScroll"></div>
+</div>
+
+<div id="shelvesContainer">
+  <!-- populated by JS: Today, This Week, This Month, Hollywood, Bollywood, Bangladesh, OTT, Most Anticipated, Newly Announced, Recently Updated -->
+</div>
+
+<footer>
+  <div>Release Radar — release dates sourced from TMDB &amp; verified manual entries. Unconfirmed dates are always labeled.</div>
+  <div id="lastSync" class="mono">Sync status loading…</div>
+</footer>
+
+<!-- MODAL -->
+<div class="modal-backdrop" id="modalBackdrop">
+  <div class="modal">
+    <div class="modal-hero">
+      <img id="modalImg" src="" alt="">
+      <button class="modal-close" id="modalCloseBtn">✕</button>
+    </div>
+    <div class="modal-body">
+      <span class="badge gold" id="modalIndustry" style="margin-bottom:12px;display:inline-block;"></span>
+      <h2 class="modal-title display" id="modalTitle"></h2>
+      <div class="hero-meta" id="modalMeta"></div>
+      <div class="countdown-wrap">
+        <div class="countdown-label" id="modalCdLabel">Countdown to release</div>
+        <div class="countdown" id="modalCountdown"></div>
+      </div>
+      <p class="modal-syn" id="modalSyn"></p>
+      <div class="modal-grid" id="modalGrid"></div>
+      <div class="modal-actions">
+        <button class="btn btn-primary" id="modalCalBtn">+ Add to Google Calendar</button>
+        <button class="btn btn-glass" id="modalWatchBtn">☆ Add to Watchlist</button>
+        <button class="btn btn-glass" id="modalShareBtn">↗ Share</button>
+        <a class="btn btn-glass" id="modalTrailerBtn" href="#" target="_blank" style="display:none;">▶ Watch Trailer</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ACCOUNT / SIGN-IN / PREFERENCES -->
+<div class="modal-backdrop" id="accountBackdrop">
+  <div class="acct-modal">
+    <button class="modal-close" id="accountCloseBtn" style="position:static;float:right;">✕</button>
+    <div id="acctSignedOut">
+      <h2 class="display" style="font-size:28px;margin:0 0 6px;">Sign in</h2>
+      <p class="muted-note" style="margin:0 0 18px;">Get a magic link by email — no password to remember. Signing in lets your watchlist and notification preferences follow you across devices.</p>
+      <div class="field">
+        <label>Email address</label>
+        <input type="email" id="acctEmailInput" placeholder="you@example.com">
+      </div>
+      <button class="btn btn-primary" id="acctSendLinkBtn" style="width:100%;justify-content:center;">Send magic link</button>
+      <p class="muted-note" id="acctStatusMsg"></p>
+    </div>
+
+    <div id="acctSignedIn" style="display:none;">
+      <div class="acct-tabs">
+        <div class="acct-tab active" data-tab="prefs">Preferences</div>
+        <div class="acct-tab" data-tab="account">Account</div>
+      </div>
+
+      <div id="tabPrefs">
+        <div class="field">
+          <label>Favorite industries</label>
+          <div class="chip-select" id="prefIndustryChips"></div>
+        </div>
+        <div class="field">
+          <label>Favorite platforms</label>
+          <div class="chip-select" id="prefPlatformChips"></div>
+        </div>
+        <div class="toggle-row"><span>New release announcements</span><div class="toggle" id="toggleNewReleases"></div></div>
+        <div class="toggle-row"><span>Release date changes</span><div class="toggle" id="toggleDateChanges"></div></div>
+        <div class="toggle-row"><span>Weekly digest</span><div class="toggle" id="toggleWeeklyDigest"></div></div>
+        <div class="field" style="margin-top:14px;">
+          <label>Remind me before release (hours)</label>
+          <input type="number" id="prefReminderHours" min="0" max="168" value="24">
+        </div>
+        <button class="btn btn-primary" id="savePrefsBtn" style="width:100%;justify-content:center;margin-top:10px;">Save preferences</button>
+      </div>
+
+      <div id="tabAccount" style="display:none;">
+        <div class="field"><label>Signed in as</label><b id="acctEmailDisplay"></b></div>
+        <button class="btn btn-glass" id="signOutBtn" style="width:100%;justify-content:center;">Sign out</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ============================================================
+   Release Radar — client-side app
+   Loads catalog.json (written by discover.py via GitHub Actions)
+   and changelog.json (written by monitor.py), renders everything.
+   No backend server required — this is a fully static site.
+============================================================ */
+
+const OPTIONS = {
+  industries: {
+    hollywood:{label:"Hollywood"}, bollywood:{label:"Bollywood"},
+    indian_regional:{label:"Indian Regional"}, bangladesh:{label:"Bangladesh"},
+    international:{label:"International"}
+  },
+  platforms: {
+    netflix:{label:"Netflix"}, prime_video:{label:"Prime Video"}, disney_plus:{label:"Disney+"},
+    apple_tv:{label:"Apple TV+"}, hbo_max:{label:"HBO / Max"}, hulu:{label:"Hulu"},
+    paramount_plus:{label:"Paramount+"}, peacock:{label:"Peacock"}, hoichoi:{label:"Hoichoi"},
+    chorki:{label:"Chorki"}, binge:{label:"Binge"}, theatrical:{label:"Theatrical"}, ott:{label:"Streaming"}
+  }
+};
+
+// Sample preview cards shown ONLY if catalog.json is still empty (before the first
+// GitHub Actions sync has run). Clearly not real data — never presented as confirmed.
+const SAMPLE_ITEMS = [
+  {id:"sample-1", type:"movie", industry:"hollywood", title:"[Sample] Preview Title", release_date: futureDate(4),
+   release_time:"", genres:["Sci-Fi"], synopsis:"This is placeholder preview data so you can see the layout before your first data sync runs.",
+   poster_url:"", backdrop_url:"", platform:"theatrical", source:"SAMPLE — not real"},
+  {id:"sample-2", type:"series", industry:"bollywood", title:"[Sample] Preview Series", release_date: futureDate(9),
+   release_time:"", genres:["Drama"], synopsis:"Placeholder preview data.", poster_url:"", backdrop_url:"", platform:"ott", source:"SAMPLE — not real"},
+  {id:"sample-3", type:"movie", industry:"bangladesh", title:"[Sample] Preview Film", release_date: futureDate(20),
+   release_time:"", genres:["Drama"], synopsis:"Placeholder preview data.", poster_url:"", backdrop_url:"", platform:"hoichoi", source:"SAMPLE — not real"},
+];
+function futureDate(days){ const d=new Date(); d.setDate(d.getDate()+days); return d.toISOString().slice(0,10); }
+
+let CATALOG = [];
+let CHANGELOG = [];
+let activeFilters = { industry:"all", type:"all", platform:"all", query:"" };
+let usingSampleData = false;
+
+/* ============================================================
+   Accounts, preferences & synced watchlist — powered by Supabase.
+   If config.js hasn't been filled in yet, this whole layer quietly
+   no-ops and the site behaves exactly like Phase 1 (local watchlist
+   only, no sign-in). Nothing breaks either way.
+============================================================ */
+const supaReady = typeof window.SUPABASE_URL === "string" && window.SUPABASE_URL && !window.SUPABASE_URL.startsWith("YOUR_");
+const supa = supaReady ? window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_ANON_KEY) : null;
+let currentUser = null;
+let currentPrefs = null;
+
+async function initAuth(){
+  if(!supa){
+    document.getElementById('accountNavBtn').title = "Sign-in not set up yet — see README";
+    return;
+  }
+  const { data:{ session } } = await supa.auth.getSession();
+  currentUser = session ? session.user : null;
+  supa.auth.onAuthStateChange((_event, session)=>{
+    currentUser = session ? session.user : null;
+    refreshAccountPanel();
+  });
+  await refreshAccountPanel();
+}
+
+async function refreshAccountPanel(){
+  const nav = document.getElementById('accountNavBtn');
+  if(currentUser){
+    nav.textContent = "●";
+    nav.style.color = "var(--gold)";
+    document.getElementById('acctSignedOut').style.display = "none";
+    document.getElementById('acctSignedIn').style.display = "";
+    document.getElementById('acctEmailDisplay').textContent = currentUser.email;
+    await loadPrefs();
+    await syncWatchlistFromCloud();
+  } else {
+    nav.textContent = "◐";
+    nav.style.color = "";
+    document.getElementById('acctSignedOut').style.display = "";
+    document.getElementById('acctSignedIn').style.display = "none";
+  }
+}
+
+async function loadPrefs(){
+  const { data } = await supa.from('notification_preferences').select('*').eq('user_id', currentUser.id).maybeSingle();
+  currentPrefs = data || {
+    favorite_industries:[], favorite_platforms:[], new_releases:true,
+    date_changes:true, weekly_digest:true, reminder_hours_before:24
+  };
+  renderPrefChips('prefIndustryChips', OPTIONS.industries, currentPrefs.favorite_industries);
+  renderPrefChips('prefPlatformChips', OPTIONS.platforms, currentPrefs.favorite_platforms);
+  setToggle('toggleNewReleases', currentPrefs.new_releases);
+  setToggle('toggleDateChanges', currentPrefs.date_changes);
+  setToggle('toggleWeeklyDigest', currentPrefs.weekly_digest);
+  document.getElementById('prefReminderHours').value = currentPrefs.reminder_hours_before ?? 24;
+}
+function renderPrefChips(elId, dict, selected){
+  const el = document.getElementById(elId);
+  el.innerHTML = Object.entries(dict).map(([k,v])=>
+    `<div class="pill ${selected?.includes(k)?'active':''}" data-key="${k}">${v.label}</div>`).join("");
+  el.querySelectorAll('.pill').forEach(p=>p.addEventListener('click', ()=> p.classList.toggle('active')));
+}
+function setToggle(id, on){ document.getElementById(id).classList.toggle('on', !!on); }
+document.querySelectorAll('.toggle').forEach(t=> t.addEventListener?.('click', ()=> t.classList.toggle('on')));
+
+document.getElementById('savePrefsBtn').addEventListener('click', async ()=>{
+  const favInd = [...document.querySelectorAll('#prefIndustryChips .pill.active')].map(p=>p.dataset.key);
+  const favPlat = [...document.querySelectorAll('#prefPlatformChips .pill.active')].map(p=>p.dataset.key);
+  const payload = {
+    user_id: currentUser.id,
+    email: currentUser.email,
+    favorite_industries: favInd,
+    favorite_platforms: favPlat,
+    new_releases: document.getElementById('toggleNewReleases').classList.contains('on'),
+    date_changes: document.getElementById('toggleDateChanges').classList.contains('on'),
+    weekly_digest: document.getElementById('toggleWeeklyDigest').classList.contains('on'),
+    reminder_hours_before: Number(document.getElementById('prefReminderHours').value) || 24,
+    updated_at: new Date().toISOString()
+  };
+  const { error } = await supa.from('notification_preferences').upsert(payload);
+  document.getElementById('acctStatusMsg').textContent = error ? "Couldn't save — try again." : "";
+  if(!error){ alert('Preferences saved.'); }
+});
+
+document.getElementById('acctSendLinkBtn').addEventListener('click', async ()=>{
+  const email = document.getElementById('acctEmailInput').value.trim();
+  const statusEl = document.getElementById('acctStatusMsg');
+  if(!email){ statusEl.textContent = "Enter an email address first."; return; }
+  statusEl.textContent = "Sending…";
+  const { error } = await supa.auth.signInWithOtp({ email, options:{ emailRedirectTo: location.href } });
+  statusEl.textContent = error ? error.message : "Check your email for the sign-in link.";
+});
+
+document.getElementById('signOutBtn').addEventListener('click', async ()=>{
+  await supa.auth.signOut();
+  document.getElementById('accountBackdrop').classList.remove('open');
+});
+
+document.querySelectorAll('.acct-tab').forEach(tab=>{
+  tab.addEventListener('click', ()=>{
+    document.querySelectorAll('.acct-tab').forEach(t=>t.classList.remove('active'));
+    tab.classList.add('active');
+    document.getElementById('tabPrefs').style.display = tab.dataset.tab==='prefs' ? "" : "none";
+    document.getElementById('tabAccount').style.display = tab.dataset.tab==='account' ? "" : "none";
+  });
+});
+
+document.getElementById('accountNavBtn').addEventListener('click', ()=>{
+  if(!supa){ alert('Sign-in isn\'t connected yet. See README.md → "Step 9 — Turn on accounts" to enable it (optional).'); return; }
+  document.getElementById('accountBackdrop').classList.add('open');
+});
+document.getElementById('accountCloseBtn').addEventListener('click', ()=> document.getElementById('accountBackdrop').classList.remove('open'));
+document.getElementById('accountBackdrop').addEventListener('click', (e)=>{
+  if(e.target.id==='accountBackdrop') e.currentTarget.classList.remove('open');
+});
+
+/* ---------- Cloud-synced watchlist (falls back to localStorage when signed out / not configured) ---------- */
+async function syncWatchlistFromCloud(){
+  if(!supa || !currentUser) return;
+  const { data } = await supa.from('watchlist').select('item_id').eq('user_id', currentUser.id);
+  if(data) localStorage.setItem('rr_watchlist', JSON.stringify(data.map(r=>r.item_id)));
+}
+async function cloudAddToWatchlist(item){
+  if(!supa || !currentUser) return;
+  await supa.from('watchlist').insert({ user_id: currentUser.id, item_id: item.id, item_title: item.title });
+}
+async function cloudRemoveFromWatchlist(itemId){
+  if(!supa || !currentUser) return;
+  await supa.from('watchlist').delete().eq('user_id', currentUser.id).eq('item_id', itemId);
+}
+
+/* ---------- Admin-added titles, fetched live from Supabase (Phase 2) ---------- */
+async function loadManualTitlesFromCloud(){
+  if(!supa) return [];
+  const { data, error } = await supa.from('manual_titles').select('*');
+  if(error || !data) return [];
+  return data.map(row=>({ ...row, source: row.source || "Manually added (admin)" }));
+}
+
+async function loadData(){
+  try{
+    const res = await fetch('./catalog.json', {cache:"no-store"});
+    const data = await res.json();
+    CATALOG = data.items || [];
+    document.getElementById('lastSync').textContent = data.generated_at
+      ? `Last synced: ${new Date(data.generated_at).toLocaleString()}`
+      : "Not synced yet";
+  }catch(e){ console.warn("catalog.json not reachable yet", e); }
+
+  if(CATALOG.length === 0){
+    usingSampleData = true;
+    CATALOG = SAMPLE_ITEMS;
+    document.getElementById('lastSync').textContent = "No data synced yet — showing sample preview cards";
+  }
+
+  try{
+    const res2 = await fetch('./changelog.json', {cache:"no-store"});
+    CHANGELOG = await res2.json();
+  }catch(e){ CHANGELOG = []; }
+
+  const manual = await loadManualTitlesFromCloud();
+  if(manual.length){
+    usingSampleData = false;
+    const existingIds = new Set(CATALOG.map(i=>i.id));
+    manual.forEach(m=>{ if(!existingIds.has(m.id)) CATALOG.push(m); });
+  }
+
+  render();
+}
+
+function daysUntil(dateStr){
+  const target = new Date(dateStr + "T00:00:00");
+  const now = new Date();
+  return Math.ceil((target - now) / 86400000);
+}
+
+function withinDays(item, n){
+  const d = daysUntil(item.release_date);
+  return d >= 0 && d <= n;
+}
+
+function industryLabel(key){ return (OPTIONS.industries[key] || {}).label || key; }
+function platformLabel(key){ return (OPTIONS.platforms[key] || {}).label || key; }
+
+function statusBadge(item){
+  const d = daysUntil(item.release_date);
+  if(d === 0) return {text:"Releasing Today", cls:"cyan"};
+  if(d < 0) return {text:"Released", cls:""};
+  if(item.status === "date_tbd" || !item.release_date) return {text:"Date TBD", cls:""};
+  return {text:"Upcoming", cls:"gold"};
+}
+
+/* ---------- Google Calendar link (no OAuth needed — opens Google's own add-event page) ---------- */
+function gcalLink(item){
+  const clean = item.release_date.replace(/-/g,"");
+  let dates;
+  if(item.release_time){
+    const start = item.release_date.replace(/-/g,"") + "T" + item.release_time.replace(/:/g,"") + "00";
+    const endDate = new Date(item.release_date + "T" + item.release_time);
+    endDate.setHours(endDate.getHours()+2);
+    const end = endDate.toISOString().replace(/[-:]/g,"").split(".")[0];
+    dates = `${start}/${end}`;
+  } else {
+    const next = new Date(item.release_date); next.setDate(next.getDate()+1);
+    const nextStr = next.toISOString().slice(0,10).replace(/-/g,"");
+    dates = `${clean}/${nextStr}`;
+  }
+  const details = encodeURIComponent(
+    `${item.synopsis || ""}\n\nPlatform: ${platformLabel(item.platform)}\n` +
+    (item.trailer_url ? `Trailer: ${item.trailer_url}\n` : "") +
+    `Tracked on Release Radar.`
+  );
+  const text = encodeURIComponent(`${item.title} — Release`);
+  return `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${text}&dates=${dates}&details=${details}`;
+}
+
+/* ---------- Countdown rendering ---------- */
+function countdownParts(dateStr, timeStr){
+  const target = new Date(dateStr + "T" + (timeStr || "00:00") + ":00");
+  let diff = target - new Date();
+  if(diff < 0) diff = 0;
+  const d = Math.floor(diff/86400000);
+  const h = Math.floor(diff%86400000/3600000);
+  const m = Math.floor(diff%3600000/60000);
+  const s = Math.floor(diff%60000/1000);
+  return {d,h,m,s};
+}
+function renderCountdown(el, dateStr, timeStr){
+  function tick(){
+    const p = countdownParts(dateStr, timeStr);
+    el.innerHTML = `
+      <div class="cd-cell"><b>${p.d}</b><span>days</span></div>
+      <div class="cd-cell"><b>${String(p.h).padStart(2,'0')}</b><span>hrs</span></div>
+      <div class="cd-cell"><b>${String(p.m).padStart(2,'0')}</b><span>min</span></div>
+      <div class="cd-cell"><b>${String(p.s).padStart(2,'0')}</b><span>sec</span></div>`;
+  }
+  tick();
+  return setInterval(tick, 1000);
+}
+
+/* ---------- Card ---------- */
+function cardHTML(item){
+  const sb = statusBadge(item);
+  const poster = item.poster_url || `https://placehold.co/300x450/121319/6a6875?text=${encodeURIComponent(item.title.slice(0,18))}`;
+  const d = daysUntil(item.release_date);
+  return `
+    <div class="card" data-id="${item.id}">
+      <div class="card-poster">
+        <img src="${poster}" loading="lazy" alt="${item.title}">
+        <div class="card-type ${item.type}">${item.type}</div>
+        <div class="card-cd">${d>=0 ? d+"d" : "released"}</div>
+      </div>
+      <div class="card-body">
+        <p class="card-title">${item.title}</p>
+        <div class="card-date">${item.release_date}${item.release_time ? " · "+item.release_time : ""}</div>
+        <div class="card-tags">
+          <span class="tag">${industryLabel(item.industry)}</span>
+          <span class="tag">${platformLabel(item.platform)}</span>
+        </div>
+      </div>
+    </div>`;
+}
+
+function attachCardHandlers(scope){
+  scope.querySelectorAll('.card').forEach(card=>{
+    card.addEventListener('click', ()=> openModal(card.dataset.id));
+  });
+}
+
+/* ---------- Shelves ---------- */
+function shelf(id, title, items){
+  if(items.length === 0){
+    return `<div class="shelf" id="${id}"><div class="shelf-head"><div class="shelf-title">${title}</div></div>
+      <div class="empty-shelf">Nothing here yet — check back after the next sync, or widen your filters.</div></div>`;
+  }
+  return `<div class="shelf" id="${id}">
+    <div class="shelf-head"><div class="shelf-title">${title}</div><div class="shelf-count mono">${items.length} title${items.length===1?'':'s'}</div></div>
+    <div class="shelf-scroll">${items.map(cardHTML).join("")}</div>
+  </div>`;
+}
+
+function recentChangelogIds(days, key){
+  const cutoff = new Date(); cutoff.setDate(cutoff.getDate()-days);
+  const ids = new Set();
+  CHANGELOG.forEach(run=>{
+    if(new Date(run.run_at) < cutoff) return;
+    (run[key]||[]).forEach(x=> ids.add(x.id));
+  });
+  return ids;
+}
+
+function render(){
+  renderTicker();
+  renderHero();
+  renderFilterPills();
+  renderShelves();
+}
+
+function renderTicker(){
+  const upcoming = [...CATALOG].filter(i=>daysUntil(i.release_date)>=0)
+    .sort((a,b)=>a.release_date.localeCompare(b.release_date)).slice(0,12);
+  const items = upcoming.length ? upcoming : CATALOG.slice(0,6);
+  const html = items.map(i=>`<span><i>${i.release_date}</i>${i.title} — ${industryLabel(i.industry)}</span>`).join("");
+  document.getElementById('tickerTrack').innerHTML = html + html; // duplicate for seamless loop
+}
+
+function renderHero(){
+  const upcoming = [...CATALOG].filter(i=>daysUntil(i.release_date)>=0)
+    .sort((a,b)=> (b.popularity||0)-(a.popularity||0));
+  const featured = upcoming[0] || CATALOG[0];
+  if(!featured) return;
+  document.getElementById('heroImg').src = featured.backdrop_url || featured.poster_url || "";
+  document.getElementById('heroTitle').textContent = featured.title;
+  document.getElementById('heroSyn').textContent = featured.synopsis || "No synopsis available yet.";
+  document.getElementById('heroMeta').innerHTML = `
+    <span class="badge gold">${industryLabel(featured.industry)}</span>
+    <span class="badge violet">${platformLabel(featured.platform)}</span>
+    <span class="badge cyan">${featured.release_date}${featured.release_time ? " · "+featured.release_time : " · date only"}</span>`;
+  renderCountdown(document.getElementById('heroCountdown'), featured.release_date, featured.release_time);
+  document.getElementById('heroDetailsBtn').onclick = ()=> openModal(featured.id);
+  document.getElementById('heroCalBtn').onclick = ()=> window.open(gcalLink(featured), '_blank');
+}
+
+function renderFilterPills(){
+  const indEl = document.getElementById('industryPills');
+  const industries = ["all", ...new Set(CATALOG.map(i=>i.industry))];
+  indEl.innerHTML = industries.map(k=>
+    `<div class="pill ${activeFilters.industry===k?'active':''}" data-industry="${k}">${k==='all'?'All':industryLabel(k)}</div>`
+  ).join("");
+  indEl.querySelectorAll('.pill').forEach(p=>p.addEventListener('click',()=>{
+    activeFilters.industry = p.dataset.industry; renderFilterPills(); renderShelves();
+  }));
+
+  document.querySelectorAll('#typePills .pill').forEach(p=>{
+    p.classList.toggle('active', p.dataset.type===activeFilters.type);
+    p.onclick = ()=>{ activeFilters.type = p.dataset.type; renderFilterPills(); renderShelves(); };
+  });
+
+  const platEl = document.getElementById('platformPills');
+  const platforms = ["all", ...new Set(CATALOG.map(i=>i.platform))];
+  platEl.innerHTML = platforms.map(k=>
+    `<div class="pill ${activeFilters.platform===k?'active':''}" data-platform="${k}">${k==='all'?'All':platformLabel(k)}</div>`
+  ).join("");
+  platEl.querySelectorAll('.pill').forEach(p=>p.addEventListener('click',()=>{
+    activeFilters.platform = p.dataset.platform; renderFilterPills(); renderShelves();
+  }));
+}
+
+function matchesFilters(item){
+  if(activeFilters.industry!=="all" && item.industry!==activeFilters.industry) return false;
+  if(activeFilters.type!=="all" && item.type!==activeFilters.type) return false;
+  if(activeFilters.platform!=="all" && item.platform!==activeFilters.platform) return false;
+  if(activeFilters.query){
+    const q = activeFilters.query.toLowerCase();
+    const hay = [item.title, industryLabel(item.industry), platformLabel(item.platform),
+      ...(item.genres||[]), item.language||""].join(" ").toLowerCase();
+    if(!hay.includes(q)) return false;
+  }
+  return true;
+}
+
+function renderShelves(){
+  const anyFilterActive = activeFilters.industry!=="all" || activeFilters.type!=="all" ||
+    activeFilters.platform!=="all" || activeFilters.query;
+
+  const filtered = CATALOG.filter(matchesFilters);
+  const resultsShelf = document.getElementById('resultsShelf');
+  if(anyFilterActive){
+    resultsShelf.style.display = "";
+    document.getElementById('resultsScroll').innerHTML = filtered.length
+      ? filtered.map(cardHTML).join("")
+      : "";
+    document.getElementById('resultsCount').textContent = `${filtered.length} match${filtered.length===1?'':'es'}`;
+    if(filtered.length===0){
+      document.getElementById('resultsScroll').outerHTML =
+        '<div class="empty-shelf" id="resultsScroll">No titles match these filters yet. Try widening your search.</div>';
+    }
+    attachCardHandlers(resultsShelf);
+    document.getElementById('shelvesContainer').style.display = "none";
+    return;
+  } else {
+    resultsShelf.style.display = "none";
+    document.getElementById('shelvesContainer').style.display = "";
+  }
+
+  const sorted = [...CATALOG].filter(i=>daysUntil(i.release_date)>=0).sort((a,b)=>a.release_date.localeCompare(b.release_date));
+  const today = sorted.filter(i=>daysUntil(i.release_date)===0);
+  const thisWeek = sorted.filter(i=>withinDays(i,7));
+  const thisMonth = sorted.filter(i=>withinDays(i,30));
+  const anticipated = [...sorted].sort((a,b)=>(b.popularity||0)-(a.popularity||0)).slice(0,14);
+  const newIds = recentChangelogIds(14, "new_titles");
+  const changedIds = recentChangelogIds(14, "date_changes");
+  const newlyAnnounced = sorted.filter(i=>newIds.has(i.id));
+  const recentlyUpdated = sorted.filter(i=>changedIds.has(i.id));
+
+  const byIndustry = key => sorted.filter(i=>i.industry===key);
+  const byPlatform = key => sorted.filter(i=>i.platform===key);
+
+  let html = "";
+  html += shelf("today","Releasing Today", today);
+  html += shelf("week","This Week", thisWeek);
+  html += shelf("month","This Month", thisMonth);
+  html += `<div class="section-divider"></div>`;
+  html += shelf("hollywood","Hollywood", byIndustry("hollywood"));
+  html += shelf("bollywood","Bollywood", byIndustry("bollywood"));
+  html += shelf("indian_regional","Indian Regional", byIndustry("indian_regional"));
+  html += shelf("bangladesh","Bangladesh", byIndustry("bangladesh"));
+  html += `<div class="section-divider"></div>`;
+  html += `<div class="shelf" id="ott"><div class="shelf-head"><div class="shelf-title">OTT Releases</div></div></div>`;
+  ["netflix","prime_video","disney_plus","apple_tv","hbo_max","hoichoi","chorki"].forEach(p=>{
+    const items = byPlatform(p);
+    if(items.length) html += shelf("ott-"+p, platformLabel(p), items);
+  });
+  html += `<div class="section-divider"></div>`;
+  html += shelf("anticipated","Most Anticipated", anticipated);
+  html += shelf("new","Newly Announced", newlyAnnounced);
+  html += shelf("updated","Recently Updated · Date Changed", recentlyUpdated);
+
+  document.getElementById('shelvesContainer').innerHTML = html;
+  attachCardHandlers(document.getElementById('shelvesContainer'));
+}
+
+document.getElementById('searchInput').addEventListener('input', (e)=>{
+  activeFilters.query = e.target.value.trim();
+  renderShelves();
+});
+
+/* ---------- Modal / details ---------- */
+let modalCdInterval = null;
+function openModal(id){
+  const item = CATALOG.find(i=>i.id===id);
+  if(!item) return;
+  document.getElementById('modalImg').src = item.backdrop_url || item.poster_url || "";
+  document.getElementById('modalIndustry').textContent = industryLabel(item.industry);
+  document.getElementById('modalTitle').textContent = item.title;
+  document.getElementById('modalMeta').innerHTML = `
+    <span class="badge violet">${platformLabel(item.platform)}</span>
+    <span class="badge cyan">${item.type==='movie'?'Movie':'Series'}</span>
+    ${item.source && item.source.includes('SAMPLE') ? '<span class="badge" style="color:var(--danger);border-color:var(--danger)">SAMPLE DATA</span>':''}`;
+  document.getElementById('modalSyn').textContent = item.synopsis || "No synopsis available yet.";
+  document.getElementById('modalGrid').innerHTML = `
+    <div class="modal-field"><span>Release Date</span><b>${item.release_date || "Not announced yet"}</b></div>
+    <div class="modal-field"><span>Release Time</span><b>${item.release_time || "Date only — time not confirmed"}</b></div>
+    <div class="modal-field"><span>Industry</span><b>${industryLabel(item.industry)}</b></div>
+    <div class="modal-field"><span>Platform</span><b>${platformLabel(item.platform)}</b></div>
+    <div class="modal-field"><span>Genres</span><b>${(item.genres||[]).join(", ") || "—"}</b></div>
+    <div class="modal-field"><span>Language</span><b>${item.language || "—"}</b></div>
+    <div class="modal-field"><span>Source</span><b>${item.source || "TMDB"}</b></div>`;
+  if(modalCdInterval) clearInterval(modalCdInterval);
+  modalCdInterval = renderCountdown(document.getElementById('modalCountdown'), item.release_date, item.release_time);
+
+  document.getElementById('modalCalBtn').onclick = ()=> window.open(gcalLink(item), '_blank');
+  document.getElementById('modalShareBtn').onclick = ()=>{
+    const url = location.href.split('#')[0] + '#' + item.id;
+    if(navigator.share){ navigator.share({title:item.title, url}); }
+    else { navigator.clipboard.writeText(url); alert('Link copied to clipboard'); }
+  };
+  const trailerBtn = document.getElementById('modalTrailerBtn');
+  if(item.trailer_url){ trailerBtn.style.display=""; trailerBtn.href = item.trailer_url; }
+  else { trailerBtn.style.display="none"; }
+
+  const watchBtn = document.getElementById('modalWatchBtn');
+  const list = getWatchlist();
+  watchBtn.textContent = list.includes(item.id) ? "★ In Watchlist" : "☆ Add to Watchlist";
+  watchBtn.onclick = ()=>{
+    toggleWatchlist(item.id);
+    watchBtn.textContent = getWatchlist().includes(item.id) ? "★ In Watchlist" : "☆ Add to Watchlist";
+  };
+
+  document.getElementById('modalBackdrop').classList.add('open');
+}
+document.getElementById('modalCloseBtn').onclick = ()=> document.getElementById('modalBackdrop').classList.remove('open');
+document.getElementById('modalBackdrop').addEventListener('click', (e)=>{
+  if(e.target.id==='modalBackdrop') e.currentTarget.classList.remove('open');
+});
+
+/* ---------- Watchlist (stored locally in this browser) ---------- */
+function getWatchlist(){ return JSON.parse(localStorage.getItem('rr_watchlist') || '[]'); }
+function toggleWatchlist(id){
+  let list = getWatchlist();
+  const item = CATALOG.find(i=>i.id===id);
+  if(list.includes(id)){
+    list = list.filter(x=>x!==id);
+    cloudRemoveFromWatchlist(id);
+  } else {
+    list = [...list, id];
+    if(item) cloudAddToWatchlist(item);
+  }
+  localStorage.setItem('rr_watchlist', JSON.stringify(list));
+}
+document.getElementById('watchlistNavBtn').addEventListener('click', ()=>{
+  const list = getWatchlist();
+  if(list.length===0){ alert('Your watchlist is empty. Open any title and tap "Add to Watchlist".'); return; }
+  const titles = list.map(id => CATALOG.find(i=>i.id===id)?.title).filter(Boolean);
+  alert('Your watchlist:\n\n' + titles.join('\n'));
+});
+
+loadData();
+initAuth();
+</script>
+</body>
+</html>

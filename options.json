@@ -1,0 +1,43 @@
+{
+  "site": {
+    "name": "Release Radar",
+    "timezone_default": "Asia/Dhaka",
+    "lookahead_days": 120
+  },
+  "industries": {
+    "hollywood": { "label": "Hollywood", "tmdb_region": "US", "tmdb_language": "en" },
+    "bollywood": { "label": "Bollywood", "tmdb_region": "IN", "tmdb_language": "hi" },
+    "indian_regional": { "label": "Indian Regional", "tmdb_region": "IN", "tmdb_languages": ["ta", "te", "ml", "kn"] },
+    "bangladesh": { "label": "Bangladesh", "tmdb_region": "BD", "tmdb_language": "bn" },
+    "international": { "label": "International", "tmdb_region": null, "tmdb_language": null }
+  },
+  "platforms": {
+    "netflix": { "label": "Netflix", "tmdb_provider_id": 8, "color": "#e50914" },
+    "prime_video": { "label": "Prime Video", "tmdb_provider_id": 9, "color": "#00a8e1" },
+    "disney_plus": { "label": "Disney+", "tmdb_provider_id": 337, "color": "#113ccf" },
+    "apple_tv": { "label": "Apple TV+", "tmdb_provider_id": 350, "color": "#a2aaad" },
+    "hbo_max": { "label": "HBO / Max", "tmdb_provider_id": 1899, "color": "#9b30ff" },
+    "hulu": { "label": "Hulu", "tmdb_provider_id": 15, "color": "#1ce783" },
+    "paramount_plus": { "label": "Paramount+", "tmdb_provider_id": 531, "color": "#0064ff" },
+    "peacock": { "label": "Peacock", "tmdb_provider_id": 386, "color": "#000000" },
+    "hoichoi": { "label": "Hoichoi", "tmdb_provider_id": null, "color": "#f6b93b", "note": "Not in TMDB — add manually in manual_additions.json" },
+    "chorki": { "label": "Chorki", "tmdb_provider_id": null, "color": "#ff5e5e", "note": "Not in TMDB — add manually in manual_additions.json" },
+    "binge": { "label": "Binge", "tmdb_provider_id": 385, "color": "#ff2b4e" },
+    "theatrical": { "label": "Theatrical", "tmdb_provider_id": null, "color": "#f5a623" }
+  },
+  "genres_movie": {
+    "28": "Action", "12": "Adventure", "35": "Comedy", "18": "Drama", "53": "Thriller",
+    "27": "Horror", "10749": "Romance", "878": "Sci-Fi", "14": "Fantasy", "80": "Crime", "16": "Animation", "99": "Documentary"
+  },
+  "genres_tv": {
+    "10759": "Action & Adventure", "35": "Comedy", "18": "Drama", "9648": "Mystery",
+    "10765": "Sci-Fi & Fantasy", "80": "Crime", "16": "Animation", "99": "Documentary"
+  },
+  "email": {
+    "enabled": true,
+    "send_new_releases": true,
+    "send_date_changes": true,
+    "send_weekly_digest": true,
+    "digest_day": "Monday"
+  }
+}

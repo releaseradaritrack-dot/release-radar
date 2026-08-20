@@ -1,0 +1,19 @@
+[
+  {
+    "_comment": "COPY this block to add a title TMDB doesn't have (e.g. a Hoichoi/Chorki/Bangladesh release). Delete this comment line. Leave release_time empty if unknown — the site will show 'Release date only'.",
+    "title": "Example Series Name",
+    "type": "series",
+    "industry": "bangladesh",
+    "platform": "hoichoi",
+    "release_date": "2026-09-15",
+    "release_time": "",
+    "status": "confirmed",
+    "genres": ["Drama"],
+    "synopsis": "One or two sentence description.",
+    "poster_url": "",
+    "backdrop_url": "",
+    "trailer_url": "",
+    "official_url": "",
+    "source": "Manually added — verify before trusting"
+  }
+]
