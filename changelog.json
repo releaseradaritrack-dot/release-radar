@@ -1,1 +1,1703 @@
-[]
+[
+  {
+    "run_at": "2026-08-20T05:21:15.585254Z",
+    "new_titles": [
+      {
+        "id": "movie-1363288",
+        "title": "Beyond Ratings",
+        "release_date": "2024-02-29"
+      },
+      {
+        "id": "movie-1424965",
+        "title": "Ice Skater",
+        "release_date": "2026-02-24"
+      },
+      {
+        "id": "movie-1752738",
+        "title": "Unravel",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1752515",
+        "title": "Adrenalina",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1752176",
+        "title": "Blackmail",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1750768",
+        "title": "The Clinic",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1747532",
+        "title": "Listen to them, the children of the night. What music they make!",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1745723",
+        "title": "Celebrity Crime Scene: Princess Diana",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1744177",
+        "title": "Family Ties",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1743640",
+        "title": "Music Heals All - The Joy Stacey Story",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1742940",
+        "title": "Night Walk",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1741665",
+        "title": "Best Served Cold",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1733730",
+        "title": "The Fairies",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1719917",
+        "title": "Tape 001",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1695077",
+        "title": "Distant lover",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1679209",
+        "title": "MACDUFF'D",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1626188",
+        "title": "Novak Djokovic: The Wolf in Winter",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1231624",
+        "title": "He Loves Me Not",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-331974",
+        "title": "Fruity",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-331466",
+        "title": "Outer Banks: The Official Podcast",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-294722",
+        "title": "The Dynasty: UConn Huskies",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1036081",
+        "title": "Khalifa Part 1",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1741879",
+        "title": "Faisha Gesi",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1751902",
+        "title": "Fotr",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1750834",
+        "title": "Ruído",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1750822",
+        "title": "Noite",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1749313",
+        "title": "Night of the Black Swans",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1749138",
+        "title": "Хочу на рыбалку",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1749135",
+        "title": "Body Don't Lie",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1749129",
+        "title": "Счастье любит тишину",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1749127",
+        "title": "Be My Friend",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1749015",
+        "title": "Записки прошедших дней",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1749013",
+        "title": "Этого не должно было происходить",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1749006",
+        "title": "Над Голубыми озёрами",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1749000",
+        "title": "Дружи со мной нет",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1748997",
+        "title": "Если я уеду",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1748993",
+        "title": "The Fighter",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1748992",
+        "title": "Я всё реже слышу твой голос",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1748990",
+        "title": "Ты ещё придёшь?",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1748987",
+        "title": "Штраф",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1747183",
+        "title": "O Bom e Velho Lima",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1747011",
+        "title": "Sunrise",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1745264",
+        "title": "Тихий свет",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1745259",
+        "title": "Twix",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1745244",
+        "title": "Собачья будка",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1745219",
+        "title": "Плохой сон",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1745164",
+        "title": "Зеркальная звезда",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1745159",
+        "title": "Девочки танцуют",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1745110",
+        "title": "DJ Мулька",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1745094",
+        "title": "Good Dad",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1744008",
+        "title": "FUNAUTA",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1743060",
+        "title": "Reventar",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1742762",
+        "title": "Past and Present",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1742578",
+        "title": "Change",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1741668",
+        "title": "TAM",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1741242",
+        "title": "Salz und Wasser",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1741201",
+        "title": "Chompoo: Lost​ &​ Forgotten​",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1740165",
+        "title": "Arcade Five Part Three",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1739879",
+        "title": "Language of Uiju",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1737965",
+        "title": "The French Disaster",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1733053",
+        "title": "Graxa e o Zepelim",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1731992",
+        "title": "Don't Politicize",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1730927",
+        "title": "PIERRe",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1728393",
+        "title": "Angel with a crown of thorns",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1700888",
+        "title": "Hiddensee",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1699756",
+        "title": "Ayah, Aku Mau Cerita....",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1658483",
+        "title": "Elisa and the letter",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1648197",
+        "title": "Тоже мне любовь",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-332263",
+        "title": "Indefendable: Sans Trace",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-331644",
+        "title": "21 dager",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-330741",
+        "title": "My AI Partner: Strange Love",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-320734",
+        "title": "Kiss Mark on the Student Council President",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-317331",
+        "title": "Suspicious Neighbor",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-312523",
+        "title": "S&X",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-303351",
+        "title": "Blood Sacrifice",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-295410",
+        "title": "Emergency 53",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-285250",
+        "title": "Cicada",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "movie-1341138",
+        "title": "Spa Weekend",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1752174",
+        "title": "The Caretaker Next Foor",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1752170",
+        "title": "Miolo",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1752021",
+        "title": "CLONING GUM",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1751845",
+        "title": "Tatsulok",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1751594",
+        "title": "I Never Wanted to be Horny",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1748726",
+        "title": "A Trip towards the Temenos",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1748419",
+        "title": "A Mother's Secret",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1746607",
+        "title": "First Round Pick",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1746247",
+        "title": "Sunburn",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1746210",
+        "title": "Sweet Nothing",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1746158",
+        "title": "Dino-Minton",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1746116",
+        "title": "Captive",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1741861",
+        "title": "ROH: Death Before Dishonor",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1739963",
+        "title": "Ikenga: The Last Festival",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1736714",
+        "title": "If You Were…",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1732625",
+        "title": "LEGO Disney Princess: Magical Mayhem",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1731060",
+        "title": "i am not from here",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1719764",
+        "title": "Never Stop Chasing",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1683463",
+        "title": "Peppermint Pixie Dream Girl",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1649723",
+        "title": "Judaa",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1639137",
+        "title": "Kadhal Aura",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1620243",
+        "title": "My Armor",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1587661",
+        "title": "The House",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1537638",
+        "title": "Learning to Fly",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1533249",
+        "title": "Soul Trader",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1520103",
+        "title": "Stomachache",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1510517",
+        "title": "Atlas King",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1422011",
+        "title": "It Ends",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1327450",
+        "title": "If I Tell You",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1308858",
+        "title": "Dreams in Nightmares",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1291829",
+        "title": "& Sons",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1144965",
+        "title": "Paper Flowers",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1029639",
+        "title": "Billy Knight",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-813418",
+        "title": "Hot Spot",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "tv-330438",
+        "title": "The Girls: A Khloé Kardashian Project",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "tv-329987",
+        "title": "9/11 Reunited",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "tv-321048",
+        "title": "Piggy: Rise Of The Insolence",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "tv-310355",
+        "title": "Rough Draft",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1748479",
+        "title": "Harrd Disk",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1685882",
+        "title": "Modha Rathri",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1590380",
+        "title": "Ram and Leela",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1538273",
+        "title": "Pyaar Prema Kalyanam",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1441228",
+        "title": "Irumudi",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1508168",
+        "title": "Bethlehem Kudumba Unit",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "tv-331998",
+        "title": "De Laatste Zomer",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "tv-331700",
+        "title": "Qua Nhà Bật Nhạc",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "tv-330048",
+        "title": "心动就住在一起",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "tv-329610",
+        "title": "Old Hunter",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "tv-311403",
+        "title": "Cancel",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1751698",
+        "title": "We Will Be Together",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "movie-1751614",
+        "title": "Restless in the Dust",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "movie-1751149",
+        "title": "Fly & Die",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "movie-1750983",
+        "title": "Be My Baby Now",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "movie-1750829",
+        "title": "Check",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "movie-1750507",
+        "title": "A DOG’S LIFE",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "tv-330667",
+        "title": "The Great American Journey",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "tv-332264",
+        "title": "Kế Hoạch CM12",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "tv-332153",
+        "title": "beyond repair",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "tv-326635",
+        "title": "Sing & Dance UP!",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "tv-315651",
+        "title": "Menagerie",
+        "release_date": "2026-08-23"
+      },
+      {
+        "id": "tv-331979",
+        "title": "Delusion",
+        "release_date": "2026-08-24"
+      },
+      {
+        "id": "tv-331518",
+        "title": "Robinson: Efter Ø-rådet",
+        "release_date": "2026-08-24"
+      },
+      {
+        "id": "tv-330988",
+        "title": "La pícara soñadora",
+        "release_date": "2026-08-24"
+      },
+      {
+        "id": "tv-330671",
+        "title": "Boeddha in de Polder",
+        "release_date": "2026-08-24"
+      },
+      {
+        "id": "tv-326432",
+        "title": "Zeg Eens Euh",
+        "release_date": "2026-08-24"
+      },
+      {
+        "id": "tv-325773",
+        "title": "Fort Alpha",
+        "release_date": "2026-08-24"
+      },
+      {
+        "id": "tv-318894",
+        "title": "The Gudovs",
+        "release_date": "2026-08-24"
+      },
+      {
+        "id": "tv-315649",
+        "title": "Bockie Gaat Naar School",
+        "release_date": "2026-08-24"
+      },
+      {
+        "id": "tv-331540",
+        "title": "Icons Unearthed: Arnold Schwarzenegger",
+        "release_date": "2026-08-25"
+      },
+      {
+        "id": "tv-332126",
+        "title": "花落朝夕玉无声",
+        "release_date": "2026-08-25"
+      },
+      {
+        "id": "tv-331865",
+        "title": "Die letzten Tage von Kabul",
+        "release_date": "2026-08-25"
+      },
+      {
+        "id": "tv-323447",
+        "title": "NOUR",
+        "release_date": "2026-08-25"
+      },
+      {
+        "id": "tv-332236",
+        "title": "The Murder Detective",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-331616",
+        "title": "Death of the Pastor's Wife",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-328714",
+        "title": "Totally '90s House",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "movie-1213243",
+        "title": "Toxic: A Fairy Tale for Grown-ups",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-332259",
+        "title": "Chapeuzinho Vermelho e sua Turma",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-331796",
+        "title": "Sua Mãe Te Conhece",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-331730",
+        "title": "Some Things Stay",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-331512",
+        "title": "Knokke Tof",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-328687",
+        "title": "Joko & Klaas machen Urlaub",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-277248",
+        "title": "Treasure Lovers",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-275224",
+        "title": "My Name Is Gutierrez",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-331246",
+        "title": "Breaking the Barriers: India's Race to Glory",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "tv-330540",
+        "title": "Dalliance",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "tv-331866",
+        "title": "Wer ist Deutschlands Superhirn?",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "tv-330961",
+        "title": "Rutger en de Buitenlanders",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "tv-330820",
+        "title": "The Angeline Quinto Show",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "tv-323704",
+        "title": "Jade en de Belgen",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "tv-318604",
+        "title": "Big Pharma",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "tv-307701",
+        "title": "Inspectors",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "movie-1204680",
+        "title": "Coyote vs. Acme",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-445466",
+        "title": "Idiots",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-310172",
+        "title": "Kaher",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1654516",
+        "title": "A.S.I Babita Singh Reporting!",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1389153",
+        "title": "Jeevan Bheema Yojana",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-313172",
+        "title": "Chumbak",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1709263",
+        "title": "IRUL VAAN MUGIL",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1425548",
+        "title": "Karathey Babu",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1318304",
+        "title": "Once More",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1748499",
+        "title": "Kiku Chiranjeevi",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1450342",
+        "title": "Bhogi",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1353077",
+        "title": "Your's Sincerely RAAM",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1409985",
+        "title": "Dead End",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1373504",
+        "title": "Maya Satya Bhram",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-331867",
+        "title": "Mythos Schalke – Ein Leben lang",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-331370",
+        "title": "Still Water",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-331336",
+        "title": "My Genie Secretary",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-329859",
+        "title": "Happy Hour",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-326357",
+        "title": "From Gold Digger to His Lucky Charm",
+        "release_date": "2026-08-29"
+      },
+      {
+        "id": "tv-331932",
+        "title": "Ali Baba aur 40 Bhoot",
+        "release_date": "2026-09-01"
+      },
+      {
+        "id": "tv-330912",
+        "title": "The Varnell Hill Show",
+        "release_date": "2026-09-01"
+      },
+      {
+        "id": "tv-321397",
+        "title": "Knight Rider: Declassified",
+        "release_date": "2026-09-01"
+      },
+      {
+        "id": "movie-1730391",
+        "title": "Sithilam",
+        "release_date": "2026-09-01"
+      },
+      {
+        "id": "movie-1585736",
+        "title": "Kalari Kid – She Hits Back",
+        "release_date": "2026-09-01"
+      },
+      {
+        "id": "tv-321691",
+        "title": "The Great American Road Rally: Celebrity Edition",
+        "release_date": "2026-09-02"
+      },
+      {
+        "id": "tv-290234",
+        "title": "Lovesick",
+        "release_date": "2026-09-02"
+      },
+      {
+        "id": "movie-1669281",
+        "title": "Romanchakam",
+        "release_date": "2026-09-03"
+      },
+      {
+        "id": "movie-1250502",
+        "title": "I'm Game",
+        "release_date": "2026-09-03"
+      },
+      {
+        "id": "tv-330999",
+        "title": "Korea's Next Wave",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-330939",
+        "title": "The Lycett Arms",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-330371",
+        "title": "Earle Meets World",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-329471",
+        "title": "The Grand Tour",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1378537",
+        "title": "Mirzapur: The Movie",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1728047",
+        "title": "DELIVERY BOY",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1505305",
+        "title": "Immortal",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1641520",
+        "title": "Donga Naa Koduku",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1560208",
+        "title": "Ramba Oorvasi Menaka",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1588472",
+        "title": "Law & Order",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1513475",
+        "title": "Aasha",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1290035",
+        "title": "Avaraachan &  Sons",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-331750",
+        "title": "The Court",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1728829",
+        "title": "Bhootu Aaya Bhago",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1391798",
+        "title": "Winkle Twinkle",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-324637",
+        "title": "Locker Diaries: Camp Rock",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "tv-324048",
+        "title": "Stronger Together",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "tv-323441",
+        "title": "Pablo: Next Level",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "tv-301626",
+        "title": "A Tale of Two Cities",
+        "release_date": "2026-09-06"
+      },
+      {
+        "id": "tv-283319",
+        "title": "Marble Hall Murders",
+        "release_date": "2026-09-06"
+      },
+      {
+        "id": "tv-330968",
+        "title": "OJ Unseen: Exploitation of Evil",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-329995",
+        "title": "Bodies on the Bridge",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-331164",
+        "title": "Bobby Flay’s The Line",
+        "release_date": "2026-09-08"
+      },
+      {
+        "id": "tv-314478",
+        "title": "DANG!",
+        "release_date": "2026-09-08"
+      },
+      {
+        "id": "tv-304842",
+        "title": "The Drop: A Snowfall Saga",
+        "release_date": "2026-09-08"
+      },
+      {
+        "id": "tv-332246",
+        "title": "Goodbye Goodbye Goodbye",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "tv-258230",
+        "title": "Last Seen",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "movie-1747646",
+        "title": "Herland",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "tv-332133",
+        "title": "How to Change the World",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "tv-331972",
+        "title": "Halloween",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "tv-300507",
+        "title": "Crew Girl",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1465943",
+        "title": "Mandaadi",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1363286",
+        "title": "Demonte Colony 3",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1317872",
+        "title": "Sardar 2",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1604274",
+        "title": "Maremma",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1475799",
+        "title": "Haiwaan",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "tv-249863",
+        "title": "The Revolutionaries",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1408158",
+        "title": "Epic - First Semester",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1389379",
+        "title": "Ranabaali",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1261763",
+        "title": "Don't Trouble The Trouble",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1049064",
+        "title": "Mahendragiri Varahi",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1590718",
+        "title": "Dhoomakethu",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1544847",
+        "title": "Pradhama Dhrishtya Kuttakkar",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1734726",
+        "title": "America America 2",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1625018",
+        "title": "Video",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1242197",
+        "title": "Beporoya",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "tv-323162",
+        "title": "RED STONE SERIES",
+        "release_date": "2026-09-13"
+      },
+      {
+        "id": "tv-262486",
+        "title": "High Value Target: The Hunt for Saddam",
+        "release_date": "2026-09-13"
+      },
+      {
+        "id": "tv-331217",
+        "title": "Adam's Law",
+        "release_date": "2026-09-14"
+      },
+      {
+        "id": "tv-318312",
+        "title": "Tommy & Tuppence",
+        "release_date": "2026-09-15"
+      },
+      {
+        "id": "tv-273207",
+        "title": "Neagley",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1736689",
+        "title": "Phoolan",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1735403",
+        "title": "Brindavihari",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1593299",
+        "title": "The Difficult Bride",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-322275",
+        "title": "The Traitors: New Blood",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-299939",
+        "title": "Monster: The Lizzie Borden Story",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1411598",
+        "title": "HALF",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1654566",
+        "title": "Vibe",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1215889",
+        "title": "Daayra",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1576223",
+        "title": "Rage",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1730215",
+        "title": "City Lights",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1736398",
+        "title": "Autobi",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-917372",
+        "title": "Daktar Kaku",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "tv-331726",
+        "title": "Heavy Weekend with Jake Hanrahan",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-331641",
+        "title": "The Detour with David Chang",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-279736",
+        "title": "Bucks County, USA",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-239618",
+        "title": "American Hostage",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-321958",
+        "title": "Line of Fire",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "tv-328264",
+        "title": "Michael Palin in the Philippines",
+        "release_date": "2026-09-22"
+      },
+      {
+        "id": "tv-250203",
+        "title": "Brothers",
+        "release_date": "2026-09-22"
+      },
+      {
+        "id": "tv-286940",
+        "title": "Wonka's The Golden Ticket",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "tv-332118",
+        "title": "Team Moms: Baseball",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "tv-305357",
+        "title": "A Different World",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "movie-1376856",
+        "title": "The Paradise",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "tv-292742",
+        "title": "S.W.A.T. Exiles",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1532239",
+        "title": "Chiranjeevi Hanuman: The Eternal",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1384514",
+        "title": "The Vvaan",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1285815",
+        "title": "Mahakavya Shri Ramayan Katha – Shri Ram Ki",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1578079",
+        "title": "Dorothy",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1563192",
+        "title": "Lenin Pandiyan",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1538457",
+        "title": "Meesaya Murukku 2",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1610874",
+        "title": "Heggana Muddu",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1747153",
+        "title": "Begni Ronger Alo",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-318918",
+        "title": "LEGO ONE PIECE",
+        "release_date": "2026-09-29"
+      },
+      {
+        "id": "tv-331755",
+        "title": "Astronomical Adventures",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-330167",
+        "title": "Voice of Bangladesh",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-1732327",
+        "title": "Maaruvesham",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-1515692",
+        "title": "Baththa",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-1404362",
+        "title": "Mr. Bhaarath",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-954445",
+        "title": "Yezhu Kadal Yezhu Malai",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-1658406",
+        "title": "Valmiki Ramayana",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1640396",
+        "title": "Prem Keetanu",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1269325",
+        "title": "Drishyam 3",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-292117",
+        "title": "Teen Kauwe",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1395215",
+        "title": "Sigma",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1628882",
+        "title": "Shabara",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1496785",
+        "title": "Aadarsha Kutumbam House No: 47 - AK 47",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1726972",
+        "title": "Pinaka",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1703067",
+        "title": "Bail",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-325008",
+        "title": "Annie",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-1732110",
+        "title": "GOR",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-1638373",
+        "title": "Untitled",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1564177",
+        "title": "Dongri: Gangster's Paradise",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1375156",
+        "title": "Udta Teer",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-718833",
+        "title": "Bokshi",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-329143",
+        "title": "AndherPura Curse",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1428295",
+        "title": "Comrade Kalyan",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1736395",
+        "title": "Ei Shohorer Gaan",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "movie-1710034",
+        "title": "Afreet - A Never Ending Night",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1234139",
+        "title": "Jailer 2",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1607833",
+        "title": "Bohurupi: The Golden Daku",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1538861",
+        "title": "Emperor Vs. Sarat Chandra",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1654581",
+        "title": "Nayyi Navelli",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1479690",
+        "title": "RaftaaR",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1081010",
+        "title": "Prahaar",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1626806",
+        "title": "Seyon",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1384528",
+        "title": "OM Chapter 1: Udhiram - The Blood Wood",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1580533",
+        "title": "#Untitled Sangeeth Shobhan - Palnati Surya Pratap Project",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1544325",
+        "title": "Vayuputra",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1229939",
+        "title": "Vishwambhara",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1608666",
+        "title": "#DeSu7",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1591522",
+        "title": "The Eken: Kerala-e Kurukshetra",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1705789",
+        "title": "Little Hearts: Madness of Love",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-317590",
+        "title": "Billionaire",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1443958",
+        "title": "Emo Emo Idi",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1495662",
+        "title": "Lakadbaggha 2: The Monkey Business",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1402181",
+        "title": "Galatta",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1612811",
+        "title": "Disco",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-331600",
+        "title": "Kauriburir Mandir",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-656908",
+        "title": "Ramayana",
+        "release_date": "2026-11-08"
+      },
+      {
+        "id": "movie-1590846",
+        "title": "V. Shantaram",
+        "release_date": "2026-11-18"
+      },
+      {
+        "id": "movie-1505644",
+        "title": "ENE Repeat",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "movie-1533928",
+        "title": "Bachelor Party D'eux",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "movie-1636756",
+        "title": "Mrigaya 1.5: The Hunt Continues",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1510775",
+        "title": "Gunmaaster G9",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "movie-1209723",
+        "title": "Yeh Prem Mol Liya",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "movie-1199439",
+        "title": "Diler",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "movie-1556316",
+        "title": "Chandni Bar 2",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "movie-1257973",
+        "title": "Fauzi",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "movie-1569625",
+        "title": "Reimagining Sankranthiki Vasthunam",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1489396",
+        "title": "Eetha",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1214368",
+        "title": "Golmaal 5",
+        "release_date": "2026-12-04"
+      }
+    ],
+    "date_changes": []
+  }
+]
