@@ -2369,5 +2369,54 @@
         "detected_at": "2026-08-20T08:05:06.327765Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-20T14:10:29.592940Z",
+    "new_titles": [
+      {
+        "id": "tv-295410",
+        "title": "Emergency 53",
+        "release_date": "2026-08-20"
+      },
+      {
+        "id": "tv-329859",
+        "title": "Happy Hour",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-327230",
+        "title": "Boží plán",
+        "release_date": "2026-09-01"
+      },
+      {
+        "id": "tv-312585",
+        "title": "The Crow Club",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "tv-284558",
+        "title": "Kill Jackie",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-317945",
+        "title": "Eurovision Song Contest Asia",
+        "release_date": "2026-11-14"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1380417",
+        "title": "By Any Means",
+        "old_date": "2026-09-04",
+        "new_date": "2026-09-02",
+        "detected_at": "2026-08-20T14:10:29.592473Z"
+      }
+    ]
   }
 ]
