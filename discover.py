@@ -88,13 +88,20 @@ def discover_movies(industry_key, cfg, window_start, window_end):
             params = {
                 "primary_release_date.gte": window_start,
                 "primary_release_date.lte": window_end,
-                "sort_by": "primary_release_date.asc",
+                # Popularity-first (not date-first) so genuinely notable upcoming
+                # titles surface before obscure zero-poster festival entries.
+                "sort_by": "popularity.desc",
                 "page": page,
             }
             if lang:
                 params["with_original_language"] = lang
             if cfg.get("tmdb_region"):
                 params["region"] = cfg["tmdb_region"]
+            if cfg.get("tmdb_origin_country"):
+                # Filters by actual production country, NOT language — this is what
+                # correctly separates Bangladesh from Kolkata/West Bengal (India),
+                # since both share the Bengali language code ("bn") on TMDB.
+                params["with_origin_country"] = cfg["tmdb_origin_country"]
             data = tmdb_get("/discover/movie", params)
             batch = data.get("results", [])
             if not batch:
@@ -115,11 +122,13 @@ def discover_tv(industry_key, cfg, window_start, window_end):
             params = {
                 "first_air_date.gte": window_start,
                 "first_air_date.lte": window_end,
-                "sort_by": "first_air_date.asc",
+                "sort_by": "popularity.desc",
                 "page": page,
             }
             if lang:
                 params["with_original_language"] = lang
+            if cfg.get("tmdb_origin_country"):
+                params["with_origin_country"] = cfg["tmdb_origin_country"]
             data = tmdb_get("/discover/tv", params)
             batch = data.get("results", [])
             if not batch:
