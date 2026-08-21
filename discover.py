@@ -273,9 +273,19 @@ def main():
     # "Theatrical"/"Streaming" label instead of the actual service. Region is
     # matched to the industry so we check the market that matters (US for
     # Hollywood/international, IN for Bollywood, BD for Bangladesh).
+    # Look up the REAL streaming platform (Netflix, Apple TV+, HBO/Max, etc.)
+    # for titles releasing reasonably soon. TMDB/JustWatch usually doesn't know
+    # a title's platform until close to release — checking every title months
+    # out returns empty results for most of them, so it only adds slow, mostly
+    # wasted API calls rather than better accuracy. Region is matched to the
+    # industry so we check the market that matters (US for Hollywood/
+    # international, IN for Bollywood, BD for Bangladesh).
+    PLATFORM_LOOKUP_WINDOW_DAYS = 60
     region_by_industry = {k: (v.get("tmdb_region") or "US") for k, v in industries.items()}
-    lookups = [i for i in all_items if i.get("tmdb_id")]
-    print(f"Looking up real streaming platforms for {len(lookups)} titles...")
+    cutoff = (today + timedelta(days=PLATFORM_LOOKUP_WINDOW_DAYS)).isoformat()
+    lookups = [i for i in all_items if i.get("tmdb_id") and i.get("release_date", "") <= cutoff]
+    print(f"Looking up real streaming platforms for {len(lookups)}/{len(all_items)} "
+          f"titles releasing within {PLATFORM_LOOKUP_WINDOW_DAYS} days...")
     for n, item in enumerate(lookups, 1):
         media_type = "movie" if item["type"] == "movie" else "tv"
         region = region_by_industry.get(item["industry"], "US")
