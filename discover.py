@@ -78,6 +78,25 @@ def get_watch_providers(media_type, tmdb_id, region="US"):
     return sorted(names)
 
 
+# TMDB's provider names (sourced from JustWatch) don't always match the tidy
+# labels in options.json — e.g. it says "Amazon Prime Video", not "Prime Video",
+# and "Disney Plus", not "Disney+". Mapping known variants directly here is more
+# reliable than a fragile exact-label match.
+PROVIDER_NAME_TO_PLATFORM_KEY = {
+    "Netflix": "netflix", "Netflix Standard with Ads": "netflix", "Netflix Kids": "netflix",
+    "Amazon Prime Video": "prime_video", "Amazon Prime Video with Ads": "prime_video", "Prime Video": "prime_video",
+    "Disney Plus": "disney_plus", "Disney+": "disney_plus",
+    "Apple TV Plus": "apple_tv", "Apple TV+": "apple_tv",
+    "HBO Max": "hbo_max", "Max": "hbo_max",
+    "Hulu": "hulu",
+    "Paramount Plus": "paramount_plus", "Paramount+": "paramount_plus",
+    "Peacock": "peacock", "Peacock Premium": "peacock",
+    "Hoichoi": "hoichoi",
+    "Chorki": "chorki",
+    "BINGE": "binge", "Binge": "binge",
+}
+
+
 def discover_movies(industry_key, cfg, window_start, window_end):
     """Discover upcoming movies for one industry bucket (e.g. hollywood, bollywood)."""
     languages = cfg.get("tmdb_languages") or ([cfg["tmdb_language"]] if cfg.get("tmdb_language") else [None])
@@ -198,20 +217,6 @@ def normalize_tv(raw, industry_key, genre_map):
     }
 
 
-def attach_platform(item, provider_map):
-    """For near-term titles, look up the actual streaming provider so the
-    'platform' badge is real rather than a generic guess."""
-    media_type = "movie" if item["type"] == "movie" else "tv"
-    key = (media_type, item["tmdb_id"])
-    if key in provider_map:
-        names = provider_map[key]
-        for platform_key, pinfo in provider_map["_cfg"].items():
-            if pinfo.get("label") in names:
-                item["platform"] = platform_key
-                return item
-    return item
-
-
 def dedupe(items):
     seen = {}
     for it in items:
@@ -262,17 +267,25 @@ def main():
         # TMDB data still gets written even if this source fails this run.
         print(f"Wikipedia BD source failed this run (skipping, will retry next sync): {e}", file=sys.stderr)
 
-    # Look up real streaming platform for titles releasing soon (keeps API calls bounded).
-    # Only for TMDB-sourced items — Wikipedia BD items have no tmdb_id and already
-    # carry a platform guess (hoichoi/chorki/theatrical) from detect_platform().
-    soon = [i for i in all_items if i.get("tmdb_id") and i["release_date"] <= (today + timedelta(days=30)).isoformat()]
-    platform_cfg = {k: v for k, v in options.get("platforms", {}).items()}
-    provider_map = {"_cfg": {k: {"label": v["label"]} for k, v in platform_cfg.items()}}
-    for item in soon:
+    # Look up the REAL streaming platform (Netflix, Apple TV+, HBO/Max, etc.) for
+    # every TMDB-sourced item — previously this only ran for titles releasing
+    # within 30 days, so almost everything else sat under a generic
+    # "Theatrical"/"Streaming" label instead of the actual service. Region is
+    # matched to the industry so we check the market that matters (US for
+    # Hollywood/international, IN for Bollywood, BD for Bangladesh).
+    region_by_industry = {k: (v.get("tmdb_region") or "US") for k, v in industries.items()}
+    lookups = [i for i in all_items if i.get("tmdb_id")]
+    print(f"Looking up real streaming platforms for {len(lookups)} titles...")
+    for n, item in enumerate(lookups, 1):
         media_type = "movie" if item["type"] == "movie" else "tv"
-        names = get_watch_providers(media_type, item["tmdb_id"])
-        provider_map[(media_type, item["tmdb_id"])] = names
-    all_items = [attach_platform(i, provider_map) for i in all_items]
+        region = region_by_industry.get(item["industry"], "US")
+        names = get_watch_providers(media_type, item["tmdb_id"], region=region)
+        for name in names:
+            if name in PROVIDER_NAME_TO_PLATFORM_KEY:
+                item["platform"] = PROVIDER_NAME_TO_PLATFORM_KEY[name]
+                break
+        if n % 50 == 0:
+            print(f"  ...{n}/{len(lookups)} platform lookups done")
 
     # Merge manually curated titles (Hoichoi/Chorki/Bangladesh titles TMDB lacks)
     manual = load_json(MANUAL_PATH, [])
