@@ -6,9 +6,8 @@
 <title>Release Radar — Your Next Watch Starts Here</title>
 <meta name="description" content="Track upcoming Hollywood, Bollywood, and Bangladesh movie & series releases. Never miss a premiere.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="./config.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://image.tmdb.org">
 <style>
   :root{
     --bg:#0a0b0f;
@@ -446,8 +445,19 @@ let usingSampleData = false;
    no-ops and the site behaves exactly like Phase 1 (local watchlist
    only, no sign-in). Nothing breaks either way.
 ============================================================ */
-const supaReady = typeof window.SUPABASE_URL === "string" && window.SUPABASE_URL && !window.SUPABASE_URL.startsWith("YOUR_");
-const supa = supaReady ? window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_ANON_KEY) : null;
+let supa = null; // set by bootstrap() below, once config.js (and, if configured, the Supabase SDK) have loaded
+
+function loadScriptOnce(src){
+  return new Promise((resolve, reject)=>{
+    const existing = document.querySelector(`script[src="${src}"]`);
+    if(existing){ existing.dataset.loaded === "1" ? resolve() : existing.addEventListener('load', resolve); return; }
+    const s = document.createElement('script');
+    s.src = src;
+    s.onload = ()=>{ s.dataset.loaded = "1"; resolve(); };
+    s.onerror = reject;
+    document.head.appendChild(s);
+  });
+}
 let currentUser = null;
 let currentPrefs = null;
 
@@ -939,8 +949,24 @@ document.getElementById('watchlistNavBtn').addEventListener('click', ()=>{
   alert('Your watchlist:\n\n' + titles.join('\n'));
 });
 
-loadData();
-initAuth();
+async function bootstrap(){
+  // config.js is tiny, load it first so we know whether Supabase is configured at all.
+  try{ await loadScriptOnce('./config.js'); }catch(e){ console.warn('config.js failed to load', e); }
+
+  const configured = typeof window.SUPABASE_URL === "string" && window.SUPABASE_URL && !window.SUPABASE_URL.startsWith("YOUR_");
+  if(configured){
+    try{
+      // Only the users who've set up Part B pay the cost of downloading this SDK —
+      // everyone else gets a lighter, faster-loading page.
+      await loadScriptOnce('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2');
+      supa = window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_ANON_KEY);
+    }catch(e){ console.warn('Supabase SDK failed to load', e); }
+  }
+
+  loadData();
+  initAuth();
+}
+bootstrap();
 </script>
 </body>
 </html>
