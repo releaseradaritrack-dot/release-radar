@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:31:46.560400Z",
+  "generated_at": "2026-08-21T04:29:29.083334Z",
   "window_start": "2026-08-21",
   "window_end": "2026-12-19",
   "count": 214,
@@ -2999,7 +2999,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/43HEnZBiZ0MZUbtBxMwnrvJNlt.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/9jIJrwbDTH92027rIrR2R0HM0Qe.jpg",
       "popularity": 1.3134,
-      "platform": "theatrical",
+      "platform": "prime_video",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""

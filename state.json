@@ -2995,7 +2995,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/43HEnZBiZ0MZUbtBxMwnrvJNlt.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/9jIJrwbDTH92027rIrR2R0HM0Qe.jpg",
       "popularity": 1.3134,
-      "platform": "theatrical",
+      "platform": "prime_video",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -5042,5 +5042,5 @@
       "trailer_url": ""
     }
   ],
-  "updated_at": "2026-08-21T03:31:47.590187Z"
+  "updated_at": "2026-08-21T04:29:29.341001Z"
 }
