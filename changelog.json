@@ -2633,5 +2633,94 @@
         "detected_at": "2026-08-21T14:07:00.295015Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-21T19:16:23.584036Z",
+    "new_titles": [
+      {
+        "id": "movie-1621552",
+        "title": "Facing El Chapo",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "tv-292558",
+        "title": "All the Truth In My Lies",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-324015",
+        "title": "BASTA",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-331767",
+        "title": "ДВРЗ проти шпигуна",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "movie-977942",
+        "title": "The Uprising",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1517127",
+        "title": "Drifter",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1422041",
+        "title": "La Bola Negra",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-307106",
+        "title": "The Love Coach",
+        "release_date": "2026-10-05"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1284046",
+        "title": "Onslaught",
+        "old_date": "2026-09-04",
+        "new_date": "2026-09-02",
+        "detected_at": "2026-08-21T19:16:23.583405Z"
+      },
+      {
+        "id": "movie-1380417",
+        "title": "By Any Means",
+        "old_date": "2026-09-02",
+        "new_date": "2026-09-04",
+        "detected_at": "2026-08-21T19:16:23.583421Z"
+      },
+      {
+        "id": "movie-1244523",
+        "title": "Beware Boiúna",
+        "old_date": "2026-10-01",
+        "new_date": "2026-10-02",
+        "detected_at": "2026-08-21T19:16:23.583437Z"
+      },
+      {
+        "id": "movie-1255833",
+        "title": "Whalefall",
+        "old_date": "2026-10-14",
+        "new_date": "2026-10-16",
+        "detected_at": "2026-08-21T19:16:23.583444Z"
+      },
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-08-21T19:16:23.583449Z"
+      },
+      {
+        "id": "movie-1300968",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "old_date": "2026-11-18",
+        "new_date": "2026-11-20",
+        "detected_at": "2026-08-21T19:16:23.583451Z"
+      }
+    ]
   }
 ]
