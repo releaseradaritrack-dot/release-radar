@@ -103,7 +103,7 @@
       "status": "confirmed",
       "genres": [],
       "language": "en",
-      "synopsis": "The Girls follows Khloé Kardashian’s inner circle as her closest friends navigate the highs and lows of motherhood, marriage, dating, business, and life in the spotlight. From career milestones and family challenges to girls’ trips, launch parties, and life-changing decisions, these ambitious women come together through their shared connection to Khloé. But as they spend more time together and get to know one another on a deeper level, unexpected tensions, old wounds, and clashing perspectives begin to surface – testing whether these friendships can grow as their lives continue to evolve.",
+      "synopsis": "They're building empires. They're building families. They're always unfiltered. Welcome to The Girls, where Khloé Kardashian's inner circle of real-life besties are raising babies, running businesses, and surviving brutally honest group chats. From surprise proposals to solo parenting, glam getaways to growing pains, this is the new era of reality TV where the chaos is couture — and the bonds are unbreakable.",
       "poster_url": "https://image.tmdb.org/t/p/w500/cgIzYKipQoi1NaWFTLC8FzZOpe5.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/3wbETP2ujDBQ1GdajfVwTDJTKoe.jpg",
       "popularity": 3.3657,
@@ -130,27 +130,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/gRRbtlz7Lyygch0UOWr5Iso0LVk.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/97MBKEskobZSHT0f0wzZVRYd2fg.jpg",
       "popularity": 1.7025,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "tv-310355",
-      "tmdb_id": 310355,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "Rough Draft",
-      "original_title": "Rough Draft",
-      "release_date": "2026-08-21",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [],
-      "language": "en",
-      "synopsis": "A limited web series based in the world of Ink Between the Lines, surrounding the backstories of the support group kids.",
-      "poster_url": "",
-      "backdrop_url": "",
-      "popularity": 0.4982,
       "platform": "ott",
       "source": "TMDB",
       "official_url": "",
@@ -271,6 +250,29 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/3FuBC9O2Q9DWSevMpnshflYByVa.jpg",
       "popularity": 2.6855,
       "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-332403",
+      "tmdb_id": 332403,
+      "type": "series",
+      "industry": "bollywood",
+      "title": "Dilon Ki Ram Leela",
+      "original_title": "Dilon Ki Ram Leela",
+      "release_date": "2026-08-24",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "hi",
+      "synopsis": "Yearning for her father's love, Leela finds healing, hope and belonging in Ram.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 0.0,
+      "platform": "ott",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -418,6 +420,29 @@
       "trailer_url": ""
     },
     {
+      "id": "tv-299952",
+      "tmdb_id": 299952,
+      "type": "series",
+      "industry": "international",
+      "title": "The Early Spring",
+      "original_title": "早春晴朗",
+      "release_date": "2026-08-26",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "zh",
+      "synopsis": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/d7aATTaFwreVu0eSdVc3k9Yqlvv.jpg",
+      "popularity": 6.8792,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1433568",
       "tmdb_id": 1433568,
       "type": "movie",
@@ -519,7 +544,7 @@
       "type": "movie",
       "industry": "bollywood",
       "title": "A.S.I Babita Singh Reporting!",
-      "original_title": "A.S.I Babita Singh Reporting!",
+      "original_title": "बबीता सिंह रिपोर्टिंग",
       "release_date": "2026-08-28",
       "release_time": "",
       "status": "confirmed",
@@ -529,8 +554,8 @@
       ],
       "language": "hi",
       "synopsis": "When an under-estimated cop visits her in-laws' for the first time, she finds herself torn between uncovering the truth in a murder investigation and the hidden lies in her own marriage.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/15ugAXH1d28fG2KberHpGW4xHZG.jpg",
-      "backdrop_url": "",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8HoxgJXbDWadzBFYGazuRH7xTqK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/t8DWZvl10Bhl1k39GPAHvxPOjr.jpg",
       "popularity": 0.7606,
       "platform": "theatrical",
       "source": "TMDB",
@@ -716,8 +741,8 @@
       "genres": [],
       "language": "nl",
       "synopsis": "",
-      "poster_url": "",
-      "backdrop_url": "",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mUAOuzvWblvHLzUb6jXUQ0SQmGR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tzOxi5bKfOnpc2LzSXinpl8fM1S.jpg",
       "popularity": 2.0107,
       "platform": "ott",
       "source": "TMDB",
@@ -976,31 +1001,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1284046",
-      "tmdb_id": 1284046,
-      "type": "movie",
-      "industry": "international",
-      "title": "Onslaught",
-      "original_title": "Onslaught",
-      "release_date": "2026-09-02",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Action",
-        "Horror",
-        "Thriller"
-      ],
-      "language": "en",
-      "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2R9i31zXuaE4tNBtaPjdXO9yB9y.jpg",
-      "popularity": 4.5815,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-321691",
       "tmdb_id": 321691,
       "type": "series",
@@ -1047,6 +1047,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1355228",
+      "tmdb_id": 1355228,
+      "type": "movie",
+      "industry": "bollywood",
+      "title": "Gandhari",
+      "original_title": "Gandhari",
+      "release_date": "2026-09-03",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Action"
+      ],
+      "language": "hi",
+      "synopsis": "After her little daughter is abducted in a crowded railway station and a brutal attack leaves her temporarily blind, a grieving mother must rise from her trauma and confront a shadowy child-trafficking nexus embedded deep within a town of shape-shifters and ancient lore — becoming a mythic force of vengeance to save her daughter and the lost children before they disappear forever.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ipmPaFp5ZANVxGqcROIJqlQOK3m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7CpkNz9r3R0ZxsqCg3mdZ5ahnMJ.jpg",
+      "popularity": 0.6639,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1742283",
       "tmdb_id": 1742283,
       "type": "movie",
@@ -1086,6 +1109,31 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
       "popularity": 4.9629,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1284046",
+      "tmdb_id": 1284046,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Onslaught",
+      "original_title": "Onslaught",
+      "release_date": "2026-09-04",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2R9i31zXuaE4tNBtaPjdXO9yB9y.jpg",
+      "popularity": 4.5815,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -1859,6 +1907,29 @@
       "trailer_url": ""
     },
     {
+      "id": "tv-298156",
+      "tmdb_id": 298156,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "The Terrors of Jordan Mendoza",
+      "original_title": "The Terrors of Jordan Mendoza",
+      "release_date": "2026-09-14",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Comedy"
+      ],
+      "language": "en",
+      "synopsis": "A very scared man navigates a barrage of absurd, terrifying, and hilarious dreamscapes, exploring fears that are both deeply personal and strikingly universal.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 0.7443,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1423191",
       "tmdb_id": 1423191,
       "type": "movie",
@@ -1960,6 +2031,30 @@
       "trailer_url": ""
     },
     {
+      "id": "tv-252105",
+      "tmdb_id": 252105,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "Golden Axe",
+      "original_title": "Golden Axe",
+      "release_date": "2026-09-16",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy"
+      ],
+      "language": "en",
+      "synopsis": "Follow legendary warriors Ax Battler, Tyris Flare and Gilius Thunderhead as they reunite to save Yuria from the evil giant Death Adder, who just won't seem to stay dead. Their quest is complicated by Hampton Squib, an inexperienced and wildly underprepared adventurer whose dream of heroism far exceeds his abilities. Forced to work together despite their flaws, they must find a way to stop Death Adder once and for all.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 2.0111,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1736689",
       "tmdb_id": 1736689,
       "type": "movie",
@@ -2044,7 +2139,7 @@
         "Crime"
       ],
       "language": "en",
-      "synopsis": "The story of Lizzie Borden, the infamous Massachusetts woman who was accused of the 1892 axe murder of her parents.",
+      "synopsis": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
       "poster_url": "https://image.tmdb.org/t/p/w500/lrVEDofp5TsosG03hwoHyd0z8yE.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/m97hzwX4ZmkMVB6Drky8fwg635n.jpg",
       "popularity": 8.2429,
@@ -2099,29 +2194,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-298008",
-      "tmdb_id": 298008,
-      "type": "series",
-      "industry": "international",
-      "title": "Plastic Beauty",
-      "original_title": "ダウンタイム",
-      "release_date": "2026-09-17",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "ja",
-      "synopsis": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6HLl3jgLQmUO0mw2TspFf5jIU3M.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
-      "popularity": 2.226,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1573054",
       "tmdb_id": 1573054,
       "type": "movie",
@@ -2169,6 +2241,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1640649",
+      "tmdb_id": 1640649,
+      "type": "movie",
+      "industry": "bollywood",
+      "title": "Love Lottery",
+      "original_title": "लव लाटरी",
+      "release_date": "2026-09-18",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "hi",
+      "synopsis": "When a young woman, Bharani Verma, is found dead under mysterious circumstances, the police quickly arrest Kartik Saxena, making him the prime suspect in a seemingly open-and-shut murder case. But as the courtroom battle begins, every testimony uncovers new questions instead of answers. Hidden relationships, conflicting statements, and buried secrets gradually transform a simple murder trial into a gripping mystery where nothing is as it appears. Beyond the suspense, the film also explores a thought-provoking question: Have marriage and legal battles become a silent punishment for some innocent men, or is the truth far more complex than it seems? With every hearing, the truth becomes more elusive, and just when the verdict seems certain, an unexpected twist changes the entire direction of the case. A taut courtroom suspense thriller that keeps the audience guessing until the very last moment.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8LGs4hV8eXa0dpL2ioeVEQytyAb.jpg",
+      "backdrop_url": "",
+      "popularity": 0.723,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1654566",
       "tmdb_id": 1654566,
       "type": "movie",
@@ -2187,6 +2282,30 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/y6g47XuY2xCWBlo2al8U9SATw93.jpg",
       "backdrop_url": "",
       "popularity": 0.414,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-890216",
+      "tmdb_id": 890216,
+      "type": "movie",
+      "industry": "international",
+      "title": "Pacific",
+      "original_title": "Pacífico",
+      "release_date": "2026-09-18",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "language": "es",
+      "synopsis": "A group of young travelers are stranded on an island in the Pacific where they struggle to escape an evil presence kept hidden from mankind for centuries.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lxHviNCgIVv8juHBrwHJpR5wJ5b.jpg",
+      "backdrop_url": "",
+      "popularity": 4.809,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -2335,7 +2454,7 @@
       "id": "tv-321958",
       "tmdb_id": 321958,
       "type": "series",
-      "industry": "hollywood",
+      "industry": "international",
       "title": "Line of Fire",
       "original_title": "Line of Fire",
       "release_date": "2026-09-21",
@@ -2710,6 +2829,30 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
       "popularity": 8.5455,
       "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-329524",
+      "tmdb_id": 329524,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "Unmasking a Monster: Aileen Wuornos",
+      "original_title": "Unmasking a Monster: Aileen Wuornos",
+      "release_date": "2026-09-30",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "language": "en",
+      "synopsis": "A three-part docuseries examining the life and crimes of notorious American serial killer Aileen Wuornos, who shot and killed seven male clients while working as a prostitute in Florida in 1989 and 1990. She was arrested in 1991 and spent around 10 years on death row before being executed in 2002.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 0.6506,
+      "platform": "ott",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -3566,29 +3709,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-310794",
-      "tmdb_id": 310794,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "The Collective",
-      "original_title": "The Collective",
-      "release_date": "2026-10-12",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "The Collective is a fictional series that is fused with drama, suspense, action, and a little comedy. The story takes place in current times in the United States. The story's main character is Cashmere Wellington a successful sports agent who ends up leaving her profession when she finds out that her great grandfather has passed and she is now the CEO of an exclusive high-end art gallery that her great grandfather created and owned. However, that is not the only thing Cashmere will be  inheriting. Come along on for the ride as Cashmere must fight to defend her family's legacy. A original screen play created written and directed by Colored Girl Film Productions members of The Uniq Art Collective's subsidiary group.",
-      "poster_url": "",
-      "backdrop_url": "",
-      "popularity": 0.339,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1153576",
       "tmdb_id": 1153576,
       "type": "movie",
@@ -3913,7 +4033,7 @@
         "Sci-Fi & Fantasy",
         "Crime"
       ],
-      "language": "en",
+      "language": "ja",
       "synopsis": "Weak, a washed-up cyberpunk legend, is now forced to live without chrome as he searches for a sense of purpose in a world that’s passed him by. Meanwhile, the deadly nomad D sets out on a path to revenge that brings him close to corpo secrets never meant to be found.",
       "poster_url": "https://image.tmdb.org/t/p/w500/2GTseVGLsAZlw25PXFMi3UuI77.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/sxIGx4fXlsvOoS3kmDZEKR9MuH7.jpg",
@@ -4013,7 +4133,7 @@
       ],
       "language": "en",
       "synopsis": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue’s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sBuD4emYnXrrAVt4LHEpuf1Q7xG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
       "popularity": 8.3948,
       "platform": "theatrical",
@@ -4160,27 +4280,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-326007",
-      "tmdb_id": 326007,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "Learning with Pibby: Armageddon",
-      "original_title": "Learning with Pibby: Armageddon",
-      "release_date": "2026-10-30",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [],
-      "language": "en",
-      "synopsis": "A preschool cartoon character is stranded in corrupted worlds, deciding to save the universe as a hero or risk the Darkness consuming them first.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1QMUZ8vKyEOJYWP18ZW45YoJZnU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lqOZPDWVSQ35BYZ40Z1eKcTC10D.jpg",
-      "popularity": 0.3805,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-314271",
       "tmdb_id": 314271,
       "type": "series",
@@ -4221,7 +4320,7 @@
       "language": "en",
       "synopsis": "Reclusive government asset Henry Fitzgerald is living off the grid in Wyoming, designing new systems for a weapons research agency. When a multi trillion dollar investment management firm begins employing corrupt police and foreign mercenaries to force farmers off their ranches, the Green Beret veteran decides to employ his weapon prototypes to assist his neighbors.",
       "poster_url": "https://image.tmdb.org/t/p/w500/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rhtE77mUo6I1LBGbtnVphRxcnQb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
       "popularity": 8.139,
       "platform": "theatrical",
       "source": "TMDB",
@@ -5018,5 +5117,5 @@
       "trailer_url": ""
     }
   ],
-  "updated_at": "2026-08-21T08:04:34.936539Z"
+  "updated_at": "2026-08-21T14:07:01.234181Z"
 }

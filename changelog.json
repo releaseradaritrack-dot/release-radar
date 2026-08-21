@@ -2579,5 +2579,59 @@
         "detected_at": "2026-08-21T08:04:33.820453Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-21T14:07:00.295588Z",
+    "new_titles": [
+      {
+        "id": "tv-332403",
+        "title": "Dilon Ki Ram Leela",
+        "release_date": "2026-08-24"
+      },
+      {
+        "id": "tv-299952",
+        "title": "The Early Spring",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "movie-1355228",
+        "title": "Gandhari",
+        "release_date": "2026-09-03"
+      },
+      {
+        "id": "tv-298156",
+        "title": "The Terrors of Jordan Mendoza",
+        "release_date": "2026-09-14"
+      },
+      {
+        "id": "tv-252105",
+        "title": "Golden Axe",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1640649",
+        "title": "Love Lottery",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-890216",
+        "title": "Pacific",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "tv-329524",
+        "title": "Unmasking a Monster: Aileen Wuornos",
+        "release_date": "2026-09-30"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1284046",
+        "title": "Onslaught",
+        "old_date": "2026-09-02",
+        "new_date": "2026-09-04",
+        "detected_at": "2026-08-21T14:07:00.295015Z"
+      }
+    ]
   }
 ]
