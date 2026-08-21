@@ -580,14 +580,21 @@ async function loadManualTitlesFromCloud(){
 }
 
 async function loadData(){
-  try{
-    const res = await fetch('./catalog.json', {cache:"no-store"});
-    const data = await res.json();
-    CATALOG = data.items || [];
-    document.getElementById('lastSync').textContent = data.generated_at
-      ? `Last synced: ${new Date(data.generated_at).toLocaleString()}`
+  // Fetch all three sources in parallel instead of one-after-another —
+  // cuts real page-load time roughly to the slowest single request instead
+  // of the sum of all three.
+  const [catalogResult, changelogResult, manual] = await Promise.all([
+    fetch('./catalog.json', {cache:"no-store"}).then(r=>r.json()).catch(e=>{ console.warn("catalog.json not reachable yet", e); return null; }),
+    fetch('./changelog.json', {cache:"no-store"}).then(r=>r.json()).catch(()=>[]),
+    loadManualTitlesFromCloud().catch(()=>[]),
+  ]);
+
+  if(catalogResult){
+    CATALOG = catalogResult.items || [];
+    document.getElementById('lastSync').textContent = catalogResult.generated_at
+      ? `Last synced: ${new Date(catalogResult.generated_at).toLocaleString()}`
       : "Not synced yet";
-  }catch(e){ console.warn("catalog.json not reachable yet", e); }
+  }
 
   if(CATALOG.length === 0){
     usingSampleData = true;
@@ -595,12 +602,8 @@ async function loadData(){
     document.getElementById('lastSync').textContent = "No data synced yet — showing sample preview cards";
   }
 
-  try{
-    const res2 = await fetch('./changelog.json', {cache:"no-store"});
-    CHANGELOG = await res2.json();
-  }catch(e){ CHANGELOG = []; }
+  CHANGELOG = changelogResult || [];
 
-  const manual = await loadManualTitlesFromCloud();
   if(manual.length){
     usingSampleData = false;
     const existingIds = new Set(CATALOG.map(i=>i.id));
