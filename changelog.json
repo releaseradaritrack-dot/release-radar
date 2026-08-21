@@ -2459,5 +2459,112 @@
         "detected_at": "2026-08-20T19:45:43.984199Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-21T03:31:46.978918Z",
+    "new_titles": [
+      {
+        "id": "movie-1752887",
+        "title": "A TOY GUN",
+        "release_date": "2026-08-21"
+      },
+      {
+        "id": "movie-1716269",
+        "title": "Rumah Singgah",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "movie-1447853",
+        "title": "Oasis: Don't Look Back in Anger",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "tv-298008",
+        "title": "Plastic Beauty",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1656018",
+        "title": "Michael Jackson: A Life in Music",
+        "release_date": "2026-09-29"
+      },
+      {
+        "id": "tv-297577",
+        "title": "Rizzler News",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-1677740",
+        "title": "Believers",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-1236045",
+        "title": "Animals",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-328361",
+        "title": "NOVA: Evolution",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-326788",
+        "title": "Cyberpunk: Edgerunners 2",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "movie-858035",
+        "title": "Klara and the Sun",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1468383",
+        "title": "Faust",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "release_date": "2026-12-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1284046",
+        "title": "Onslaught",
+        "old_date": "2026-09-04",
+        "new_date": "2026-09-02",
+        "detected_at": "2026-08-21T03:31:46.978231Z"
+      },
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "old_date": "2026-11-13",
+        "new_date": "2026-09-04",
+        "detected_at": "2026-08-21T03:31:46.978241Z"
+      },
+      {
+        "id": "movie-1377237",
+        "title": "Runner",
+        "old_date": "2026-09-11",
+        "new_date": "2026-09-10",
+        "detected_at": "2026-08-21T03:31:46.978247Z"
+      },
+      {
+        "id": "movie-1248832",
+        "title": "Digger",
+        "old_date": "2026-10-02",
+        "new_date": "2026-09-30",
+        "detected_at": "2026-08-21T03:31:46.978259Z"
+      },
+      {
+        "id": "movie-1281331",
+        "title": "The Social Reckoning",
+        "old_date": "2026-10-09",
+        "new_date": "2026-10-07",
+        "detected_at": "2026-08-21T03:31:46.978264Z"
+      }
+    ]
   }
 ]
