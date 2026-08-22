@@ -2889,5 +2889,119 @@
         "detected_at": "2026-08-22T13:44:09.853187Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-22T19:03:11.008408Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "movie-1478484",
+        "title": "The Ghost and The Gun",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1654516",
+        "title": "Babita Singh Reporting",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-298801",
+        "title": "Le Rouge et le Noir",
+        "release_date": "2026-08-31"
+      },
+      {
+        "id": "tv-331767",
+        "title": "ДВРЗ проти шпигуна",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "movie-1228834",
+        "title": "The Fix",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "tv-314939",
+        "title": "A Love Other Than Yours",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1032863",
+        "title": "The Love Hypothesis",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "movie-1744804",
+        "title": "Partners",
+        "release_date": "2026-09-27"
+      },
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "tv-330430",
+        "title": "Love After Lockup: Relationship Rehab",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-326007",
+        "title": "Learning with Pibby: Armageddon",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1381071",
+        "title": "Godzilla Minus Zero",
+        "release_date": "2026-11-03"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1244523",
+        "title": "Beware Boiúna",
+        "old_date": "2026-10-02",
+        "new_date": "2026-10-01",
+        "detected_at": "2026-08-22T19:03:11.007806Z"
+      },
+      {
+        "id": "movie-1562642",
+        "title": "Ghost Soldier",
+        "old_date": "2026-11-04",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-08-22T19:03:11.007830Z"
+      },
+      {
+        "id": "movie-1585239",
+        "title": "Club Kid",
+        "old_date": "2026-11-04",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-08-22T19:03:11.007832Z"
+      },
+      {
+        "id": "movie-1300968",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "old_date": "2026-11-18",
+        "new_date": "2026-11-20",
+        "detected_at": "2026-08-22T19:03:11.007835Z"
+      },
+      {
+        "id": "movie-1260649",
+        "title": "Jumanji: Open World",
+        "old_date": "2026-12-25",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-08-22T19:03:11.007838Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-08-22T19:03:11.007840Z"
+      }
+    ]
   }
 ]
