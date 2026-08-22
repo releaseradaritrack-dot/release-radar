@@ -2853,5 +2853,41 @@
         "detected_at": "2026-08-22T07:45:54.864242Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-22T13:44:09.853792Z",
+    "new_titles": [
+      {
+        "id": "tv-323447",
+        "title": "NOUR",
+        "release_date": "2026-08-25"
+      },
+      {
+        "id": "movie-1599189",
+        "title": "剑来院线剧场版 十三之争",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1260649",
+        "title": "Jumanji: Open World",
+        "release_date": "2026-12-25"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1244523",
+        "title": "Beware Boiúna",
+        "old_date": "2026-10-01",
+        "new_date": "2026-10-02",
+        "detected_at": "2026-08-22T13:44:09.853172Z"
+      },
+      {
+        "id": "movie-791523",
+        "title": "Wildwood",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-22",
+        "detected_at": "2026-08-22T13:44:09.853187Z"
+      }
+    ]
   }
 ]
