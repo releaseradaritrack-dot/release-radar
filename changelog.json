@@ -2834,5 +2834,24 @@
         "detected_at": "2026-08-22T03:09:17.130517Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-22T07:45:54.864903Z",
+    "new_titles": [
+      {
+        "id": "movie-1596248",
+        "title": "If I Go Will They Miss Me",
+        "release_date": "2026-09-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-791523",
+        "title": "Wildwood",
+        "old_date": "2026-10-22",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-08-22T07:45:54.864242Z"
+      }
+    ]
   }
 ]
