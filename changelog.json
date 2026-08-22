@@ -2722,5 +2722,117 @@
         "detected_at": "2026-08-21T19:16:23.583451Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-22T03:09:17.131075Z",
+    "new_titles": [
+      {
+        "id": "movie-1382782",
+        "title": "Chili Finger",
+        "release_date": "2026-03-14"
+      },
+      {
+        "id": "movie-1741600",
+        "title": "Beautiful Girl",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "movie-1736401",
+        "title": "Scorch Marks",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "tv-330667",
+        "title": "The Great American Journey",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "tv-332433",
+        "title": "Abhishek is a Mumma's Boy",
+        "release_date": "2026-08-22"
+      },
+      {
+        "id": "tv-321984",
+        "title": "Summertime",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1746929",
+        "title": "Mr. Creamjeans' Hidey Hole",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "tv-332118",
+        "title": "Team Moms: Baseball",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "movie-1336166",
+        "title": "Rolling Loud",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-289517",
+        "title": "Dead-End Job",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1234139",
+        "title": "Jailer 2",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-858035",
+        "title": "Klara and the Sun",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1744045",
+        "title": "Moroccan Mint",
+        "release_date": "2026-11-08"
+      },
+      {
+        "id": "movie-1703273",
+        "title": "L'AUTRE",
+        "release_date": "2026-11-14"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1380417",
+        "title": "By Any Means",
+        "old_date": "2026-09-04",
+        "new_date": "2026-09-02",
+        "detected_at": "2026-08-22T03:09:17.130477Z"
+      },
+      {
+        "id": "movie-1244523",
+        "title": "Beware Boiúna",
+        "old_date": "2026-10-02",
+        "new_date": "2026-10-01",
+        "detected_at": "2026-08-22T03:09:17.130501Z"
+      },
+      {
+        "id": "movie-1255833",
+        "title": "Whalefall",
+        "old_date": "2026-10-16",
+        "new_date": "2026-10-14",
+        "detected_at": "2026-08-22T03:09:17.130509Z"
+      },
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-08-22T03:09:17.130515Z"
+      },
+      {
+        "id": "movie-1300968",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "old_date": "2026-11-20",
+        "new_date": "2026-11-18",
+        "detected_at": "2026-08-22T03:09:17.130517Z"
+      }
+    ]
   }
 ]
