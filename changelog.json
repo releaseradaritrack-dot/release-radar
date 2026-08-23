@@ -3039,5 +3039,36 @@
         "detected_at": "2026-08-23T03:31:01.625228Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-23T13:45:42.751012Z",
+    "new_titles": [
+      {
+        "id": "tv-331540",
+        "title": "Icons Unearthed: Arnold Schwarzenegger",
+        "release_date": "2026-08-25"
+      },
+      {
+        "id": "tv-331865",
+        "title": "Die letzten Tage von Kabul",
+        "release_date": "2026-08-25"
+      },
+      {
+        "id": "tv-331996",
+        "title": "月蚀迷城",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-289761",
+        "title": "醒来",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-320609",
+        "title": "İlk Göktürk",
+        "release_date": "2026-11-30"
+      }
+    ],
+    "date_changes": []
   }
 ]
