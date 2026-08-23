@@ -3070,5 +3070,29 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-08-23T19:02:28.814723Z",
+    "new_titles": [
+      {
+        "id": "tv-299247",
+        "title": "La cible",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-289517",
+        "title": "Dead-End Job",
+        "release_date": "2026-10-09"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1283515",
+        "title": "Verity",
+        "old_date": "2026-09-30",
+        "new_date": "2026-10-02",
+        "detected_at": "2026-08-23T19:02:28.813578Z"
+      }
+    ]
   }
 ]
