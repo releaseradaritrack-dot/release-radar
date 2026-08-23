@@ -3003,5 +3003,41 @@
         "detected_at": "2026-08-22T19:03:11.007840Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-23T03:31:01.625838Z",
+    "new_titles": [
+      {
+        "id": "movie-1658406",
+        "title": "Valmiki Ramayana",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1489396",
+        "title": "Eetha",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1501953",
+        "title": "Marrow",
+        "release_date": "2026-12-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1562642",
+        "title": "Ghost Soldier",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-08-23T03:31:01.625213Z"
+      },
+      {
+        "id": "movie-1300968",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "old_date": "2026-11-20",
+        "new_date": "2026-11-18",
+        "detected_at": "2026-08-23T03:31:01.625228Z"
+      }
+    ]
   }
 ]
