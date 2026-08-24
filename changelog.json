@@ -3094,5 +3094,65 @@
         "detected_at": "2026-08-23T19:02:28.813578Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-24T03:38:46.471319Z",
+    "new_titles": [
+      {
+        "id": "movie-1187326",
+        "title": "Tad and The Magic Lamp",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "movie-1562032",
+        "title": "Father Joe",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "movie-1749338",
+        "title": "OTIS",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1236045",
+        "title": "Animals",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1722904",
+        "title": "Swamp",
+        "release_date": "2026-10-23"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1447853",
+        "title": "Oasis: Don't Look Back in Anger",
+        "old_date": "2026-09-11",
+        "new_date": "2026-09-10",
+        "detected_at": "2026-08-24T03:38:46.470724Z"
+      },
+      {
+        "id": "movie-1283515",
+        "title": "Verity",
+        "old_date": "2026-10-02",
+        "new_date": "2026-09-30",
+        "detected_at": "2026-08-24T03:38:46.470745Z"
+      },
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-08-24T03:38:46.470757Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-08-24T03:38:46.470765Z"
+      }
+    ]
   }
 ]
