@@ -822,31 +822,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1284046",
-      "tmdb_id": 1284046,
-      "type": "movie",
-      "industry": "international",
-      "title": "Onslaught",
-      "original_title": "Onslaught",
-      "release_date": "2026-09-02",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Action",
-        "Horror",
-        "Thriller"
-      ],
-      "language": "en",
-      "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2R9i31zXuaE4tNBtaPjdXO9yB9y.jpg",
-      "popularity": 6.0998,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1380417",
       "tmdb_id": 1380417,
       "type": "movie",
@@ -955,6 +930,31 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/ArRSShLnQN9p73eZnN3EDwMxuh0.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/qh63SF4fr8iyOIFyElnx0GOtOP1.jpg",
       "popularity": 5.2098,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1284046",
+      "tmdb_id": 1284046,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Onslaught",
+      "original_title": "Onslaught",
+      "release_date": "2026-09-04",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2R9i31zXuaE4tNBtaPjdXO9yB9y.jpg",
+      "popularity": 6.0998,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -1607,7 +1607,7 @@
       "genres": [],
       "language": "th",
       "synopsis": "Panapsorn has spent years surviving the glittering, merciless world of nightlife entertainment, remaining soft-spoken, selfless, and carrying wounds she learned to hide behind flawless smiles. Phakinee, on the other hand, has never had to hide anything. Beautiful, wealthy, and razor-sharp, she moves through life untouched by the things that break ordinary people, until she meets Panapsorn, whose quiet strength unsettles her in ways she cannot explain away. An unexpected encounter becomes a pull neither woman can escape. But in a world ruled by power, secrets, and the ghosts of what came before, choosing each other is an act of courage. A fierce, aching, modern sapphic romance about two women, one learning she deserves love and one discovering she can feel it, as they fight for a connection neither of them saw coming.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/i8ayfi8lQBsKtP7yhjpfE4LEr0d.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2apZwqXNbi0x6D2sFsbbPaMuwQw.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/6MKr5HBuCgNQf0wABBpoQVpphQH.jpg",
       "popularity": 8.3885,
       "platform": "ott",
@@ -5080,5 +5080,5 @@
       "trailer_url": ""
     }
   ],
-  "updated_at": "2026-08-24T03:38:48.032738Z"
+  "updated_at": "2026-08-24T08:28:26.197027Z"
 }
