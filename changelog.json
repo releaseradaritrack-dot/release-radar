@@ -3167,5 +3167,81 @@
         "detected_at": "2026-08-24T08:28:24.745282Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-24T14:26:53.228865Z",
+    "new_titles": [
+      {
+        "id": "tv-330988",
+        "title": "La pícara soñadora",
+        "release_date": "2026-08-24"
+      },
+      {
+        "id": "tv-321984",
+        "title": "Summertime",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1748841",
+        "title": "Dark Hollow",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-332133",
+        "title": "How to Change the World",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "tv-299255",
+        "title": "Discipline and Punish",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-298008",
+        "title": "Plastic Beauty",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1433583",
+        "title": "The Weight",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1492640",
+        "title": "Unabomber",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1529372",
+        "title": "Don't Be Shy!",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-328361",
+        "title": "NOVA: Evolution",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1457866",
+        "title": "The Adventures of Cliff Booth",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-256726",
+        "title": "Tantara",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1501953",
+        "title": "Marrow",
+        "release_date": "2026-12-12"
+      },
+      {
+        "id": "movie-940009",
+        "title": "Ray Gunn",
+        "release_date": "2026-12-18"
+      }
+    ],
+    "date_changes": []
   }
 ]
