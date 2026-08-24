@@ -3243,5 +3243,48 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-08-24T19:20:23.494581Z",
+    "new_titles": [
+      {
+        "id": "tv-284825",
+        "title": "Mr. Fanboy",
+        "release_date": "2026-08-29"
+      },
+      {
+        "id": "tv-289517",
+        "title": "Dead-End Job",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-302020",
+        "title": "Tetsuryo! meet with Tetsudou Musume",
+        "release_date": "2026-10-09"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1284046",
+        "title": "Onslaught",
+        "old_date": "2026-09-04",
+        "new_date": "2026-09-02",
+        "detected_at": "2026-08-24T19:20:23.493820Z"
+      },
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-21",
+        "detected_at": "2026-08-24T19:20:23.493853Z"
+      },
+      {
+        "id": "movie-891621",
+        "title": "Wild Horse Nine",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-08-24T19:20:23.493856Z"
+      }
+    ]
   }
 ]
