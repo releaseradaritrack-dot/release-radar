@@ -3390,5 +3390,50 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-08-25T19:45:44.234522Z",
+    "new_titles": [
+      {
+        "id": "movie-1599784",
+        "title": "Prosecution",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "tv-330784",
+        "title": "Tuzlu Kahve",
+        "release_date": "2026-09-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-21",
+        "detected_at": "2026-08-25T19:45:44.233959Z"
+      },
+      {
+        "id": "movie-891621",
+        "title": "Wild Horse Nine",
+        "old_date": "2026-11-04",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-08-25T19:45:44.233969Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-08-25T19:45:44.233974Z"
+      },
+      {
+        "id": "movie-1260649",
+        "title": "Jumanji: Open World",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-25",
+        "detected_at": "2026-08-25T19:45:44.233976Z"
+      }
+    ]
   }
 ]
