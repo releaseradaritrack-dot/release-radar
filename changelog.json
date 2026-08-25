@@ -3286,5 +3286,68 @@
         "detected_at": "2026-08-24T19:20:23.493856Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-25T03:16:26.942846Z",
+    "new_titles": [
+      {
+        "id": "tv-292558",
+        "title": "All the Truth In My Lies",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1743858",
+        "title": "Aman",
+        "release_date": "2026-09-15"
+      },
+      {
+        "id": "movie-1751002",
+        "title": "Juvenescence",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1749338",
+        "title": "OTIS",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1300926",
+        "title": "The Angry Birds Movie 3",
+        "release_date": "2026-12-23"
+      },
+      {
+        "id": "movie-1458035",
+        "title": "Kumaari",
+        "release_date": "2026-12-23"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-321984",
+        "title": "Summertime",
+        "old_date": "2026-08-28",
+        "new_date": "2026-08-27",
+        "detected_at": "2026-08-25T03:16:26.942106Z"
+      },
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-08-25T03:16:26.942141Z"
+      },
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "old_date": "2026-09-04",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-08-25T03:16:26.942145Z"
+      }
+    ]
   }
 ]
