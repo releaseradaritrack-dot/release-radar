@@ -3349,5 +3349,46 @@
         "detected_at": "2026-08-25T03:16:26.942145Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-25T14:28:25.073522Z",
+    "new_titles": [
+      {
+        "id": "tv-331613",
+        "title": "Dive Into My Bad Rival",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-327230",
+        "title": "Boží plán",
+        "release_date": "2026-09-01"
+      },
+      {
+        "id": "tv-297577",
+        "title": "Rizzler News",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-293607",
+        "title": "100 Days of Deception",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "movie-1722904",
+        "title": "Swamp",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1501953",
+        "title": "Marrow",
+        "release_date": "2026-12-12"
+      }
+    ],
+    "date_changes": []
   }
 ]
