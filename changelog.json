@@ -3435,5 +3435,49 @@
         "detected_at": "2026-08-25T19:45:44.233976Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-26T03:35:29.635929Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "movie-1747577",
+        "title": "Terms & Conditions",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "tv-328361",
+        "title": "NOVA: Evolution",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-940009",
+        "title": "Ray Gunn",
+        "release_date": "2026-12-18"
+      },
+      {
+        "id": "movie-1145110",
+        "title": "King",
+        "release_date": "2026-12-24"
+      },
+      {
+        "id": "movie-1411089",
+        "title": "Shakti Shalini",
+        "release_date": "2026-12-24"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1260649",
+        "title": "Jumanji: Open World",
+        "old_date": "2026-12-25",
+        "new_date": "2026-12-24",
+        "detected_at": "2026-08-26T03:35:29.635176Z"
+      }
+    ]
   }
 ]
