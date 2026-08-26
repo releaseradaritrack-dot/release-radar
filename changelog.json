@@ -3479,5 +3479,25 @@
         "detected_at": "2026-08-26T03:35:29.635176Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-26T08:09:53.091721Z",
+    "new_titles": [],
+    "date_changes": [
+      {
+        "id": "movie-1284046",
+        "title": "Onslaught",
+        "old_date": "2026-09-02",
+        "new_date": "2026-09-04",
+        "detected_at": "2026-08-26T08:09:53.091009Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-08-26T08:09:53.091045Z"
+      }
+    ]
   }
 ]
