@@ -3499,5 +3499,137 @@
         "detected_at": "2026-08-26T08:09:53.091045Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-26T14:27:52.029566Z",
+    "new_titles": [
+      {
+        "id": "movie-1187326",
+        "title": "Tad and The Magic Lamp",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-326879",
+        "title": "The Airport Chaplain",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-289761",
+        "title": "Awaken",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-331996",
+        "title": "Eclipse in the Lost City",
+        "release_date": "2026-08-26"
+      },
+      {
+        "id": "tv-321293",
+        "title": "Eyes on You",
+        "release_date": "2026-08-27"
+      },
+      {
+        "id": "movie-843352",
+        "title": "Legend of the White Dragon",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-330998",
+        "title": "Philippine Selection Night",
+        "release_date": "2026-08-30"
+      },
+      {
+        "id": "tv-286988",
+        "title": "Blossom Through the Cloud",
+        "release_date": "2026-08-31"
+      },
+      {
+        "id": "tv-329662",
+        "title": "Evlilik Güzeldir",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "movie-977942",
+        "title": "The Uprising",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "tv-332401",
+        "title": "City of Blood",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1573054",
+        "title": "Play House",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-890216",
+        "title": "Pacific",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1503762",
+        "title": "Sense and Sensibility",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "tv-285322",
+        "title": "Below",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-326007",
+        "title": "Learning with Pibby: Armageddon",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-279246",
+        "title": "The Remarried Empress",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1595124",
+        "title": "Steps",
+        "release_date": "2026-11-20"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1284046",
+        "title": "Onslaught",
+        "old_date": "2026-09-04",
+        "new_date": "2026-09-02",
+        "detected_at": "2026-08-26T14:27:52.028817Z"
+      },
+      {
+        "id": "movie-1400837",
+        "title": "Other Mommy",
+        "old_date": "2026-10-08",
+        "new_date": "2026-10-09",
+        "detected_at": "2026-08-26T14:27:52.028846Z"
+      },
+      {
+        "id": "movie-1255833",
+        "title": "Whalefall",
+        "old_date": "2026-10-14",
+        "new_date": "2026-10-16",
+        "detected_at": "2026-08-26T14:27:52.028852Z"
+      },
+      {
+        "id": "movie-1376400",
+        "title": "Crawlers",
+        "old_date": "2026-10-01",
+        "new_date": "2026-10-16",
+        "detected_at": "2026-08-26T14:27:52.028853Z"
+      },
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-08-26T14:27:52.028858Z"
+      }
+    ]
   }
 ]
