@@ -3800,5 +3800,116 @@
         "detected_at": "2026-08-28T01:37:51.841677Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-28T21:56:30.931932Z",
+    "new_titles": [
+      {
+        "id": "movie-843352",
+        "title": "Legend of the White Dragon",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-278184",
+        "title": "The Full Story",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "movie-1101412",
+        "title": "Fall 2: Deadpoint",
+        "release_date": "2026-09-02"
+      },
+      {
+        "id": "movie-1386315",
+        "title": "The Runner",
+        "release_date": "2026-09-02"
+      },
+      {
+        "id": "movie-1506560",
+        "title": "Clash of the Thundermans",
+        "release_date": "2026-09-03"
+      },
+      {
+        "id": "movie-1752411",
+        "title": "Almost Afraid",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "tv-332401",
+        "title": "City of Blood",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-315479",
+        "title": "Apocalypse",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-130103",
+        "title": "Salon De Nabi",
+        "release_date": "2026-09-19"
+      },
+      {
+        "id": "tv-331726",
+        "title": "Heavy Weekend with Jake Hanrahan",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "movie-1422041",
+        "title": "La Bola Negra",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1590933",
+        "title": "You, Like a Star",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1496696",
+        "title": "Breeder",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1585239",
+        "title": "Club Kid",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-326247",
+        "title": "Fool Night",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-331962",
+        "title": "Skimmer",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-256726",
+        "title": "Tantara",
+        "release_date": "2026-12-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1263337",
+        "title": "Heart of the Beast",
+        "old_date": "2026-09-23",
+        "new_date": "2026-09-19",
+        "detected_at": "2026-08-28T21:56:30.931087Z"
+      },
+      {
+        "id": "tv-289423",
+        "title": "Take Charge of My Heart",
+        "old_date": "2026-11-20",
+        "new_date": "2026-10-09",
+        "detected_at": "2026-08-28T21:56:30.931110Z"
+      }
+    ]
   }
 ]
