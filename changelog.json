@@ -3631,5 +3631,174 @@
         "detected_at": "2026-08-26T14:27:52.028858Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-28T01:37:51.842318Z",
+    "new_titles": [
+      {
+        "id": "tv-331613",
+        "title": "Dive Into My Bad Rival",
+        "release_date": "2026-08-28"
+      },
+      {
+        "id": "tv-319659",
+        "title": "重案六组：消失的警号",
+        "release_date": "2026-08-31"
+      },
+      {
+        "id": "tv-320166",
+        "title": "Taskmaster Poland",
+        "release_date": "2026-08-31"
+      },
+      {
+        "id": "movie-1741506",
+        "title": "Le Trident",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-331033",
+        "title": "Collision",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "movie-1574560",
+        "title": "Last Man in Tower",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1751878",
+        "title": "Gorilla, Guerrilla",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1477104",
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1747682",
+        "title": "Restaurant Kids",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-326440",
+        "title": "JAŸ-Z in 8",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "tv-285418",
+        "title": "Youth",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "movie-1747577",
+        "title": "Terms & Conditions",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "movie-1618090",
+        "title": "A Statement",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "tv-231801",
+        "title": "Get Jiro",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "tv-331766",
+        "title": "Bakeskolen",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1727734",
+        "title": "Ali G: Who Iz I?",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1751955",
+        "title": "Pick Up",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-254630",
+        "title": "12 12 12",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-289423",
+        "title": "Take Charge of My Heart",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1457866",
+        "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "movie-1421903",
+        "title": "Werwulf",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-224377",
+        "title": "Harry Potter",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-321207",
+        "title": "Clara and the Below",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-328208",
+        "title": "Decisive Decisions",
+        "release_date": "2026-12-25"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-313172",
+        "title": "Chumbak",
+        "old_date": "2026-08-28",
+        "new_date": "2026-09-10",
+        "detected_at": "2026-08-28T01:37:51.841629Z"
+      },
+      {
+        "id": "movie-1400837",
+        "title": "Other Mommy",
+        "old_date": "2026-10-09",
+        "new_date": "2026-10-07",
+        "detected_at": "2026-08-28T01:37:51.841653Z"
+      },
+      {
+        "id": "movie-1255833",
+        "title": "Whalefall",
+        "old_date": "2026-10-16",
+        "new_date": "2026-10-14",
+        "detected_at": "2026-08-28T01:37:51.841659Z"
+      },
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-08-28T01:37:51.841668Z"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-10",
+        "detected_at": "2026-08-28T01:37:51.841674Z"
+      },
+      {
+        "id": "movie-1260649",
+        "title": "Jumanji: Open World",
+        "old_date": "2026-12-24",
+        "new_date": "2026-12-25",
+        "detected_at": "2026-08-28T01:37:51.841677Z"
+      }
+    ]
   }
 ]
