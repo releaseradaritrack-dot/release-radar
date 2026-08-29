@@ -3986,5 +3986,39 @@
         "detected_at": "2026-08-29T12:06:32.526307Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-29T18:05:45.553752Z",
+    "new_titles": [
+      {
+        "id": "tv-323441",
+        "title": "Pablo: Next Level",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-332302",
+        "title": "Showtime",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "tv-287453",
+        "title": "Apollo Has Fallen",
+        "release_date": "2026-09-14"
+      },
+      {
+        "id": "tv-284558",
+        "title": "Kill Jackie",
+        "release_date": "2026-10-02"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1101412",
+        "title": "Fall 2: Deadpoint",
+        "old_date": "2026-09-02",
+        "new_date": "2026-09-01",
+        "detected_at": "2026-08-29T18:05:45.552938Z"
+      }
+    ]
   }
 ]
