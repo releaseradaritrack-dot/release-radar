@@ -3962,5 +3962,29 @@
         "detected_at": "2026-08-29T00:05:42.447369Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-29T12:06:32.527129Z",
+    "new_titles": [
+      {
+        "id": "tv-298008",
+        "title": "Plastic Beauty",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-293607",
+        "title": "100 Days of Deception",
+        "release_date": "2026-10-10"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1593299",
+        "title": "The Difficult Bride",
+        "old_date": "2026-09-16",
+        "new_date": "2026-09-06",
+        "detected_at": "2026-08-29T12:06:32.526307Z"
+      }
+    ]
   }
 ]
