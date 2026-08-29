@@ -3911,5 +3911,56 @@
         "detected_at": "2026-08-28T21:56:30.931110Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-29T00:05:42.447975Z",
+    "new_titles": [
+      {
+        "id": "tv-330998",
+        "title": "Philippine Selection Night",
+        "release_date": "2026-08-30"
+      },
+      {
+        "id": "tv-10660",
+        "title": "The Box",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "tv-294636",
+        "title": "The Ordinary Jackpot",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1433583",
+        "title": "The Weight",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1522380",
+        "title": "Multwoh",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "tv-302020",
+        "title": "Tetsuryo! meet with Tetsudou Musume",
+        "release_date": "2026-10-09"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-289517",
+        "title": "Dead-End Job",
+        "old_date": "2026-10-09",
+        "new_date": "2026-10-30",
+        "detected_at": "2026-08-29T00:05:42.447357Z"
+      },
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "old_date": "2026-06-15",
+        "new_date": "2026-11-19",
+        "detected_at": "2026-08-29T00:05:42.447369Z"
+      }
+    ]
   }
 ]
