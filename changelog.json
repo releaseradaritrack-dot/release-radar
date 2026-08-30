@@ -4085,5 +4085,31 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-08-30T12:06:01.009322Z",
+    "new_titles": [
+      {
+        "id": "movie-1389153",
+        "title": "Jeevan Bheema Yojana",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-294636",
+        "title": "The Ordinary Jackpot",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "tv-326247",
+        "title": "Fool Night",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "release_date": "2026-12-04"
+      }
+    ],
+    "date_changes": []
   }
 ]
