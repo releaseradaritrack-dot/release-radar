@@ -4020,5 +4020,59 @@
         "detected_at": "2026-08-29T18:05:45.552938Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-30T00:06:50.747707Z",
+    "new_titles": [
+      {
+        "id": "movie-1596326",
+        "title": "Barbara Forever",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1741506",
+        "title": "Le Trident",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "movie-1198654",
+        "title": "Bad Apples",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "movie-1608727",
+        "title": "Vintage Violence",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "tv-332657",
+        "title": "Route 187",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1656018",
+        "title": "Michael Jackson: A Life in Music",
+        "release_date": "2026-09-29"
+      },
+      {
+        "id": "movie-1751955",
+        "title": "Pick Up",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "release_date": "2026-11-13"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "old_date": "2026-11-19",
+        "new_date": "2026-06-15",
+        "detected_at": "2026-08-30T00:06:50.746865Z"
+      }
+    ]
   }
 ]
