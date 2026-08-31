@@ -4209,5 +4209,46 @@
         "detected_at": "2026-08-31T06:07:29.268431Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-31T12:06:27.901414Z",
+    "new_titles": [
+      {
+        "id": "movie-1759264",
+        "title": "The Critique",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1154730",
+        "title": "La Gradiva",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1527075",
+        "title": "Andhar",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1751823",
+        "title": "Tanger blues",
+        "release_date": "2026-12-09"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-891621",
+        "title": "Wild Horse Nine",
+        "old_date": "2026-11-04",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-08-31T12:06:27.900532Z"
+      },
+      {
+        "id": "movie-1260649",
+        "title": "Jumanji: Open World",
+        "old_date": "2026-12-25",
+        "new_date": "2026-12-24",
+        "detected_at": "2026-08-31T12:06:27.900552Z"
+      }
+    ]
   }
 ]
