@@ -4111,5 +4111,84 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-08-31T00:07:39.770908Z",
+    "new_titles": [
+      {
+        "id": "movie-1506560",
+        "title": "Clash of the Thundermans",
+        "release_date": "2026-09-03"
+      },
+      {
+        "id": "movie-1699250",
+        "title": "Final Transmissions",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-304977",
+        "title": "Les Évaporés",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "tv-332302",
+        "title": "Showtime",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "movie-977942",
+        "title": "The Uprising",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "tv-332401",
+        "title": "City of Blood",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-299255",
+        "title": "Discipline and Punish",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1477104",
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1746787",
+        "title": "Miss Intrams",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "movie-1538457",
+        "title": "Meesaya Murukku 2",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1422041",
+        "title": "La Bola Negra",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-285322",
+        "title": "Below",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-256726",
+        "title": "Tantara",
+        "release_date": "2026-12-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-12",
+        "detected_at": "2026-08-31T00:07:39.770056Z"
+      }
+    ]
   }
 ]
