@@ -4250,5 +4250,51 @@
         "detected_at": "2026-08-31T12:06:27.900552Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-08-31T18:05:53.038880Z",
+    "new_titles": [
+      {
+        "id": "tv-329662",
+        "title": "Evlilik Güzeldir",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-287453",
+        "title": "Apollo Has Fallen",
+        "release_date": "2026-09-14"
+      },
+      {
+        "id": "tv-298008",
+        "title": "Plastic Beauty",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-130103",
+        "title": "Salon De Nabi",
+        "release_date": "2026-09-19"
+      },
+      {
+        "id": "tv-332713",
+        "title": "南田南弁護士は天才肌",
+        "release_date": "2026-10-19"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1378537",
+        "title": "Mirzapur: The Movie",
+        "old_date": "2026-09-04",
+        "new_date": "2026-09-11",
+        "detected_at": "2026-08-31T18:05:53.038228Z"
+      },
+      {
+        "id": "movie-791523",
+        "title": "Wildwood",
+        "old_date": "2026-10-22",
+        "new_date": "2026-10-21",
+        "detected_at": "2026-08-31T18:05:53.038255Z"
+      }
+    ]
   }
 ]
