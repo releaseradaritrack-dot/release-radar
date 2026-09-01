@@ -4487,5 +4487,101 @@
         "detected_at": "2026-09-01T12:14:16.558093Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-01T18:12:11.426871Z",
+    "new_titles": [
+      {
+        "id": "movie-1753582",
+        "title": "The Ballad of Being a Better Mother",
+        "release_date": "2026-09-01"
+      },
+      {
+        "id": "tv-331872",
+        "title": "Deutschland, ich küss dein Herz",
+        "release_date": "2026-09-03"
+      },
+      {
+        "id": "tv-325870",
+        "title": "Fairway of Love",
+        "release_date": "2026-09-06"
+      },
+      {
+        "id": "tv-332352",
+        "title": "Fuck la planète : le choix du réchauffement",
+        "release_date": "2026-09-08"
+      },
+      {
+        "id": "tv-332910",
+        "title": "A Killer Story",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1753614",
+        "title": "Tribeca 25",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "tv-260249",
+        "title": "El juicio",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "tv-331217",
+        "title": "Adam's Law",
+        "release_date": "2026-09-14"
+      },
+      {
+        "id": "movie-1503762",
+        "title": "Sense and Sensibility",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "tv-333483",
+        "title": "Hunkkaar: The Roar",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1096831",
+        "title": "Maserati: The Brothers",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1249202",
+        "title": "Trust Me, I'm a Doctor",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1154730",
+        "title": "La Gradiva",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1754000",
+        "title": "Exposure",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1595124",
+        "title": "Steps",
+        "release_date": "2026-11-20"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1447853",
+        "title": "Oasis: Don't Look Back in Anger",
+        "old_date": "2026-09-10",
+        "new_date": "2026-09-09",
+        "detected_at": "2026-09-01T18:12:11.426137Z"
+      },
+      {
+        "id": "movie-1244523",
+        "title": "Beware Boiúna",
+        "old_date": "2026-10-01",
+        "new_date": "2026-10-02",
+        "detected_at": "2026-09-01T18:12:11.426157Z"
+      }
+    ]
   }
 ]
