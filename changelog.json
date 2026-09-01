@@ -4410,5 +4410,16 @@
         "detected_at": "2026-09-01T00:16:32.794260Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-01T06:13:54.565803Z",
+    "new_titles": [
+      {
+        "id": "tv-332507",
+        "title": "The Last Oath",
+        "release_date": "2026-09-04"
+      }
+    ],
+    "date_changes": []
   }
 ]
