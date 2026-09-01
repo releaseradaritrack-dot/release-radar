@@ -4421,5 +4421,71 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-01T12:14:16.559013Z",
+    "new_titles": [
+      {
+        "id": "movie-1198654",
+        "title": "Bad Apples",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "tv-332302",
+        "title": "Showtime",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "movie-1596248",
+        "title": "If I Go Will They Miss Me",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1477104",
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1422041",
+        "title": "La Bola Negra",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1437981",
+        "title": "Coward",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-301354",
+        "title": "The Great King Munmu",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1489396",
+        "title": "Eetha",
+        "release_date": "2026-12-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1386315",
+        "title": "The Runner",
+        "old_date": "2026-09-02",
+        "new_date": "2026-09-03",
+        "detected_at": "2026-09-01T12:14:16.558044Z"
+      },
+      {
+        "id": "movie-891621",
+        "title": "Wild Horse Nine",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-09-01T12:14:16.558093Z"
+      }
+    ]
   }
 ]
