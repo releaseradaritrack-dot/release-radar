@@ -4296,5 +4296,119 @@
         "detected_at": "2026-08-31T18:05:53.038255Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-01T00:16:32.795081Z",
+    "new_titles": [
+      {
+        "id": "movie-1137844",
+        "title": "Mayday",
+        "release_date": "2026-09-03"
+      },
+      {
+        "id": "tv-324015",
+        "title": "BASTA",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-324048",
+        "title": "Stronger Together",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "tv-10660",
+        "title": "The Box",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "tv-332407",
+        "title": "Почти настоящий детектив",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-294636",
+        "title": "The Ordinary Jackpot",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1742897",
+        "title": "Falling into Place",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1752411",
+        "title": "Almost Afraid",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1608727",
+        "title": "Vintage Violence",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "tv-332401",
+        "title": "City of Blood",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1215889",
+        "title": "Daayra",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1753088",
+        "title": "WELP",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "movie-1656018",
+        "title": "Michael Jackson: A Life in Music",
+        "release_date": "2026-09-29"
+      },
+      {
+        "id": "movie-1753405",
+        "title": "Pentimento",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-285322",
+        "title": "Below",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-333101",
+        "title": "Treasure Island",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "movie-1294189",
+        "title": "The Mongoose",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1754000",
+        "title": "Exposure",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-332912",
+        "title": "The White House Is Fake",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-951687",
+        "title": "Narayan Pustika 2 - Endless",
+        "release_date": "2026-12-08"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "old_date": "2026-12-10",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-09-01T00:16:32.794260Z"
+      }
+    ]
   }
 ]
