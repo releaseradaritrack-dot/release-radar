@@ -4641,5 +4641,34 @@
         "detected_at": "2026-09-02T06:18:37.426909Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-02T12:14:18.390815Z",
+    "new_titles": [
+      {
+        "id": "tv-290234",
+        "title": "Lovesick",
+        "release_date": "2026-09-02"
+      },
+      {
+        "id": "tv-324821",
+        "title": "Alternative Norge",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-305551",
+        "title": "Merry Berry Love",
+        "release_date": "2026-10-07"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1386315",
+        "title": "The Runner",
+        "old_date": "2026-09-02",
+        "new_date": "2026-09-03",
+        "detected_at": "2026-09-02T12:14:18.389897Z"
+      }
+    ]
   }
 ]
