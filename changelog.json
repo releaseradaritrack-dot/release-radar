@@ -4583,5 +4583,44 @@
         "detected_at": "2026-09-01T18:12:11.426157Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-02T00:16:11.426622Z",
+    "new_titles": [
+      {
+        "id": "movie-1451944",
+        "title": "Lust Stories 3",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "tv-329524",
+        "title": "Unmasking a Monster: Aileen Wuornos",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-326247",
+        "title": "Fool Night",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1753579",
+        "title": "Bone Singer",
+        "release_date": "2026-12-31"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1656018",
+        "title": "Michael Jackson: A Life in Music",
+        "old_date": "2026-09-29",
+        "new_date": "2026-10-29",
+        "detected_at": "2026-09-02T00:16:11.425711Z"
+      }
+    ]
   }
 ]
