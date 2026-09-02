@@ -4670,5 +4670,58 @@
         "detected_at": "2026-09-02T12:14:18.389897Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-02T18:13:17.684755Z",
+    "new_titles": [
+      {
+        "id": "tv-283319",
+        "title": "Marble Hall Murders",
+        "release_date": "2026-09-06"
+      },
+      {
+        "id": "movie-1739499",
+        "title": "Alien Spa",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1760576",
+        "title": "Zakir Khan: Papa Yaar",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "tv-284558",
+        "title": "Kill Jackie",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-326247",
+        "title": "Fool Night",
+        "release_date": "2026-11-26"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1433583",
+        "title": "The Weight",
+        "old_date": "2026-09-18",
+        "new_date": "2026-09-16",
+        "detected_at": "2026-09-02T18:13:17.684058Z"
+      },
+      {
+        "id": "movie-1386315",
+        "title": "The Runner",
+        "old_date": "2026-09-03",
+        "new_date": "2026-09-17",
+        "detected_at": "2026-09-02T18:13:17.684068Z"
+      },
+      {
+        "id": "movie-1244523",
+        "title": "Beware Boiúna",
+        "old_date": "2026-10-02",
+        "new_date": "2026-10-01",
+        "detected_at": "2026-09-02T18:13:17.684075Z"
+      }
+    ]
   }
 ]
