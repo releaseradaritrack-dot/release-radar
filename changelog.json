@@ -4622,5 +4622,24 @@
         "detected_at": "2026-09-02T00:16:11.425711Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-02T06:18:37.428030Z",
+    "new_titles": [
+      {
+        "id": "movie-1477104",
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "release_date": "2026-09-17"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1386315",
+        "title": "The Runner",
+        "old_date": "2026-09-03",
+        "new_date": "2026-09-02",
+        "detected_at": "2026-09-02T06:18:37.426909Z"
+      }
+    ]
   }
 ]
