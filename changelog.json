@@ -4723,5 +4723,100 @@
         "detected_at": "2026-09-02T18:13:17.684075Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-03T00:16:50.757780Z",
+    "new_titles": [
+      {
+        "id": "movie-1752411",
+        "title": "Almost Afraid",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1517127",
+        "title": "Drifter",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1677918",
+        "title": "Land of No Man",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "tv-331726",
+        "title": "Heavy Weekend with Jake Hanrahan",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-318918",
+        "title": "LEGO ONE PIECE",
+        "release_date": "2026-09-29"
+      },
+      {
+        "id": "tv-332808",
+        "title": "Archive X: Unexplained Phenomena",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-1714183",
+        "title": "Justice",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "movie-1096831",
+        "title": "Maserati: The Brothers",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1381071",
+        "title": "Godzilla Minus Zero",
+        "release_date": "2026-11-03"
+      },
+      {
+        "id": "movie-1599189",
+        "title": "剑来院线剧场版 十三之争",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-319346",
+        "title": "The Ex-Wives of Beverly Hills",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-327127",
+        "title": "Nuits Blanches",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1386315",
+        "title": "The Runner",
+        "old_date": "2026-09-17",
+        "new_date": "2026-09-03",
+        "detected_at": "2026-09-03T00:16:50.756793Z"
+      },
+      {
+        "id": "movie-1378537",
+        "title": "Mirzapur: The Movie",
+        "old_date": "2026-09-11",
+        "new_date": "2026-09-04",
+        "detected_at": "2026-09-03T00:16:50.756806Z"
+      },
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-09-03T00:16:50.756834Z"
+      },
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-03T00:16:50.756840Z"
+      }
+    ]
   }
 ]
