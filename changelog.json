@@ -4818,5 +4818,29 @@
         "detected_at": "2026-09-03T00:16:50.756840Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-03T12:14:39.432064Z",
+    "new_titles": [
+      {
+        "id": "tv-322723",
+        "title": "Boy, with caution",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-1532610",
+        "title": "INK",
+        "release_date": "2026-12-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1433583",
+        "title": "The Weight",
+        "old_date": "2026-09-16",
+        "new_date": "2026-09-18",
+        "detected_at": "2026-09-03T12:14:39.431040Z"
+      }
+    ]
   }
 ]
