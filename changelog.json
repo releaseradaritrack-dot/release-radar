@@ -4842,5 +4842,56 @@
         "detected_at": "2026-09-03T12:14:39.431040Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-03T18:12:37.121197Z",
+    "new_titles": [
+      {
+        "id": "tv-320916",
+        "title": "Villa Coral",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "movie-1742914",
+        "title": "No Handouts",
+        "release_date": "2026-09-14"
+      },
+      {
+        "id": "tv-331766",
+        "title": "Bakeskolen",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1755500",
+        "title": "Five Figurines",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1595124",
+        "title": "Steps",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-283502",
+        "title": "The Triplets",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1433583",
+        "title": "The Weight",
+        "old_date": "2026-09-18",
+        "new_date": "2026-09-16",
+        "detected_at": "2026-09-03T18:12:37.120207Z"
+      },
+      {
+        "id": "movie-1281331",
+        "title": "The Social Reckoning",
+        "old_date": "2026-10-07",
+        "new_date": "2026-10-09",
+        "detected_at": "2026-09-03T18:12:37.120229Z"
+      }
+    ]
   }
 ]
