@@ -4982,5 +4982,56 @@
         "detected_at": "2026-09-04T00:15:46.756993Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-04T12:14:03.708614Z",
+    "new_titles": [
+      {
+        "id": "tv-331750",
+        "title": "The Court",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-332507",
+        "title": "The Last Oath",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-329471",
+        "title": "The Grand Tour",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-312359",
+        "title": "Dragon Ball Super: Beerus",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "movie-848700",
+        "title": "Minotaur",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1545540",
+        "title": "Axolodyssey",
+        "release_date": "2026-11-23"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-21",
+        "detected_at": "2026-09-04T12:14:03.707662Z"
+      },
+      {
+        "id": "movie-656908",
+        "title": "Ramayana",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-05",
+        "detected_at": "2026-09-04T12:14:03.707679Z"
+      }
+    ]
   }
 ]
