@@ -5033,5 +5033,59 @@
         "detected_at": "2026-09-04T12:14:03.707679Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-04T18:11:59.740510Z",
+    "new_titles": [
+      {
+        "id": "movie-1433157",
+        "title": "Nature: The Call for Reconciliation",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1571981",
+        "title": "Jellyfish, The new Rulers of the Ocean",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1756547",
+        "title": "Alice Appears",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1477104",
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-329190",
+        "title": "Mission: Mompossible",
+        "release_date": "2026-09-28"
+      },
+      {
+        "id": "tv-327765",
+        "title": "Super Psychic Policeman Chojo",
+        "release_date": "2026-10-06"
+      },
+      {
+        "id": "tv-295684",
+        "title": "Aquel",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "release_date": "2026-11-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-09-04T18:11:59.739787Z"
+      }
+    ]
   }
 ]
