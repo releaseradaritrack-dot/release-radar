@@ -4893,5 +4893,94 @@
         "detected_at": "2026-09-03T18:12:37.120229Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-04T00:15:46.757969Z",
+    "new_titles": [
+      {
+        "id": "movie-1741506",
+        "title": "Le Trident",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-332352",
+        "title": "Fuck la planète : le choix du réchauffement",
+        "release_date": "2026-09-08"
+      },
+      {
+        "id": "tv-332302",
+        "title": "Showtime",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "movie-1754613",
+        "title": "Meat Daddy",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "tv-279736",
+        "title": "Bucks County, USA",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "movie-1747577",
+        "title": "Terms & Conditions",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "movie-1522690",
+        "title": "The Lost Children of Tuam",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-332902",
+        "title": "Still Flipping Out",
+        "release_date": "2026-09-28"
+      },
+      {
+        "id": "tv-322723",
+        "title": "Boy, with caution",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-319800",
+        "title": "NCIS: New York",
+        "release_date": "2026-10-06"
+      },
+      {
+        "id": "movie-1154730",
+        "title": "La Gradiva",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1751955",
+        "title": "Pick Up",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-314271",
+        "title": "Bass X Machina",
+        "release_date": "2026-11-03"
+      },
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-301354",
+        "title": "The Great King Munmu",
+        "release_date": "2026-11-14"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1281331",
+        "title": "The Social Reckoning",
+        "old_date": "2026-10-09",
+        "new_date": "2026-10-07",
+        "detected_at": "2026-09-04T00:15:46.756993Z"
+      }
+    ]
   }
 ]
