@@ -5188,5 +5188,18 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-05T06:12:20.505649Z",
+    "new_titles": [],
+    "date_changes": [
+      {
+        "id": "movie-891621",
+        "title": "Wild Horse Nine",
+        "old_date": "2026-11-04",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-09-05T06:12:20.504660Z"
+      }
+    ]
   }
 ]
