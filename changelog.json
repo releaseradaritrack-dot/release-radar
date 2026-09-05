@@ -5087,5 +5087,106 @@
         "detected_at": "2026-09-04T18:11:59.739787Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-05T00:16:08.867123Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "movie-1562032",
+        "title": "Father Joe",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "movie-1763591",
+        "title": "The Transition",
+        "release_date": "2026-09-06"
+      },
+      {
+        "id": "tv-332407",
+        "title": "Почти настоящий детектив",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "tv-332302",
+        "title": "Showtime",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "tv-314939",
+        "title": "A Love Other Than Yours",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "tv-312663",
+        "title": "The Fixers",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1522380",
+        "title": "Multwoh",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "movie-1285815",
+        "title": "Mahakavya Shri Ramayan Katha – Shri Ram Ki",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1744804",
+        "title": "Partners",
+        "release_date": "2026-09-27"
+      },
+      {
+        "id": "movie-1492198",
+        "title": "Artificial",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "movie-1753405",
+        "title": "Pentimento",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-289423",
+        "title": "Take Charge of My Heart",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-329575",
+        "title": "The Pellikandy Show",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "tv-332912",
+        "title": "The White House Is Fake",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1545540",
+        "title": "Axolodyssey",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "movie-1280115",
+        "title": "Way of the Warrior Kid",
+        "release_date": "2026-11-24"
+      },
+      {
+        "id": "movie-940009",
+        "title": "Ray Gunn",
+        "release_date": "2026-12-18"
+      },
+      {
+        "id": "movie-1372443",
+        "title": "Mr. Irrelevant: The John Tuggle Story",
+        "release_date": "2026-12-25"
+      }
+    ],
+    "date_changes": []
   }
 ]
