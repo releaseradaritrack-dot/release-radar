@@ -5220,5 +5220,66 @@
         "detected_at": "2026-09-05T12:12:06.583719Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-05T18:11:13.137254Z",
+    "new_titles": [
+      {
+        "id": "tv-324088",
+        "title": "Witch Detectives",
+        "release_date": "2026-09-05"
+      },
+      {
+        "id": "movie-1503762",
+        "title": "Sense and Sensibility",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "tv-329524",
+        "title": "Unmasking a Monster: Aileen Wuornos",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-311842",
+        "title": "FX Fighter Kurumi-chan",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-324824",
+        "title": "Mayday",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-303745",
+        "title": "Love In Disguise",
+        "release_date": "2026-10-19"
+      },
+      {
+        "id": "tv-326788",
+        "title": "Cyberpunk: Edgerunners 2",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "tv-327127",
+        "title": "Nuits Blanches",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1244523",
+        "title": "Beware Boiúna",
+        "old_date": "2026-10-01",
+        "new_date": "2026-10-02",
+        "detected_at": "2026-09-05T18:11:13.136289Z"
+      },
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-21",
+        "detected_at": "2026-09-05T18:11:13.136306Z"
+      }
+    ]
   }
 ]
