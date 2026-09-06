@@ -5441,5 +5441,29 @@
         "detected_at": "2026-09-06T12:13:25.964099Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-06T18:11:30.764868Z",
+    "new_titles": [
+      {
+        "id": "tv-321691",
+        "title": "The Great American Road Rally: Celebrity Edition",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1584077",
+        "title": "First Witch",
+        "release_date": "2026-10-08"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-891621",
+        "title": "Wild Horse Nine",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-09-06T18:11:30.763910Z"
+      }
+    ]
   }
 ]
