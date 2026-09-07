@@ -5582,5 +5582,21 @@
         "detected_at": "2026-09-07T06:15:16.929801Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-07T12:13:55.856565Z",
+    "new_titles": [
+      {
+        "id": "tv-334326",
+        "title": "Shayad Yahi Hai Pyaar",
+        "release_date": "2026-09-28"
+      },
+      {
+        "id": "tv-293610",
+        "title": "Doctor X",
+        "release_date": "2026-10-09"
+      }
+    ],
+    "date_changes": []
   }
 ]
