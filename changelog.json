@@ -5598,5 +5598,116 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-07T18:13:07.087124Z",
+    "new_titles": [
+      {
+        "id": "movie-1564198",
+        "title": "Twist & Shoot: Mister Suzuki",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "tv-325755",
+        "title": "The Perfect Lie",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1608727",
+        "title": "Vintage Violence",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "tv-312663",
+        "title": "The Fixers",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1756663",
+        "title": "The Godless",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "tv-333002",
+        "title": "Blue Season",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "movie-1422041",
+        "title": "La bola negra",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1744804",
+        "title": "Partners",
+        "release_date": "2026-09-27"
+      },
+      {
+        "id": "movie-1618090",
+        "title": "A Statement",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "tv-327765",
+        "title": "Super Psychic Policeman Chojo",
+        "release_date": "2026-10-06"
+      },
+      {
+        "id": "tv-307478",
+        "title": "The Perfect Lie",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-848700",
+        "title": "Minotaur",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-331766",
+        "title": "Bakeskolen",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1758599",
+        "title": "Manual Wind",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1234139",
+        "title": "Jailer 2",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1512967",
+        "title": "Dirt in Your Face",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1578488",
+        "title": "Merry Christmas Aubrey Flint",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-326247",
+        "title": "Fool Night",
+        "release_date": "2026-11-26"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-656908",
+        "title": "Ramayana",
+        "old_date": "2026-11-05",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-09-07T18:13:07.086057Z"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-10",
+        "detected_at": "2026-09-07T18:13:07.086071Z"
+      }
+    ]
   }
 ]
