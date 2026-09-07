@@ -5465,5 +5465,96 @@
         "detected_at": "2026-09-06T18:11:30.763910Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-07T00:17:22.601211Z",
+    "new_titles": [
+      {
+        "id": "tv-323441",
+        "title": "Pablo: Next Level",
+        "release_date": "2026-09-07"
+      },
+      {
+        "id": "movie-1744677",
+        "title": "Mindflip",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1481609",
+        "title": "Closing Night",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1640649",
+        "title": "Love Lottery",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1747577",
+        "title": "Terms & Conditions",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "tv-297577",
+        "title": "Rizzler News",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-307106",
+        "title": "Between Steps",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-293610",
+        "title": "Doctor X",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1437981",
+        "title": "Coward",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1757829",
+        "title": "Gloss",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-301354",
+        "title": "The Great King Munmu",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1599230",
+        "title": "Elsinore",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-283502",
+        "title": "The Triplets",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1528042",
+        "title": "Mouthwashing : The Film",
+        "release_date": "2027-01-05"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-09-07T00:17:22.599865Z"
+      },
+      {
+        "id": "movie-1457866",
+        "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "old_date": "2026-11-25",
+        "new_date": "2026-11-26",
+        "detected_at": "2026-09-07T00:17:22.599884Z"
+      }
+    ]
   }
 ]
