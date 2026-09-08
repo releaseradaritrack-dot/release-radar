@@ -5807,5 +5807,54 @@
         "detected_at": "2026-09-08T12:14:43.061681Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-08T18:12:41.671425Z",
+    "new_titles": [
+      {
+        "id": "tv-301489",
+        "title": "Abyss",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "tv-294636",
+        "title": "The Ordinary Jackpot",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "tv-324821",
+        "title": "Alternative Norge",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-298008",
+        "title": "Plastic Beauty",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-330800",
+        "title": "The Wargame",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "tv-303745",
+        "title": "Love In Disguise",
+        "release_date": "2026-10-19"
+      },
+      {
+        "id": "tv-258862",
+        "title": "Sacred Jewel",
+        "release_date": "2026-12-05"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1248832",
+        "title": "Digger",
+        "old_date": "2026-10-02",
+        "new_date": "2026-09-30",
+        "detected_at": "2026-09-08T18:12:41.670501Z"
+      }
+    ]
   }
 ]
