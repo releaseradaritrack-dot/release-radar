@@ -5709,5 +5709,51 @@
         "detected_at": "2026-09-07T18:13:07.086071Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-08T00:17:11.077917Z",
+    "new_titles": [
+      {
+        "id": "tv-332679",
+        "title": "Your Love Is a Fire",
+        "release_date": "2026-09-09"
+      },
+      {
+        "id": "tv-332909",
+        "title": "Big Brother: The Group Chat",
+        "release_date": "2026-09-13"
+      },
+      {
+        "id": "tv-279736",
+        "title": "Bucks County, USA",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-329190",
+        "title": "Mission: Mompossible",
+        "release_date": "2026-09-28"
+      },
+      {
+        "id": "movie-1479690",
+        "title": "RaftaaR",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1457866",
+        "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1458035",
+        "title": "Kumaari",
+        "release_date": "2026-12-23"
+      },
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "release_date": "2027-01-08"
+      }
+    ],
+    "date_changes": []
   }
 ]
