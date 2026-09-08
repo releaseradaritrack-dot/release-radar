@@ -5766,5 +5766,46 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-08T12:14:43.062702Z",
+    "new_titles": [
+      {
+        "id": "movie-1739499",
+        "title": "Alien Spa",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1503762",
+        "title": "Sense and Sensibility",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "tv-285147",
+        "title": "Shaque: Trust No One",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "tv-334412",
+        "title": "Student of the Year 3",
+        "release_date": "2026-12-25"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1248832",
+        "title": "Digger",
+        "old_date": "2026-09-30",
+        "new_date": "2026-10-02",
+        "detected_at": "2026-09-08T12:14:43.061653Z"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "old_date": "2026-12-10",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-09-08T12:14:43.061681Z"
+      }
+    ]
   }
 ]
