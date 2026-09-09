@@ -5856,5 +5856,135 @@
         "detected_at": "2026-09-08T18:12:41.670501Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-09T00:17:26.743950Z",
+    "new_titles": [
+      {
+        "id": "tv-332910",
+        "title": "A Killer Story",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1198654",
+        "title": "Bad Apples",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "tv-333400",
+        "title": "The Howard Stern Show",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1529372",
+        "title": "Don't Be Shy!",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1538457",
+        "title": "Meesaya Murukku 2",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-329190",
+        "title": "Mission: Mompossible",
+        "release_date": "2026-09-28"
+      },
+      {
+        "id": "tv-324824",
+        "title": "Mayday",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-1476746",
+        "title": "The Florist",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1758599",
+        "title": "Manual Wind",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1496696",
+        "title": "Breeder",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1154730",
+        "title": "La Gradiva",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1084409",
+        "title": "A Talent for Murder",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-333533",
+        "title": "The One About Matthew Perry",
+        "release_date": "2026-10-27"
+      },
+      {
+        "id": "movie-1381071",
+        "title": "Godzilla Minus Zero",
+        "release_date": "2026-11-03"
+      },
+      {
+        "id": "tv-332912",
+        "title": "The White House Is Fake",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1599189",
+        "title": "剑来院线剧场版 十三之争",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-307325",
+        "title": "The Eyes",
+        "release_date": "2026-12-18"
+      },
+      {
+        "id": "movie-1623092",
+        "title": "Hero Ki Horrorine",
+        "release_date": "2027-01-07"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1170608",
+        "title": "Dune: Part Three",
+        "old_date": "2026-12-15",
+        "new_date": "2026-09-15",
+        "detected_at": "2026-09-09T00:17:26.743341Z"
+      },
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-09-09T00:17:26.743363Z"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-12",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-09T00:17:26.743365Z"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-10",
+        "detected_at": "2026-09-09T00:17:26.743368Z"
+      }
+    ]
   }
 ]
