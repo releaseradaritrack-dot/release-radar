@@ -5997,5 +5997,79 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-09T18:13:32.304926Z",
+    "new_titles": [
+      {
+        "id": "tv-332910",
+        "title": "A Killer Story",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1198654",
+        "title": "Bad Apples",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "tv-290863",
+        "title": "Cold Hunt",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1744677",
+        "title": "Mindflip",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "tv-331932",
+        "title": "Ali Baba aur 40 Bhoot",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1444454",
+        "title": "Diary of a Mad Old Man",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1608727",
+        "title": "Vintage Violence",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "tv-299255",
+        "title": "Minimum Security",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1655286",
+        "title": "Pathetic Fallacy",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "movie-1742243",
+        "title": "Mission D.D.L.J.",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-307985",
+        "title": "Serial Cleaner",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-1757829",
+        "title": "Gloss",
+        "release_date": "2026-10-29"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-12",
+        "detected_at": "2026-09-09T18:13:32.303806Z"
+      }
+    ]
   }
 ]
