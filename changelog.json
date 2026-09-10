@@ -6135,5 +6135,16 @@
         "detected_at": "2026-09-10T00:15:42.129954Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-10T06:14:36.824508Z",
+    "new_titles": [
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "release_date": "2026-11-13"
+      }
+    ],
+    "date_changes": []
   }
 ]
