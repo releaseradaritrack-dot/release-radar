@@ -6071,5 +6071,69 @@
         "detected_at": "2026-09-09T18:13:32.303806Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-10T00:15:42.131011Z",
+    "new_titles": [
+      {
+        "id": "tv-298008",
+        "title": "Plastic Beauty",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-301187",
+        "title": "The Art of Falling",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1744804",
+        "title": "Partners",
+        "release_date": "2026-09-27"
+      },
+      {
+        "id": "tv-324824",
+        "title": "Mayday",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-848700",
+        "title": "Minotaur",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1234139",
+        "title": "Jailer 2",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1084409",
+        "title": "A Talent for Murder",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-951687",
+        "title": "Narayan Pustika 2 - Endless",
+        "release_date": "2026-12-08"
+      },
+      {
+        "id": "movie-1421903",
+        "title": "Werwulf",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-283502",
+        "title": "The Triplets",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1170608",
+        "title": "Dune: Part Three",
+        "old_date": "2026-09-15",
+        "new_date": "2026-12-15",
+        "detected_at": "2026-09-10T00:15:42.129954Z"
+      }
+    ]
   }
 ]
