@@ -6157,5 +6157,81 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-10T18:12:10.460382Z",
+    "new_titles": [
+      {
+        "id": "tv-334611",
+        "title": "Gunehgar Rishtey",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "tv-295263",
+        "title": "Police in Love",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "tv-324821",
+        "title": "Alternative Norge",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1747577",
+        "title": "Terms & Conditions",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "tv-333547",
+        "title": "House Shock",
+        "release_date": "2026-09-22"
+      },
+      {
+        "id": "movie-1732420",
+        "title": "Power Trip",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "movie-1757445",
+        "title": "X-Communicado",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "movie-1753405",
+        "title": "Pentimento",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-1476746",
+        "title": "The Florist",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1765072",
+        "title": "You Can See Everything",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-316702",
+        "title": "Final Table",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1757312",
+        "title": "The Disenchantment",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1458300",
+        "title": "The Mosquito Bowl",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1585239",
+        "title": "Club Kid",
+        "release_date": "2026-11-06"
+      }
+    ],
+    "date_changes": []
   }
 ]
