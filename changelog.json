@@ -6233,5 +6233,89 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-11T00:15:28.172472Z",
+    "new_titles": [
+      {
+        "id": "movie-1744677",
+        "title": "Mindflip",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "movie-1591675",
+        "title": "Look Back",
+        "release_date": "2026-09-11"
+      },
+      {
+        "id": "tv-298008",
+        "title": "Plastic Beauty",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-279736",
+        "title": "Bucks County, USA",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-305357",
+        "title": "A Different World",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "tv-310890",
+        "title": "Slo Pitch",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-305551",
+        "title": "Merry Berry Love",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-1760176",
+        "title": "Fellas",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-848700",
+        "title": "Minotaur",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-331766",
+        "title": "Bakeskolen",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-204084",
+        "title": "Dreamland",
+        "release_date": "2026-10-17"
+      },
+      {
+        "id": "tv-313137",
+        "title": "The Golden Life",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "tv-326788",
+        "title": "Cyberpunk: Edgerunners 2",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "movie-1599230",
+        "title": "Elsinore",
+        "release_date": "2026-11-20"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1457866",
+        "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "old_date": "2026-11-26",
+        "new_date": "2026-11-25",
+        "detected_at": "2026-09-11T00:15:28.171469Z"
+      }
+    ]
   }
 ]
