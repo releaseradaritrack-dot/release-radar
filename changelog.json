@@ -6459,5 +6459,24 @@
         "detected_at": "2026-09-12T00:14:08.969310Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-12T12:12:27.753973Z",
+    "new_titles": [
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D.",
+        "release_date": "2026-12-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-09-12T12:12:27.752772Z"
+      }
+    ]
   }
 ]
