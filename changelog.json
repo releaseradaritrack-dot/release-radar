@@ -6478,5 +6478,95 @@
         "detected_at": "2026-09-12T12:12:27.752772Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-12T18:11:21.089609Z",
+    "new_titles": [
+      {
+        "id": "movie-1742914",
+        "title": "No Handouts",
+        "release_date": "2026-09-14"
+      },
+      {
+        "id": "tv-334077",
+        "title": "Destino Maior",
+        "release_date": "2026-09-14"
+      },
+      {
+        "id": "movie-1763052",
+        "title": "Concerto Muerto",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1762529",
+        "title": "The Unrehearsed",
+        "release_date": "2026-09-19"
+      },
+      {
+        "id": "tv-333016",
+        "title": "Outside",
+        "release_date": "2026-09-28"
+      },
+      {
+        "id": "movie-1763332",
+        "title": "Orang Perang",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-1336166",
+        "title": "Rolling Loud: The Movie",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-320513",
+        "title": "kiDnap GAME",
+        "release_date": "2026-10-06"
+      },
+      {
+        "id": "movie-848700",
+        "title": "Minotaur",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1416312",
+        "title": "Little Thomas",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1755408",
+        "title": "No Choice",
+        "release_date": "2026-12-02"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1477104",
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "old_date": "2026-09-12",
+        "new_date": "2026-09-17",
+        "detected_at": "2026-09-12T18:11:21.088649Z"
+      },
+      {
+        "id": "movie-1117898",
+        "title": "The Cat in the Hat",
+        "old_date": "2026-11-05",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-09-12T18:11:21.088677Z"
+      },
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-09-12T18:11:21.088679Z"
+      },
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-12T18:11:21.088681Z"
+      }
+    ]
   }
 ]
