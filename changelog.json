@@ -6359,5 +6359,105 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-12T00:14:08.970224Z",
+    "new_titles": [
+      {
+        "id": "tv-333397",
+        "title": "The Assignment with Antonia Hylton",
+        "release_date": "2026-09-12"
+      },
+      {
+        "id": "movie-1768435",
+        "title": "Beliphool",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1649218",
+        "title": "Femení, singular",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "tv-333827",
+        "title": "Problem Child",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "tv-310890",
+        "title": "Slo Pitch",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-301187",
+        "title": "The Art of Falling",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1596303",
+        "title": "The Last First: Winter K2",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1759016",
+        "title": "Prince",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-1288069",
+        "title": "Tenzing",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1458300",
+        "title": "The Mosquito Bowl",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-279246",
+        "title": "The Remarried Empress",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-331962",
+        "title": "Skimmer",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1736651",
+        "title": "The Test",
+        "release_date": "2026-12-08"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1477104",
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "old_date": "2026-09-17",
+        "new_date": "2026-09-12",
+        "detected_at": "2026-09-12T00:14:08.969267Z"
+      },
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-12T00:14:08.969305Z"
+      },
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-12T00:14:08.969307Z"
+      },
+      {
+        "id": "movie-1457866",
+        "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "old_date": "2026-11-25",
+        "new_date": "2026-11-26",
+        "detected_at": "2026-09-12T00:14:08.969310Z"
+      }
+    ]
   }
 ]
