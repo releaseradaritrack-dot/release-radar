@@ -6641,5 +6641,54 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-13T18:11:44.696636Z",
+    "new_titles": [
+      {
+        "id": "tv-315479",
+        "title": "Apocalypse",
+        "release_date": "2026-09-13"
+      },
+      {
+        "id": "tv-316488",
+        "title": "Unexpected Loves",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1744046",
+        "title": "Bleeding Hearts",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-333443",
+        "title": "American Mayhem",
+        "release_date": "2026-09-19"
+      },
+      {
+        "id": "movie-1755291",
+        "title": "NAZA",
+        "release_date": "2026-09-28"
+      },
+      {
+        "id": "tv-331766",
+        "title": "Bakeskolen",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1595124",
+        "title": "Steps",
+        "release_date": "2026-11-20"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-791523",
+        "title": "Wildwood",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-09-13T18:11:44.695452Z"
+      }
+    ]
   }
 ]
