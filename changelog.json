@@ -6568,5 +6568,56 @@
         "detected_at": "2026-09-12T18:11:21.088681Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-13T00:15:02.706570Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "tv-312557",
+        "title": "Minerva Academy",
+        "release_date": "2026-09-22"
+      },
+      {
+        "id": "tv-332118",
+        "title": "Team Moms: Baseball",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "tv-313078",
+        "title": "Mystery Science Theater 3000: The RiffTrax Experiments",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-326007",
+        "title": "Learning with Pibby: Armageddon",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "release_date": "2027-01-08"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-330430",
+        "title": "Love After Lockup: Relationship Rehab",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-02",
+        "detected_at": "2026-09-13T00:15:02.705709Z"
+      },
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-09-13T00:15:02.705729Z"
+      }
+    ]
   }
 ]
