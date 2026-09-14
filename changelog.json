@@ -6758,5 +6758,16 @@
         "detected_at": "2026-09-14T00:15:42.401359Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-14T06:15:18.631955Z",
+    "new_titles": [
+      {
+        "id": "movie-1372443",
+        "title": "Mr. Irrelevant",
+        "release_date": "2026-12-25"
+      }
+    ],
+    "date_changes": []
   }
 ]
