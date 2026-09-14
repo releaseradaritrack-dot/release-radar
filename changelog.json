@@ -6780,5 +6780,97 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-14T18:11:52.871973Z",
+    "new_titles": [
+      {
+        "id": "tv-318312",
+        "title": "Tommy & Tuppence",
+        "release_date": "2026-09-15"
+      },
+      {
+        "id": "tv-294990",
+        "title": "Spring of the Blade",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1503762",
+        "title": "Sense and Sensibility",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "tv-295490",
+        "title": "Camarades",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "tv-290233",
+        "title": "The Circle",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-1753405",
+        "title": "Pentimento",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-848700",
+        "title": "Minotaur",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-320609",
+        "title": "İlk Göktürk",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D.",
+        "release_date": "2026-12-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-09-14T18:11:52.870863Z"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-12",
+        "detected_at": "2026-09-14T18:11:52.870875Z"
+      },
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-14T18:11:52.870878Z"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "old_date": "2026-12-10",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-09-14T18:11:52.870885Z"
+      },
+      {
+        "id": "movie-1260649",
+        "title": "Jumanji: Open World",
+        "old_date": "2026-12-24",
+        "new_date": "2026-12-23",
+        "detected_at": "2026-09-14T18:11:52.870888Z"
+      }
+    ]
   }
 ]
