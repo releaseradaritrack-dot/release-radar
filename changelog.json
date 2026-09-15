@@ -6928,5 +6928,21 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-15T06:14:36.313063Z",
+    "new_titles": [
+      {
+        "id": "movie-1596303",
+        "title": "The Last First: Winter K2",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-848700",
+        "title": "Minotaur",
+        "release_date": "2026-10-14"
+      }
+    ],
+    "date_changes": []
   }
 ]
