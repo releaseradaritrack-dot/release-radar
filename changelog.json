@@ -6944,5 +6944,36 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-15T12:13:13.993055Z",
+    "new_titles": [
+      {
+        "id": "tv-318312",
+        "title": "Tommy & Tuppence",
+        "release_date": "2026-09-15"
+      },
+      {
+        "id": "tv-303745",
+        "title": "Love in Disguise",
+        "release_date": "2026-10-19"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1640649",
+        "title": "Love Lottery",
+        "old_date": "2026-09-18",
+        "new_date": "2026-09-25",
+        "detected_at": "2026-09-15T12:13:13.991821Z"
+      },
+      {
+        "id": "tv-329143",
+        "title": "AndherPura Curse",
+        "old_date": "2026-10-09",
+        "new_date": "2026-11-21",
+        "detected_at": "2026-09-15T12:13:13.991851Z"
+      }
+    ]
   }
 ]
