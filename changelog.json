@@ -6975,5 +6975,80 @@
         "detected_at": "2026-09-15T12:13:13.991851Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-15T18:11:44.696931Z",
+    "new_titles": [
+      {
+        "id": "movie-1477104",
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1564324",
+        "title": "Adam's Eight",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1437396",
+        "title": "Your Mother Your Mother Your Mother",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1413728",
+        "title": "Art of Destruction",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "tv-307985",
+        "title": "Serial Cleaner",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-204084",
+        "title": "Dreamland",
+        "release_date": "2026-10-17"
+      },
+      {
+        "id": "tv-258862",
+        "title": "Sacred Jewel",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "tv-334165",
+        "title": "Cube & Epps",
+        "release_date": "2027-01-08"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1433583",
+        "title": "The Weight",
+        "old_date": "2026-09-16",
+        "new_date": "2026-09-18",
+        "detected_at": "2026-09-15T18:11:44.695687Z"
+      },
+      {
+        "id": "movie-1400940",
+        "title": "Clayface",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-09-15T18:11:44.695715Z"
+      },
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-09-15T18:11:44.695717Z"
+      },
+      {
+        "id": "movie-656908",
+        "title": "Ramayana",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-05",
+        "detected_at": "2026-09-15T18:11:44.695722Z"
+      }
+    ]
   }
 ]
