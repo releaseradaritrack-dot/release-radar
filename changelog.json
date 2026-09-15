@@ -6872,5 +6872,61 @@
         "detected_at": "2026-09-14T18:11:52.870888Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-15T00:15:24.002252Z",
+    "new_titles": [
+      {
+        "id": "movie-1477104",
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-279736",
+        "title": "Bucks County, USA",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-327309",
+        "title": "Baddie",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "movie-1285815",
+        "title": "Mahakavya Shri Ramayan Katha – Shri Ram Ki",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1564177",
+        "title": "Dongri: Gangster's Paradise",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-288458",
+        "title": "Ben-Hur: A Série",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-314360",
+        "title": "YAGA",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-334273",
+        "title": "Marina i Futa",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1454104",
+        "title": "Secondes chances",
+        "release_date": "2027-01-13"
+      },
+      {
+        "id": "movie-1440769",
+        "title": "The Beekeeper 2",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": []
   }
 ]
