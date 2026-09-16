@@ -7157,5 +7157,26 @@
         "detected_at": "2026-09-16T00:13:49.611089Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-16T12:13:44.619915Z",
+    "new_titles": [
+      {
+        "id": "tv-335332",
+        "title": "Waiting Hai",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-295089",
+        "title": "The Doll",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "tv-316488",
+        "title": "Unexpected Loves",
+        "release_date": "2026-09-16"
+      }
+    ],
+    "date_changes": []
   }
 ]
