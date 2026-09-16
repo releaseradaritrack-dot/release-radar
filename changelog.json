@@ -7050,5 +7050,112 @@
         "detected_at": "2026-09-15T18:11:44.695722Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-16T00:13:49.612386Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "tv-299255",
+        "title": "Minimum Security",
+        "release_date": "2026-09-16"
+      },
+      {
+        "id": "movie-1473148",
+        "title": "Gentle Monster",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-294990",
+        "title": "Spring of the Blade",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1755880",
+        "title": "Piece",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1746787",
+        "title": "Miss Intrams",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "tv-305551",
+        "title": "Merry Berry Love",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-313078",
+        "title": "Mystery Science Theater 3000: The RiffTrax Experiments",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-307478",
+        "title": "The Perfect Lie",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-288458",
+        "title": "Ben-Hur: A Série",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-270596",
+        "title": "The Murder of JonBenét Ramsey",
+        "release_date": "2026-12-10"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1433583",
+        "title": "The Weight",
+        "old_date": "2026-09-18",
+        "new_date": "2026-09-16",
+        "detected_at": "2026-09-16T00:13:49.611045Z"
+      },
+      {
+        "id": "tv-295490",
+        "title": "Camarades",
+        "old_date": "2026-09-24",
+        "new_date": "2026-09-16",
+        "detected_at": "2026-09-16T00:13:49.611062Z"
+      },
+      {
+        "id": "movie-1400940",
+        "title": "Clayface",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-21",
+        "detected_at": "2026-09-16T00:13:49.611085Z"
+      },
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-21",
+        "detected_at": "2026-09-16T00:13:49.611087Z"
+      },
+      {
+        "id": "movie-1294189",
+        "title": "The Mongoose",
+        "old_date": "2026-10-30",
+        "new_date": "2026-10-29",
+        "detected_at": "2026-09-16T00:13:49.611089Z"
+      }
+    ]
   }
 ]
