@@ -7307,5 +7307,25 @@
         "detected_at": "2026-09-17T00:13:45.439365Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-17T06:14:14.791598Z",
+    "new_titles": [],
+    "date_changes": [
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-17T06:14:14.790687Z"
+      },
+      {
+        "id": "movie-1300968",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "old_date": "2026-11-18",
+        "new_date": "2026-11-20",
+        "detected_at": "2026-09-17T06:14:14.790698Z"
+      }
+    ]
   }
 ]
