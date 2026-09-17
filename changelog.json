@@ -7380,5 +7380,56 @@
         "detected_at": "2026-09-17T12:13:51.718358Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-17T18:12:47.869478Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "movie-1706702",
+        "title": "Daniel and the Fiery Furnace",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1388805",
+        "title": "LINKIN PARK: UNSHATTER",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-968815",
+        "title": "Wilder",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1772549",
+        "title": "Pehla Pyaar Doosri Baar",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1595124",
+        "title": "Steps",
+        "release_date": "2026-11-20"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-11-13",
+        "new_date": "2026-09-25",
+        "detected_at": "2026-09-17T18:12:47.867359Z"
+      },
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-09-17T18:12:47.867387Z"
+      }
+    ]
   }
 ]
