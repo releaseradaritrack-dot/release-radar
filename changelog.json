@@ -7178,5 +7178,134 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-17T00:13:45.440647Z",
+    "new_titles": [
+      {
+        "id": "movie-1564324",
+        "title": "Adam's Eight",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-312663",
+        "title": "The Fixers",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1573054",
+        "title": "Play House",
+        "release_date": "2026-09-19"
+      },
+      {
+        "id": "tv-331726",
+        "title": "Heavy Weekend with Jake Hanrahan",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-333854",
+        "title": "The Great British Bake Off: Second Helpings",
+        "release_date": "2026-09-22"
+      },
+      {
+        "id": "tv-308963",
+        "title": "Habeas Corpus",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "tv-334569",
+        "title": "Chilean Mine Rescue: Race Against Time",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1760472",
+        "title": "Жемчужная моя",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "movie-1599191",
+        "title": "Renegade Immortal: Battle of the Immortal Slayer",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-1336166",
+        "title": "Rolling Loud: The Movie",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1584077",
+        "title": "First Witch",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-1443151",
+        "title": "Double Trouble",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-288458",
+        "title": "Ben-Hur: A Série",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-323830",
+        "title": "Rangbazz: The story of Deva",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-303001",
+        "title": "Invisible",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-326007",
+        "title": "Learning with Pibby: Armageddon",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-300755",
+        "title": "Rinnan",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1287520",
+        "title": "November 1963",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1599230",
+        "title": "Elsinore",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1736651",
+        "title": "The Test",
+        "release_date": "2026-12-08"
+      },
+      {
+        "id": "tv-321207",
+        "title": "Clara and the Below",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-334751",
+        "title": "Legends",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1457866",
+        "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "old_date": "2026-11-26",
+        "new_date": "2026-11-25",
+        "detected_at": "2026-09-17T00:13:45.439365Z"
+      }
+    ]
   }
 ]
