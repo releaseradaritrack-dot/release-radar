@@ -7327,5 +7327,58 @@
         "detected_at": "2026-09-17T06:14:14.790698Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-17T12:13:51.720464Z",
+    "new_titles": [
+      {
+        "id": "tv-294990",
+        "title": "Spring of the Blade",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "tv-298008",
+        "title": "Plastic Beauty",
+        "release_date": "2026-09-17"
+      },
+      {
+        "id": "movie-1649218",
+        "title": "Femení, singular",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1236045",
+        "title": "Animals",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1288069",
+        "title": "Tenzing",
+        "release_date": "2026-10-09"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-09-17T12:13:51.718344Z"
+      },
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-17T12:13:51.718356Z"
+      },
+      {
+        "id": "movie-1300968",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "old_date": "2026-11-20",
+        "new_date": "2026-11-18",
+        "detected_at": "2026-09-17T12:13:51.718358Z"
+      }
+    ]
   }
 ]
