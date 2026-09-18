@@ -7626,5 +7626,44 @@
         "detected_at": "2026-09-18T12:13:14.546231Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-18T18:11:39.202197Z",
+    "new_titles": [
+      {
+        "id": "movie-1285815",
+        "title": "Mahakavya Shri Ramayan Katha – Shri Ram Ki",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1767115",
+        "title": "Cement",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "movie-848700",
+        "title": "Minotaur",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1496696",
+        "title": "Breeder",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1084409",
+        "title": "A Talent for Murder",
+        "release_date": "2026-10-23"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1755291",
+        "title": "NAZA",
+        "old_date": "2026-10-02",
+        "new_date": "2026-09-30",
+        "detected_at": "2026-09-18T18:11:39.200226Z"
+      }
+    ]
   }
 ]
