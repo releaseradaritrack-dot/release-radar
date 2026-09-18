@@ -7575,5 +7575,56 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-18T12:13:14.548173Z",
+    "new_titles": [
+      {
+        "id": "movie-1641629",
+        "title": "You+Me – Against the World",
+        "release_date": "2026-09-18"
+      },
+      {
+        "id": "movie-1376856",
+        "title": "The Paradise",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "tv-316197",
+        "title": "Dive into You",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "movie-1476746",
+        "title": "The Florist",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-320909",
+        "title": "Firefly Wedding",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1154730",
+        "title": "La Gradiva",
+        "release_date": "2026-10-21"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1755291",
+        "title": "NAZA",
+        "old_date": "2026-09-28",
+        "new_date": "2026-10-02",
+        "detected_at": "2026-09-18T12:13:14.546209Z"
+      },
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-18T12:13:14.546231Z"
+      }
+    ]
   }
 ]
