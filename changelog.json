@@ -7774,5 +7774,86 @@
         "detected_at": "2026-09-19T00:14:10.031315Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-19T15:25:17.530699Z",
+    "new_titles": [
+      {
+        "id": "tv-319851",
+        "title": "The Blame",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "movie-1376856",
+        "title": "The Paradise",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "movie-1220538",
+        "title": "Pooja Meri Jaan",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1443151",
+        "title": "Double Trouble",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-313137",
+        "title": "The Golden Life",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "movie-858035",
+        "title": "Klara and the Sun",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "tv-334708",
+        "title": "Desperately Devoted",
+        "release_date": "2026-11-02"
+      },
+      {
+        "id": "tv-301354",
+        "title": "The Great King Munmu",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1516102",
+        "title": "Sri Sri",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "tv-334381",
+        "title": "Talk Money",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-256726",
+        "title": "Tantara",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1214368",
+        "title": "Golmaal 5",
+        "release_date": "2027-01-08"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-19T15:25:17.528416Z"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-12",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-19T15:25:17.528430Z"
+      }
+    ]
   }
 ]
