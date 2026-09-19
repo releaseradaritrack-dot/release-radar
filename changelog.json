@@ -7855,5 +7855,41 @@
         "detected_at": "2026-09-19T15:25:17.528430Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-19T20:05:53.033435Z",
+    "new_titles": [
+      {
+        "id": "tv-335787",
+        "title": "Family Full House with Rohit Sharma",
+        "release_date": "2026-09-19"
+      },
+      {
+        "id": "tv-335782",
+        "title": "India Ke Top 1%",
+        "release_date": "2026-09-19"
+      },
+      {
+        "id": "movie-1659411",
+        "title": "FLOWERS",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-320909",
+        "title": "Firefly Wedding",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-334085",
+        "title": "SOR",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "tv-331962",
+        "title": "Skimmer",
+        "release_date": "2026-12-01"
+      }
+    ],
+    "date_changes": []
   }
 ]
