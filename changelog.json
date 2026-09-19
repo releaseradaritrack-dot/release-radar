@@ -7665,5 +7665,114 @@
         "detected_at": "2026-09-18T18:11:39.200226Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-19T00:14:10.033354Z",
+    "new_titles": [
+      {
+        "id": "tv-301389",
+        "title": "A la deriva",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-333002",
+        "title": "Blue Season",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "movie-1503762",
+        "title": "Sense and Sensibility",
+        "release_date": "2026-09-23"
+      },
+      {
+        "id": "movie-1532239",
+        "title": "Chiranjeevi Hanuman: The Eternal",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-322280",
+        "title": "Ömür Usta",
+        "release_date": "2026-09-27"
+      },
+      {
+        "id": "tv-329524",
+        "title": "Unmasking a Monster: Aileen Wuornos",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-330430",
+        "title": "Love After Lockup: Relationship Rehab",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-334888",
+        "title": "Africa Earth's Wild Home",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-297903",
+        "title": "PSYREN",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-320513",
+        "title": "kiDnap GAME",
+        "release_date": "2026-10-06"
+      },
+      {
+        "id": "tv-307478",
+        "title": "The Perfect Lie",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1757312",
+        "title": "The Disenchantment",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1081010",
+        "title": "Prahaar",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-334887",
+        "title": "The Mob",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "movie-1427540",
+        "title": "Free at Heart",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-326007",
+        "title": "Learning with Pibby: Armageddon",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-289517",
+        "title": "Dead-End Job",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-258862",
+        "title": "Sacred Jewel",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1440769",
+        "title": "The Beekeeper 2",
+        "old_date": "2027-01-15",
+        "new_date": "2027-01-13",
+        "detected_at": "2026-09-19T00:14:10.031315Z"
+      }
+    ]
   }
 ]
