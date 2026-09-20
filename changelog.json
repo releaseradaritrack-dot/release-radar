@@ -7930,5 +7930,36 @@
         "detected_at": "2026-09-20T03:33:51.939593Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-20T10:41:40.280294Z",
+    "new_titles": [
+      {
+        "id": "tv-301389",
+        "title": "A la deriva",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "movie-1154730",
+        "title": "La Gradiva",
+        "release_date": "2026-10-21"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-09-20T10:41:40.278621Z"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-12",
+        "detected_at": "2026-09-20T10:41:40.278630Z"
+      }
+    ]
   }
 ]
