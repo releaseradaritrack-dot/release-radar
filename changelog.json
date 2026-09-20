@@ -7891,5 +7891,44 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-20T03:33:51.941683Z",
+    "new_titles": [
+      {
+        "id": "tv-297903",
+        "title": "PSYREN",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "movie-1758599",
+        "title": "Manual Wind",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "tv-326007",
+        "title": "Learning with Pibby: Armageddon",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1287520",
+        "title": "November 1963",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1599189",
+        "title": "剑来院线剧场版 十三之争",
+        "release_date": "2026-12-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-09-20T03:33:51.939593Z"
+      }
+    ]
   }
 ]
