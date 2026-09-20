@@ -7961,5 +7961,46 @@
         "detected_at": "2026-09-20T10:41:40.278630Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-20T15:30:04.476073Z",
+    "new_titles": [
+      {
+        "id": "movie-1774699",
+        "title": "Ek Kavita",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "movie-1538457",
+        "title": "Meesaya Murukku 2",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1766421",
+        "title": "Blood Money",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1511403",
+        "title": "King 100",
+        "release_date": "2026-12-24"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-20T15:30:04.473845Z"
+      },
+      {
+        "id": "movie-1440769",
+        "title": "The Beekeeper 2",
+        "old_date": "2027-01-13",
+        "new_date": "2027-01-15",
+        "detected_at": "2026-09-20T15:30:04.473867Z"
+      }
+    ]
   }
 ]
