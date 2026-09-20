@@ -8002,5 +8002,86 @@
         "detected_at": "2026-09-20T15:30:04.473867Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-20T20:22:20.262660Z",
+    "new_titles": [
+      {
+        "id": "tv-289078",
+        "title": "A Prophet",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "tv-290720",
+        "title": "The Final Problem",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-322280",
+        "title": "Ömür Usta",
+        "release_date": "2026-09-27"
+      },
+      {
+        "id": "movie-1768117",
+        "title": "Dust",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-307106",
+        "title": "Between Steps",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-289423",
+        "title": "Take Charge of My Heart",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1768029",
+        "title": "Grandmasters",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "tv-320754",
+        "title": "Money Trap",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-313137",
+        "title": "The Golden Life",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "tv-322267",
+        "title": "Newlyweds",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1516102",
+        "title": "Sri Sri",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "tv-334361",
+        "title": "What Remains",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-330569",
+        "title": "Lumine",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1623092",
+        "title": "Hero Ki Horrorine",
+        "release_date": "2027-01-07"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": []
   }
 ]
