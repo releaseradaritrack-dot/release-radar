@@ -8083,5 +8083,46 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-21T03:28:39.154440Z",
+    "new_titles": [
+      {
+        "id": "tv-329524",
+        "title": "Unmasking a Monster: Aileen Wuornos",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-297903",
+        "title": "PSYREN",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-323830",
+        "title": "Rangbazz: The story of Deva",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "movie-1760176",
+        "title": "Fellas",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-329575",
+        "title": "The Pellikandy Show",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "tv-326007",
+        "title": "Learning with Pibby: Armageddon",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-313767",
+        "title": "Hurt",
+        "release_date": "2026-11-11"
+      }
+    ],
+    "date_changes": []
   }
 ]
