@@ -8153,5 +8153,103 @@
         "detected_at": "2026-09-21T12:04:40.499305Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-21T21:43:53.133980Z",
+    "new_titles": [
+      {
+        "id": "tv-285418",
+        "title": "Youth",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "tv-330800",
+        "title": "The Wargame",
+        "release_date": "2026-09-21"
+      },
+      {
+        "id": "movie-1713517",
+        "title": "Invention 13",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "tv-316197",
+        "title": "Dive into You",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "movie-1757506",
+        "title": "Crooked Miles",
+        "release_date": "2026-09-29"
+      },
+      {
+        "id": "tv-297903",
+        "title": "PSYREN",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "movie-1769370",
+        "title": "Awake",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "tv-335403",
+        "title": "Hunting Gary Glitter",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1234139",
+        "title": "Jailer 2",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1757312",
+        "title": "The Disenchantment",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1769248",
+        "title": "Cabaret Boys",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1768768",
+        "title": "Relict",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-327346",
+        "title": "Astral Watch",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "tv-335087",
+        "title": "Visceral",
+        "release_date": "2026-12-13"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1755291",
+        "title": "NAZA",
+        "old_date": "2026-09-25",
+        "new_date": "2026-09-30",
+        "detected_at": "2026-09-21T21:43:53.131981Z"
+      },
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-09-25",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-21T21:43:53.132018Z"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-12",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-21T21:43:53.132020Z"
+      }
+    ]
   }
 ]
