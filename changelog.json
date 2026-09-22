@@ -8371,5 +8371,79 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-22T20:55:24.786342Z",
+    "new_titles": [
+      {
+        "id": "tv-301187",
+        "title": "The Art of Falling",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1776685",
+        "title": "SONG OF MY MOTHER'S SOUL",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "tv-320296",
+        "title": "People's Lives",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "tv-301139",
+        "title": "#I'm Looking for Zombie",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "tv-231801",
+        "title": "Get Jiro",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "tv-283938",
+        "title": "Even the Student Council Has Its Holes!",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "tv-283371",
+        "title": "The Trap",
+        "release_date": "2026-10-13"
+      },
+      {
+        "id": "movie-1757312",
+        "title": "The Disenchantment",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-858035",
+        "title": "Klara and the Sun",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "tv-308007",
+        "title": "The Altruists",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "tv-326247",
+        "title": "Fool Night",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-256726",
+        "title": "Tantara",
+        "release_date": "2026-12-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-11-13",
+        "new_date": "2026-09-25",
+        "detected_at": "2026-09-22T20:55:24.784010Z"
+      }
+    ]
   }
 ]
