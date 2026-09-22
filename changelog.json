@@ -8251,5 +8251,51 @@
         "detected_at": "2026-09-21T21:43:53.132020Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-22T03:28:03.539956Z",
+    "new_titles": [
+      {
+        "id": "tv-290720",
+        "title": "The Final Problem",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-303272",
+        "title": "Magic Knight Rayearth",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-335536",
+        "title": "TYSON",
+        "release_date": "2026-10-13"
+      },
+      {
+        "id": "tv-320754",
+        "title": "Money Trap",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-301354",
+        "title": "The Great King Munmu",
+        "release_date": "2026-11-14"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-11-13",
+        "new_date": "2026-09-25",
+        "detected_at": "2026-09-22T03:28:03.537630Z"
+      },
+      {
+        "id": "tv-307478",
+        "title": "The Perfect Lie",
+        "old_date": "2026-10-09",
+        "new_date": "2026-10-30",
+        "detected_at": "2026-09-22T03:28:03.537681Z"
+      }
+    ]
   }
 ]
