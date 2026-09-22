@@ -8297,5 +8297,43 @@
         "detected_at": "2026-09-22T03:28:03.537681Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-22T11:00:31.844302Z",
+    "new_titles": [
+      {
+        "id": "tv-312557",
+        "title": "Minerva Academy",
+        "release_date": "2026-09-22"
+      },
+      {
+        "id": "movie-1489932",
+        "title": "Always Lalisa",
+        "release_date": "2026-10-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1755291",
+        "title": "NAZA",
+        "old_date": "2026-09-30",
+        "new_date": "2026-09-25",
+        "detected_at": "2026-09-22T11:00:31.842184Z"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-12",
+        "detected_at": "2026-09-22T11:00:31.842225Z"
+      },
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-09-25",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-22T11:00:31.842227Z"
+      }
+    ]
   }
 ]
