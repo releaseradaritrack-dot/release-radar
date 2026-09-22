@@ -8335,5 +8335,41 @@
         "detected_at": "2026-09-22T11:00:31.842227Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-22T16:20:24.632389Z",
+    "new_titles": [
+      {
+        "id": "tv-287994",
+        "title": "Once Upon a Time in Longfan",
+        "release_date": "2026-09-22"
+      },
+      {
+        "id": "movie-1768594",
+        "title": "Bish Pakhi",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1618090",
+        "title": "A Statement",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "tv-334703",
+        "title": "Couldn’t Agree Less with Allison & Isaac",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1766531",
+        "title": "TV Land",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": []
   }
 ]

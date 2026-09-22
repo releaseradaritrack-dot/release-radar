@@ -45,6 +45,30 @@
       "trailer_url": ""
     },
     {
+      "id": "tv-287994",
+      "tmdb_id": 287994,
+      "type": "series",
+      "industry": "international",
+      "title": "Once Upon a Time in Longfan",
+      "original_title": "法医秦明之龙番往事",
+      "release_date": "2026-09-22",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ],
+      "language": "zh",
+      "synopsis": "A decades-old photo of oil field workers becomes a chilling omen for their children, whose lives are mysteriously linked by death and danger, as forensic expert Qin Ming races to uncover whether it’s fate, vengeance, or a calculated murder.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y862upNdtW5zu4VT6d0PQxJv5ov.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8HUgpxg52nnkJU0q6pmIDVRUzJ6.jpg",
+      "popularity": 4.759,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-312557",
       "tmdb_id": 312557,
       "type": "series",
@@ -223,7 +247,7 @@
       ],
       "language": "en",
       "synopsis": "Filmed during Scotland’s busy summer season in August 2026, the series follows people who live and work along this remarkable coastline as they welcome visitors from near and far, balancing thriving local businesses with the responsibility of preserving the history, character and natural beauty of the places they are proud to call home.  From the ancient woodlands and shifting dune forests of Tentsmuir, where the North Sea continues to add to the shoreline, to the puffin colonies of the Isle of May National Nature Reserve and the dolphin-rich waters of the Moray Firth, cameras will capture the landscapes and wildlife that make this golden coast such a treasure.",
-      "poster_url": "",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5zHyQrH9QIC4b0Wg8CLCn622mNj.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/zEKIWTFclM5eEKrt3sjUESKKqof.jpg",
       "popularity": 7.1429,
       "platform": "ott",
@@ -634,6 +658,27 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1768594",
+      "tmdb_id": 1768594,
+      "type": "movie",
+      "industry": "bangladesh",
+      "title": "Bish Pakhi",
+      "original_title": "বিষ পাখি",
+      "release_date": "2026-09-25",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [],
+      "language": "bn",
+      "synopsis": "",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8ve0MLsQUWQizXVrdpIlcbOcnar.jpg",
+      "backdrop_url": "",
+      "popularity": 1.9404,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1742243",
       "tmdb_id": 1742243,
       "type": "movie",
@@ -706,29 +751,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-301187",
-      "tmdb_id": 301187,
-      "type": "series",
-      "industry": "international",
-      "title": "The Art of Falling",
-      "original_title": "Искусство падения",
-      "release_date": "2026-09-25",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "ru",
-      "synopsis": "Young dancer Dima intersects with a mysterious and strict mentor Phil, who encourages him to move not only in dance, but also in life, stimulating him to grow up and self-determination.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gvIfUERRlHutctO8bzOPseH5ywG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aFzuVvGvvojI0LVHy5dMTVzHqZD.jpg",
-      "popularity": 3.7144,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-310890",
       "tmdb_id": 310890,
       "type": "series",
@@ -771,29 +793,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
       "popularity": 3.5,
       "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1713517",
-      "tmdb_id": 1713517,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "Invention 13",
-      "original_title": "Invention 13",
-      "release_date": "2026-09-26",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Fantasy"
-      ],
-      "language": "en",
-      "synopsis": "On a cold, windy night, a frustrated pianist encounters strange obstacles while trying to learn  Bach's notoriously intricate Invention 13.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9fQnH1rtrU0g0p13OqcJn8yt2hZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/b56jec133OpURX3g2jbnm8nnpzB.jpg",
-      "popularity": 4.5627,
-      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -1349,27 +1348,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-330430",
-      "tmdb_id": 330430,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "Love After Lockup: Relationship Rehab",
-      "original_title": "Love After Lockup: Relationship Rehab",
-      "release_date": "2026-10-02",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [],
-      "language": "en",
-      "synopsis": "Five fan-favorite couples from the hit Love After Lockup franchise will join psychiatrist and nationally recognized relationship expert, Dr. Ish Major, to repair their broken bonds.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qdTcDL0zHgdo5aVJtNZEp7toDnE.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hcPMPvdavwC7z6vfUquVyOHfphm.jpg",
-      "popularity": 0.9949,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-334888",
       "tmdb_id": 334888,
       "type": "series",
@@ -1387,6 +1365,27 @@
       "poster_url": "",
       "backdrop_url": "",
       "popularity": 1.0458,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-330430",
+      "tmdb_id": 330430,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "Love After Lockup: Relationship Rehab",
+      "original_title": "Love After Lockup: Relationship Rehab",
+      "release_date": "2026-10-02",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [],
+      "language": "en",
+      "synopsis": "Five fan-favorite couples from the hit Love After Lockup franchise will join psychiatrist and nationally recognized relationship expert, Dr. Ish Major, to repair their broken bonds.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qdTcDL0zHgdo5aVJtNZEp7toDnE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hcPMPvdavwC7z6vfUquVyOHfphm.jpg",
+      "popularity": 0.9949,
       "platform": "ott",
       "source": "TMDB",
       "official_url": "",
@@ -1557,24 +1556,25 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-231801",
-      "tmdb_id": 231801,
-      "type": "series",
+      "id": "movie-1618090",
+      "tmdb_id": 1618090,
+      "type": "movie",
       "industry": "hollywood",
-      "title": "Get Jiro",
-      "original_title": "Get Jiro",
-      "release_date": "2026-10-04",
+      "title": "A Statement",
+      "original_title": "A Statement",
+      "release_date": "2026-10-03",
       "release_time": "",
       "status": "confirmed",
       "genres": [
-        "Animation"
+        "Comedy",
+        "Drama"
       ],
       "language": "en",
-      "synopsis": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mCdnYVwES1QQ783bJMmZdYmULji.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hollWapcsUhmWbsp9yJXW9ZWDTb.jpg",
-      "popularity": 3.6788,
-      "platform": "ott",
+      "synopsis": "At a beachside resort in Florida in 1980, twenty experts gather for a weekend conference on a global issue that is starting to gain traction: the effects of Co2 emissions on the climate. The group of scientists, activists, and policymakers have one simple mandate from Congress — write a statement about what to do. Easier said than done.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6eGKmCHwnwWqaKkoRsrBfCtkHKf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vJmEBat3gOKLwl2UdNk0lndNZLW.jpg",
+      "popularity": 4.7152,
+      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -2238,7 +2238,7 @@
       ],
       "language": "ja",
       "synopsis": "On the surface, Satoko has it all—she's beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family's eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ccIPacvHWo4vO55S9PKl0ZWki49.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/954dt0dTqoUhIW0EvMFZ0KvVQmk.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
       "popularity": 4.115,
       "platform": "ott",
@@ -2388,29 +2388,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1489932",
-      "tmdb_id": 1489932,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "Always Lalisa",
-      "original_title": "Always Lalisa",
-      "release_date": "2026-10-12",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Documentary"
-      ],
-      "language": "en",
-      "synopsis": "Documentary following global superstar LISA during a transformative year away from BLACKPINK, the K-pop phenomenon that made her one of the world's most recognizable performers. Documenting a year of risk, reinvention, and self-discovery as LISA begins to define her next chapter.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg",
-      "popularity": 4.5673,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1769370",
       "tmdb_id": 1769370,
       "type": "movie",
@@ -2528,30 +2505,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-335403",
-      "tmdb_id": 335403,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "Hunting Gary Glitter",
-      "original_title": "Hunting Gary Glitter",
-      "release_date": "2026-10-14",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Documentary",
-        "Crime"
-      ],
-      "language": "en",
-      "synopsis": "Survivors, journalists and legal experts recount how pop star Gary Glitter used his money, fame and influence to carry out decades of child sexual abuse.",
-      "poster_url": "",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6W6pYfBP7aErvsYD8FkCKjaOgXk.jpg",
-      "popularity": 0.6683,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1710034",
       "tmdb_id": 1710034,
       "type": "movie",
@@ -2621,29 +2574,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/grJW6zaL7QGFrZXciJH6xgJQFQE.jpg",
       "popularity": 3.4747,
       "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1765330",
-      "tmdb_id": 1765330,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "Opt Out",
-      "original_title": "Opt Out",
-      "release_date": "2026-10-15",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "Four friends from a long-buried crime are brought back together by a coded text, only to learn that the secret they thought was safe has come unraveled.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9reHfZHvG0Erfu8Xq507kuL8XyJ.jpg",
-      "backdrop_url": "",
-      "popularity": 3.8003,
-      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -2791,6 +2721,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1081010",
+      "tmdb_id": 1081010,
+      "type": "movie",
+      "industry": "bollywood",
+      "title": "Prahaar",
+      "original_title": "प्रहार",
+      "release_date": "2026-10-16",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "hi",
+      "synopsis": "Ujjwal Nikam is an Indian special public prosecutor who has worked on prominent murder and terrorism cases such as the 1993 Bombay bombings, the Gulshan Kumar murder case, the Pramod Mahajan murder case, and the 2008 Mumbai attacks.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g2bZzjWzdPZ5GXrN8dQ8sixant3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
+      "popularity": 1.7999,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1654581",
       "tmdb_id": 1654581,
       "type": "movie",
@@ -2811,29 +2764,6 @@
       "poster_url": "",
       "backdrop_url": "",
       "popularity": 1.7253,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1081010",
-      "tmdb_id": 1081010,
-      "type": "movie",
-      "industry": "bollywood",
-      "title": "Prahaar",
-      "original_title": "प्रहार",
-      "release_date": "2026-10-16",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "hi",
-      "synopsis": "Ujjwal Nikam is an Indian special public prosecutor who has worked on prominent murder and terrorism cases such as the 1993 Bombay bombings, the Gulshan Kumar murder case, the Pramod Mahajan murder case, and the 2008 Mumbai attacks.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g2bZzjWzdPZ5GXrN8dQ8sixant3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
-      "popularity": 1.7999,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -3101,6 +3031,27 @@
       "backdrop_url": "",
       "popularity": 7.1301,
       "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-334703",
+      "tmdb_id": 334703,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "Couldn’t Agree Less with Allison & Isaac",
+      "original_title": "Couldn’t Agree Less with Allison & Isaac",
+      "release_date": "2026-10-22",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [],
+      "language": "en",
+      "synopsis": "Real-life couple Allison Kuch and Isaac Rochell invite viewers into their messiest, most honest disagreements — tackling everything from money and parenting to jealousy and in-laws through audience submissions, guest perspectives, and pop culture debates.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 0.8546,
+      "platform": "ott",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -4023,29 +3974,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-308007",
-      "tmdb_id": 308007,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "The Altruists",
-      "original_title": "The Altruists",
-      "release_date": "2026-11-19",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "Follow the tumultuous romance between FTX co-founder Sam Bankman-Fried and his girlfriend Caroline Ellison and their ambitious attempts to revolutionize the financial system, leading to a $36 billion fraud.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yerQsq7bEgTLPTrkktHbbm1WStd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5Pta3QyeGKTMHjBFxJmzIWX4yoc.jpg",
-      "popularity": 3.3771,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1595124",
       "tmdb_id": 1595124,
       "type": "movie",
@@ -4425,6 +4353,30 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1766531",
+      "tmdb_id": 1766531,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "TV Land",
+      "original_title": "TV Land",
+      "release_date": "2026-12-04",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "language": "en",
+      "synopsis": "After being diagnosed with a terminal illness, Will is given a second chance at life when a disturbed doctor forces him into an experimental procedure. He awakens in a strange world hidden behind a television screen, where reality and fantasy blur together. As he searches for a way back home, Will is forced to confront his past and discover what truly gives life meaning.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rbUGyEg6k8HrgRP9Z705ZmgNpel.jpg",
+      "backdrop_url": "",
+      "popularity": 4.6731,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1569625",
       "tmdb_id": 1569625,
       "type": "movie",
@@ -4544,7 +4496,7 @@
       "id": "tv-270596",
       "tmdb_id": 270596,
       "type": "series",
-      "industry": "hollywood",
+      "industry": "international",
       "title": "The Murder of JonBenét Ramsey",
       "original_title": "The Murder of JonBenét Ramsey",
       "release_date": "2026-12-10",
@@ -4605,29 +4557,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/mH4RXqdkpOzdV3730HDfssPUQvb.jpg",
       "popularity": 5.2687,
       "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "tv-256726",
-      "tmdb_id": 256726,
-      "type": "series",
-      "industry": "international",
-      "title": "Tantara",
-      "original_title": "천천히 강렬하게",
-      "release_date": "2026-12-11",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "ko",
-      "synopsis": "A period drama depicting the birth of the Korean entertainment industry, and its growth from the Korean War to the 1980s.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/733Vm8e0bzUbjbDuATgR4Ol7vqd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6xfFYh2NARTZQ8hee0XPaZtLxpm.jpg",
-      "popularity": 3.637,
-      "platform": "ott",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -4752,6 +4681,30 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1300926",
+      "tmdb_id": 1300926,
+      "type": "movie",
+      "industry": "international",
+      "title": "The Angry Birds Movie 3",
+      "original_title": "The Angry Birds Movie 3",
+      "release_date": "2026-12-23",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "language": "en",
+      "synopsis": "Red faces his greatest challenge yet: surviving fatherhood… while saving the world.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+      "popularity": 8.8163,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1260649",
       "tmdb_id": 1260649,
       "type": "movie",
@@ -4771,30 +4724,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/pYN5Zjc3l1hj2hMeBbzRYDYTC1E.jpg",
       "popularity": 8.1914,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1300926",
-      "tmdb_id": 1300926,
-      "type": "movie",
-      "industry": "international",
-      "title": "The Angry Birds Movie 3",
-      "original_title": "The Angry Birds Movie 3",
-      "release_date": "2026-12-23",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Animation",
-        "Comedy"
-      ],
-      "language": "en",
-      "synopsis": "Red faces his greatest challenge yet: surviving fatherhood… while saving the world.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
-      "popularity": 8.8163,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -5199,7 +5128,31 @@
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
+    },
+    {
+      "id": "movie-621304",
+      "tmdb_id": 621304,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Children of Blood and Bone",
+      "original_title": "Children of Blood and Bone",
+      "release_date": "2027-01-15",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "language": "en",
+      "synopsis": "In the world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iJHHwaFZumvMLx96apZPNhhIb1A.jpg",
+      "popularity": 4.5835,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
     }
   ],
-  "updated_at": "2026-09-22T11:00:33.531207Z"
+  "updated_at": "2026-09-22T16:20:26.016238Z"
 }
