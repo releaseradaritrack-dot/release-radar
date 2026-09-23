@@ -8559,5 +8559,46 @@
         "detected_at": "2026-09-23T16:10:16.635027Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-23T21:07:39.582068Z",
+    "new_titles": [
+      {
+        "id": "tv-312359",
+        "title": "Dragon Ball Super: Beerus",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "tv-307176",
+        "title": "Dustfall",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "tv-334986",
+        "title": "Wake Up",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-334887",
+        "title": "The Mob",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "tv-308007",
+        "title": "The Altruists",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "movie-1516102",
+        "title": "Sri Sri",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "movie-1623092",
+        "title": "Hero Ki Horrorine",
+        "release_date": "2027-01-07"
+      }
+    ],
+    "date_changes": []
   }
 ]
