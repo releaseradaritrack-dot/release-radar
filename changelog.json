@@ -8515,5 +8515,49 @@
         "detected_at": "2026-09-23T10:49:40.728651Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-23T16:10:16.637118Z",
+    "new_titles": [
+      {
+        "id": "movie-1769945",
+        "title": "Obscure Identity",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "movie-1713517",
+        "title": "Invention 13",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "tv-335032",
+        "title": "Secret Life of a Vegas Casino",
+        "release_date": "2026-09-29"
+      },
+      {
+        "id": "tv-335403",
+        "title": "Hunting Gary Glitter",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1769248",
+        "title": "Cabaret Boys",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-334279",
+        "title": "Resistance to the Daleks, Part One",
+        "release_date": "2026-10-31"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1255833",
+        "title": "Whalefall",
+        "old_date": "2026-10-16",
+        "new_date": "2026-10-14",
+        "detected_at": "2026-09-23T16:10:16.635027Z"
+      }
+    ]
   }
 ]
