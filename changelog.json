@@ -8746,5 +8746,51 @@
         "detected_at": "2026-09-24T16:33:35.312090Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-24T21:11:28.907815Z",
+    "new_titles": [
+      {
+        "id": "tv-334569",
+        "title": "Chilean Mine Rescue: Race Against Time",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1763332",
+        "title": "Orang Perang",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-1564177",
+        "title": "Dongri: Gangster's Paradise",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-335536",
+        "title": "TYSON",
+        "release_date": "2026-10-13"
+      },
+      {
+        "id": "movie-1758599",
+        "title": "Manual Wind",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "tv-334381",
+        "title": "Talk Money",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D.: The Birth of Christ",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": []
   }
 ]
