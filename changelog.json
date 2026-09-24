@@ -8677,5 +8677,74 @@
         "detected_at": "2026-09-24T11:10:20.898037Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-24T16:33:35.314348Z",
+    "new_titles": [
+      {
+        "id": "tv-290750",
+        "title": "Love Is Blind: Netherlands",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-335202",
+        "title": "Hunger",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-283938",
+        "title": "Even the Student Council Has Its Holes!",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "tv-334759",
+        "title": "Sweet Deceit",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-303272",
+        "title": "Magic Knight Rayearth",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-335785",
+        "title": "Paige Prater",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-332733",
+        "title": "Sign: The Way I Hear You",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-323830",
+        "title": "Rangbazz: The story of Deva",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-295002",
+        "title": "This City Never Sleeps",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "tv-335319",
+        "title": "The New Stanford Prison Experiment",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "tv-283220",
+        "title": "Quiztopia",
+        "release_date": "2026-12-17"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-891621",
+        "title": "Wild Horse Nine",
+        "old_date": "2026-10-30",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-09-24T16:33:35.312090Z"
+      }
+    ]
   }
 ]
