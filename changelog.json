@@ -8600,5 +8600,49 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-24T03:18:56.647118Z",
+    "new_titles": [
+      {
+        "id": "tv-334707",
+        "title": "FX's American Horror Story Official Podcast",
+        "release_date": "2026-09-24"
+      },
+      {
+        "id": "tv-286712",
+        "title": "Private Eyes West Coast",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-1757312",
+        "title": "The Disenchantment",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1234139",
+        "title": "Jailer 2",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-940009",
+        "title": "Ray Gunn",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D.",
+        "release_date": "2026-12-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-24T03:18:56.644811Z"
+      }
+    ]
   }
 ]
