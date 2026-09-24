@@ -8644,5 +8644,38 @@
         "detected_at": "2026-09-24T03:18:56.644811Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-24T11:10:20.900300Z",
+    "new_titles": [
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "release_date": "2026-12-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1585239",
+        "title": "Club Kid",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-09-24T11:10:20.898022Z"
+      },
+      {
+        "id": "movie-1437511",
+        "title": "How to Rob a Bank",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-09-24T11:10:20.898031Z"
+      },
+      {
+        "id": "movie-940009",
+        "title": "Ray Gunn",
+        "old_date": "2026-11-04",
+        "new_date": "2026-12-03",
+        "detected_at": "2026-09-24T11:10:20.898037Z"
+      }
+    ]
   }
 ]

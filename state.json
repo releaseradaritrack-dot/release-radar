@@ -83,7 +83,7 @@
       ],
       "language": "hi",
       "synopsis": "A mother receives yearly photos of her missing child. After nine years of searching, she discovers the truth about the abduction lies not far away, but hidden among her closest circle.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dMGaBgEjYlEiR0GybDdrraSCTP6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pKYaqY8hYwRFw3FgLRbGzk6JcxJ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
       "popularity": 3.3749,
       "platform": "ott",
@@ -1216,7 +1216,7 @@
       ],
       "language": "en",
       "synopsis": "A father makes a bad parenting choice by taking his young son to a wild hip-hop festival, leading to chaos as they navigate crowds, security, and family dynamics with eccentric companions.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/z2EwfMhkGIHhF337c19fd1NNjN1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5TV0Z7egC37vpI1UjKIvSgqLMMx.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/dQyWD0xlmvdalhKXIT5n8lVx3uG.jpg",
       "popularity": 7.0242,
       "platform": "theatrical",
@@ -1740,7 +1740,7 @@
       "id": "movie-1148365",
       "tmdb_id": 1148365,
       "type": "movie",
-      "industry": "hollywood",
+      "industry": "international",
       "title": "Matchbox the Movie",
       "original_title": "Matchbox the Movie",
       "release_date": "2026-10-08",
@@ -1919,7 +1919,7 @@
       ],
       "language": "en",
       "synopsis": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cr73Ci6CM2kSfSbj6qwaTpcEq1e.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
       "popularity": 5.8698,
       "platform": "theatrical",
@@ -2413,12 +2413,11 @@
       "status": "confirmed",
       "genres": [
         "Action",
-        "Fantasy",
-        "Comedy"
+        "Fantasy"
       ],
       "language": "en",
       "synopsis": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
       "popularity": 18.3367,
       "platform": "theatrical",
@@ -2587,7 +2586,7 @@
       "language": "en",
       "synopsis": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
       "poster_url": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/w7yAQtTiIcGy4gcbCDtfXo9fcQZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/c1RP38PbwfCaQjSSotniS01uvuY.jpg",
       "popularity": 7.8736,
       "platform": "ott",
       "source": "TMDB",
@@ -2666,34 +2665,10 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1234139",
-      "tmdb_id": 1234139,
-      "type": "movie",
-      "industry": "international",
-      "title": "Jailer 2",
-      "original_title": "ஜெயிலர் 2",
-      "release_date": "2026-10-15",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "language": "ta",
-      "synopsis": "Following the events of \"Jailer\",  former ruthless police officer Muthuvel Pandian must come face-to-face with an even larger threat.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9tTHcPNt6OgkTVzGu4gwVQDFRWr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-      "popularity": 6.0636,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1765072",
       "tmdb_id": 1765072,
       "type": "movie",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "You Can See Everything",
       "original_title": "You Can See Everything",
       "release_date": "2026-10-16",
@@ -3529,31 +3504,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-940009",
-      "tmdb_id": 940009,
-      "type": "movie",
-      "industry": "international",
-      "title": "Ray Gunn",
-      "original_title": "Ray Gunn",
-      "release_date": "2026-11-04",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Animation",
-        "Sci-Fi",
-        "Crime"
-      ],
-      "language": "en",
-      "synopsis": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn and his alien companion Eyera are making a living on the edge of society, delving into secrets that some people would rather keep hidden away. After accepting a sleazy spy job related to pop-star Venus Nova, Gunn finds himself drawn into a murder mystery unlike any case he’s taken.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
-      "popularity": 12.9158,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1562642",
       "tmdb_id": 1562642,
       "type": "movie",
@@ -3568,7 +3518,7 @@
         "Thriller"
       ],
       "language": "en",
-      "synopsis": "A former Green Beret and weapons expert stands with his Wyoming neighbors against a ruthless corporation threatening their rural community.",
+      "synopsis": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
       "poster_url": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
       "popularity": 11.1396,
@@ -3627,6 +3577,30 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1585239",
+      "tmdb_id": 1585239,
+      "type": "movie",
+      "industry": "international",
+      "title": "Club Kid",
+      "original_title": "Club Kid",
+      "release_date": "2026-11-04",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "en",
+      "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
+      "popularity": 6.9165,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-279246",
       "tmdb_id": 279246,
       "type": "series",
@@ -3676,30 +3650,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1585239",
-      "tmdb_id": 1585239,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "Club Kid",
-      "original_title": "Club Kid",
-      "release_date": "2026-11-06",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
-      "popularity": 6.9165,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1495662",
       "tmdb_id": 1495662,
       "type": "movie",
@@ -3717,6 +3667,30 @@
       "poster_url": "",
       "backdrop_url": "",
       "popularity": 1.3,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1437511",
+      "tmdb_id": 1437511,
+      "type": "movie",
+      "industry": "international",
+      "title": "How to Rob a Bank",
+      "original_title": "How to Rob a Bank",
+      "release_date": "2026-11-11",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "en",
+      "synopsis": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+      "popularity": 9.088,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -3865,30 +3839,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1437511",
-      "tmdb_id": 1437511,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "How to Rob a Bank",
-      "original_title": "How to Rob a Bank",
-      "release_date": "2026-11-13",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "en",
-      "synopsis": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
-      "popularity": 9.088,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1286656",
       "tmdb_id": 1286656,
       "type": "movie",
@@ -3998,7 +3948,7 @@
         "Comedy"
       ],
       "language": "en",
-      "synopsis": "Think you know Cinderella's “evil” stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
+      "synopsis": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
       "poster_url": "https://image.tmdb.org/t/p/w500/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/5DPnxhB0rsshMFAvmBwAoJSqbmz.jpg",
       "popularity": 7.4854,
@@ -4058,8 +4008,8 @@
       "tmdb_id": 1457866,
       "type": "movie",
       "industry": "international",
-      "title": "The Further Mis-Adventures of Cliff Booth",
-      "original_title": "The Further Mis-Adventures of Cliff Booth",
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "original_title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "release_date": "2026-11-25",
       "release_time": "",
       "status": "confirmed",
@@ -4320,6 +4270,31 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-940009",
+      "tmdb_id": 940009,
+      "type": "movie",
+      "industry": "international",
+      "title": "Ray Gunn",
+      "original_title": "Ray Gunn",
+      "release_date": "2026-12-03",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Crime"
+      ],
+      "language": "en",
+      "synopsis": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn and his alien companion Eyera are making a living on the edge of society, delving into secrets that some people would rather keep hidden away. After accepting a sleazy spy job related to pop-star Venus Nova, Gunn finds himself drawn into a murder mystery unlike any case he’s taken.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
+      "popularity": 12.9158,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1556316",
       "tmdb_id": 1556316,
       "type": "movie",
@@ -4412,6 +4387,31 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1078446",
+      "tmdb_id": 1078446,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Violent Night 2",
+      "original_title": "Violent Night 2",
+      "release_date": "2026-12-04",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "language": "en",
+      "synopsis": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he’ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uvYnQE4I40J5vtj2acWYWSlv672.jpg",
+      "popularity": 4.9539,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1569625",
       "tmdb_id": 1569625,
       "type": "movie",
@@ -4480,30 +4480,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1391239",
-      "tmdb_id": 1391239,
-      "type": "movie",
-      "industry": "international",
-      "title": "The Debut",
-      "original_title": "The Debut",
-      "release_date": "2026-12-10",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role—even if it means waging war against the show’s domineering director.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
-      "popularity": 7.0143,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-270596",
       "tmdb_id": 270596,
       "type": "series",
@@ -4549,24 +4525,24 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1408207",
-      "tmdb_id": 1408207,
+      "id": "movie-1391239",
+      "tmdb_id": 1391239,
       "type": "movie",
-      "industry": "hollywood",
-      "title": "Zero A.D.",
-      "original_title": "Zero A.D.",
-      "release_date": "2026-12-11",
+      "industry": "international",
+      "title": "The Debut",
+      "original_title": "The Debut",
+      "release_date": "2026-12-10",
       "release_time": "",
       "status": "confirmed",
       "genres": [
-        "Drama",
-        "Thriller"
+        "Comedy",
+        "Drama"
       ],
       "language": "en",
-      "synopsis": "A star rises over Bethlehem as Christ is born. But when Herod orders the slaughter of the innocents, Mary and Joseph must protect the child promised to save the world.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dUeEofJFpp04OjRr2hatZGCFrlR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mH4RXqdkpOzdV3730HDfssPUQvb.jpg",
-      "popularity": 5.2582,
+      "synopsis": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role—even if it means waging war against the show’s domineering director.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+      "popularity": 7.0143,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -5145,7 +5121,7 @@
       "tmdb_id": 1235057,
       "type": "movie",
       "industry": "bollywood",
-      "title": "Love and War",
+      "title": "Love & War",
       "original_title": "Love & War",
       "release_date": "2027-01-21",
       "release_time": "",
@@ -5156,7 +5132,7 @@
       ],
       "language": "hi",
       "synopsis": "A love story set against the backdrop of a war.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iy4O9s3GyUoZqudsfFLuVSXLbgT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gwFrR5EPAWD3LKy1a9d4gJsE6RR.jpg",
       "backdrop_url": "",
       "popularity": 1.7022,
       "platform": "theatrical",
@@ -5165,5 +5141,5 @@
       "trailer_url": ""
     }
   ],
-  "updated_at": "2026-09-24T03:18:58.181836Z"
+  "updated_at": "2026-09-24T11:10:23.999933Z"
 }
