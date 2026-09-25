@@ -8874,5 +8874,44 @@
         "detected_at": "2026-09-25T11:13:39.987466Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-25T16:37:22.636336Z",
+    "new_titles": [
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-328361",
+        "title": "NOVA: Evolution",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-329575",
+        "title": "The Pellikandy Show",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "tv-329896",
+        "title": "Locker Diaries: Coven Academy",
+        "release_date": "2026-10-17"
+      },
+      {
+        "id": "tv-313767",
+        "title": "Hurt",
+        "release_date": "2026-11-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-09-25T16:37:22.634774Z"
+      }
+    ]
   }
 ]
