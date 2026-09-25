@@ -8833,5 +8833,46 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-25T11:13:39.990192Z",
+    "new_titles": [
+      {
+        "id": "movie-1538457",
+        "title": "Meesaya Murukku 2",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-288385",
+        "title": "Paolo",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "tv-326788",
+        "title": "Cyberpunk: Edgerunners 2",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "movie-1131943",
+        "title": "Madden",
+        "release_date": "2026-11-18"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1153576",
+        "title": "Street Fighter",
+        "old_date": "2026-10-14",
+        "new_date": "2026-10-13",
+        "detected_at": "2026-09-25T11:13:39.987435Z"
+      },
+      {
+        "id": "movie-940009",
+        "title": "Ray Gunn",
+        "old_date": "2026-12-03",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-09-25T11:13:39.987466Z"
+      }
+    ]
   }
 ]
