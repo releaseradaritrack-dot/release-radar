@@ -8913,5 +8913,106 @@
         "detected_at": "2026-09-25T16:37:22.634774Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-25T21:08:18.298394Z",
+    "new_titles": [
+      {
+        "id": "movie-1771578",
+        "title": "Attention Seeker",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1520641",
+        "title": "Hunkkaar: The Roar",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1422041",
+        "title": "La bola negra",
+        "release_date": "2026-09-25"
+      },
+      {
+        "id": "movie-1769556",
+        "title": "MORFISME",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-332528",
+        "title": "Rule 101",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-332808",
+        "title": "Archive X: Unexplained Phenomena",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-334888",
+        "title": "Africa Earth's Wild Home",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-301139",
+        "title": "#I'm Looking for Zombie",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "tv-335418",
+        "title": "Super Why's Comic Book Adventures",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "movie-1443151",
+        "title": "Double Trouble",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-312359",
+        "title": "Dragon Ball Super: Beerus",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "tv-306565",
+        "title": "DARK MACHINE THE ANIMATION",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1561726",
+        "title": "Masterplan",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-321221",
+        "title": "Minimum Wage",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "tv-313699",
+        "title": "Balaraw: Blood Island",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-317945",
+        "title": "Eurovision Song Contest Asia",
+        "release_date": "2026-11-14"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-21",
+        "detected_at": "2026-09-25T21:08:18.295678Z"
+      },
+      {
+        "id": "movie-1131943",
+        "title": "Madden",
+        "old_date": "2026-11-18",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-09-25T21:08:18.295697Z"
+      }
+    ]
   }
 ]
