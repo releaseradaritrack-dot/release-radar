@@ -8792,5 +8792,46 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-25T03:35:43.416481Z",
+    "new_titles": [
+      {
+        "id": "tv-334706",
+        "title": "Outlore With Eleanor Neale",
+        "release_date": "2026-09-27"
+      },
+      {
+        "id": "movie-1618090",
+        "title": "A Statement",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "tv-303001",
+        "title": "Invisible",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-334703",
+        "title": "Couldn’t Agree Less with Allison & Isaac",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-326007",
+        "title": "Learning with Pibby: Armageddon",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1779591",
+        "title": "The Alfred Eulogy",
+        "release_date": "2026-12-24"
+      },
+      {
+        "id": "movie-1440769",
+        "title": "The Beekeeper 2",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": []
   }
 ]
