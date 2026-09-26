@@ -9014,5 +9014,74 @@
         "detected_at": "2026-09-25T21:08:18.295697Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-26T03:41:17.082660Z",
+    "new_titles": [
+      {
+        "id": "movie-1767141",
+        "title": "The Ocean Between Them",
+        "release_date": "2026-09-26"
+      },
+      {
+        "id": "tv-335032",
+        "title": "Secret Life of a Vegas Casino",
+        "release_date": "2026-09-29"
+      },
+      {
+        "id": "tv-320909",
+        "title": "Firefly Wedding",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1769370",
+        "title": "Awake",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "movie-1234139",
+        "title": "Jailer 2",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1084409",
+        "title": "A Talent for Murder",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1765774",
+        "title": "Montpellier",
+        "release_date": "2026-11-17"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-256726",
+        "title": "Tantara",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-307325",
+        "title": "The Eyes",
+        "release_date": "2026-12-18"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "old_date": "2027-01-08",
+        "new_date": "2027-01-06",
+        "detected_at": "2026-09-26T03:41:17.080353Z"
+      }
+    ]
   }
 ]
