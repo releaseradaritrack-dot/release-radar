@@ -9083,5 +9083,31 @@
         "detected_at": "2026-09-26T03:41:17.080353Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-26T10:51:44.294314Z",
+    "new_titles": [
+      {
+        "id": "movie-1742441",
+        "title": "V/H/S/Mixtape",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-334709",
+        "title": "Fake Doctors, Real Friends with Zach and Donald",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-334703",
+        "title": "Couldn't Agree Less with Allison & Isaac",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1458099",
+        "title": "The Only Living Pickpocket in New York",
+        "release_date": "2026-10-23"
+      }
+    ],
+    "date_changes": []
   }
 ]
