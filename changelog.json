@@ -9236,5 +9236,36 @@
         "detected_at": "2026-09-26T20:40:55.901790Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-27T03:50:38.340546Z",
+    "new_titles": [
+      {
+        "id": "movie-1757506",
+        "title": "Crooked Miles",
+        "release_date": "2026-09-29"
+      },
+      {
+        "id": "movie-1763332",
+        "title": "Orang Perang",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "movie-1758599",
+        "title": "Manual Wind",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1766531",
+        "title": "TV Land",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1440769",
+        "title": "The Beekeeper 2",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": []
   }
 ]
