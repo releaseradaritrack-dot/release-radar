@@ -9376,5 +9376,69 @@
         "detected_at": "2026-09-27T16:27:34.824959Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-27T20:55:44.688824Z",
+    "new_titles": [
+      {
+        "id": "tv-335591",
+        "title": "Break Clause",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-301139",
+        "title": "#I'm Looking for Zombie",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "tv-283938",
+        "title": "Even the Student Council Has Its Holes!",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "movie-1634905",
+        "title": "Vampire Carnival",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-1447963",
+        "title": "Found Alive",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-317326",
+        "title": "Fool in Love",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-1458099",
+        "title": "The Only Living Pickpocket in New York",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-313699",
+        "title": "Balaraw: Blood Island",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1771231",
+        "title": "Maintaining Normalcy",
+        "release_date": "2026-11-05"
+      },
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "release_date": "2026-11-13"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1742441",
+        "title": "V/H/S/Mixtape",
+        "old_date": "2026-09-30",
+        "new_date": "2026-10-09",
+        "detected_at": "2026-09-27T20:55:44.687239Z"
+      }
+    ]
   }
 ]
