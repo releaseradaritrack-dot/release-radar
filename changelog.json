@@ -9305,5 +9305,76 @@
         "detected_at": "2026-09-27T11:27:48.724754Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-27T16:27:34.827382Z",
+    "new_titles": [
+      {
+        "id": "tv-334706",
+        "title": "Outlore With Eleanor Neale",
+        "release_date": "2026-09-27"
+      },
+      {
+        "id": "tv-297982",
+        "title": "Irreplaceable",
+        "release_date": "2026-09-28"
+      },
+      {
+        "id": "tv-302466",
+        "title": "Soeurs",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-286712",
+        "title": "Private Eyes West Coast",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-336200",
+        "title": "The Breakdown with Peyton and Kuechly",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "movie-1599764",
+        "title": "London",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1763585",
+        "title": "Lagi Probation: Kerja Ngejar Apa Sih?",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-335860",
+        "title": "この味もまたいつか恋しくなる",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1599189",
+        "title": "剑来院线剧场版 十三之争",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-330569",
+        "title": "Lumine",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-09-27T16:27:34.824941Z"
+      },
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "old_date": "2027-01-06",
+        "new_date": "2027-01-08",
+        "detected_at": "2026-09-27T16:27:34.824959Z"
+      }
+    ]
   }
 ]
