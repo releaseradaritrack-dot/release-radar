@@ -9474,5 +9474,60 @@
         "detected_at": "2026-09-28T03:50:15.680527Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-28T12:59:44.763484Z",
+    "new_titles": [
+      {
+        "id": "tv-336168",
+        "title": "Paige Prater: Pink Friendship",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-329575",
+        "title": "The Pellikandy Show",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "tv-336199",
+        "title": "Crime and Punishment in America",
+        "release_date": "2026-11-16"
+      },
+      {
+        "id": "movie-1389765",
+        "title": "Batman: Knightfall Part 2: Knightquest",
+        "release_date": "2026-12-08"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1556321",
+        "title": "Death Whisperer: Saming the Werebeast",
+        "old_date": "2026-09-30",
+        "new_date": "2026-09-29",
+        "detected_at": "2026-09-28T12:59:44.760919Z"
+      },
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-28T12:59:44.760954Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-09-28T12:59:44.760960Z"
+      },
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "old_date": "2027-01-08",
+        "new_date": "2027-01-06",
+        "detected_at": "2026-09-28T12:59:44.760967Z"
+      }
+    ]
   }
 ]
