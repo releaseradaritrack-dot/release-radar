@@ -9529,5 +9529,81 @@
         "detected_at": "2026-09-28T12:59:44.760967Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-28T22:57:31.370290Z",
+    "new_titles": [
+      {
+        "id": "tv-297982",
+        "title": "Irreplaceable",
+        "release_date": "2026-09-28"
+      },
+      {
+        "id": "tv-335205",
+        "title": "Drop in",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-283938",
+        "title": "Even the Student Council Has Its Holes!",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "movie-1559680",
+        "title": "The Sandbox",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-332733",
+        "title": "Sign: The Way I Hear You",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-1389172",
+        "title": "Reporting Live",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-334321",
+        "title": "SQUALL",
+        "release_date": "2026-10-19"
+      },
+      {
+        "id": "movie-1770782",
+        "title": "The Excrement",
+        "release_date": "2026-11-08"
+      },
+      {
+        "id": "movie-1783280",
+        "title": "Party Animals",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1766531",
+        "title": "TV Land",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "release_date": "2026-12-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1003596",
+        "title": "Avengers: Doomsday",
+        "old_date": "2026-12-16",
+        "new_date": "2026-12-15",
+        "detected_at": "2026-09-28T22:57:31.368282Z"
+      },
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "old_date": "2027-01-06",
+        "new_date": "2027-01-08",
+        "detected_at": "2026-09-28T22:57:31.368298Z"
+      }
+    ]
   }
 ]
