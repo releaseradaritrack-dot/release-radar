@@ -9440,5 +9440,39 @@
         "detected_at": "2026-09-27T20:55:44.687239Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-28T03:50:15.683013Z",
+    "new_titles": [
+      {
+        "id": "tv-335811",
+        "title": "Shaun Micallef’s Parents’ Evening",
+        "release_date": "2026-09-28"
+      },
+      {
+        "id": "tv-324502",
+        "title": "Overgeared",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-303272",
+        "title": "Magic Knight Rayearth",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-1766531",
+        "title": "TV Land",
+        "release_date": "2026-12-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-09-28T03:50:15.680527Z"
+      }
+    ]
   }
 ]
