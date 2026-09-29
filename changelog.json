@@ -9605,5 +9605,31 @@
         "detected_at": "2026-09-28T22:57:31.368298Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-29T04:24:55.122752Z",
+    "new_titles": [
+      {
+        "id": "tv-336455",
+        "title": "Holiewood: From Rags To Cardboard",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-301139",
+        "title": "#I'm Looking for Zombie",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "tv-303272",
+        "title": "Magic Knight Rayearth",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-275139",
+        "title": "Phony",
+        "release_date": "2026-10-20"
+      }
+    ],
+    "date_changes": []
   }
 ]
