@@ -9631,5 +9631,36 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-29T12:11:28.167940Z",
+    "new_titles": [
+      {
+        "id": "tv-333040",
+        "title": "Hidden Flavors",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "movie-1458099",
+        "title": "The Only Living Pickpocket in New York",
+        "release_date": "2026-10-23"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1255833",
+        "title": "Whalefall",
+        "old_date": "2026-10-14",
+        "new_date": "2026-10-16",
+        "detected_at": "2026-09-29T12:11:28.165297Z"
+      },
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "old_date": "2027-01-08",
+        "new_date": "2027-01-06",
+        "detected_at": "2026-09-29T12:11:28.165325Z"
+      }
+    ]
   }
 ]
