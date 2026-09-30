@@ -9788,5 +9788,36 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-09-30T11:58:40.438359Z",
+    "new_titles": [
+      {
+        "id": "movie-1777750",
+        "title": "Detective Conan: The Counterfeit Case of Ultra 30",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-331693",
+        "title": "My Love, the Black Sea",
+        "release_date": "2026-10-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-09-30T11:58:40.436680Z"
+      },
+      {
+        "id": "movie-1425472",
+        "title": "The Rescue",
+        "old_date": "2027-01-29",
+        "new_date": "2027-01-28",
+        "detected_at": "2026-09-30T11:58:40.436696Z"
+      }
+    ]
   }
 ]

@@ -15,8 +15,8 @@
       ],
       "language": "en",
       "synopsis": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/e2t7NjahJTgz2PMx2BW4ZRgHR6Z.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sSPreWTXybWDgfNvKoL9E4sahqH.jpg",
       "popularity": 50.4442,
       "platform": "theatrical",
       "source": "TMDB",
@@ -263,29 +263,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-258165",
-      "tmdb_id": 258165,
-      "type": "series",
-      "industry": "international",
-      "title": "East of Eden",
-      "original_title": "East of Eden",
-      "release_date": "2026-10-01",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8WGq5Q0tmTe30YZetLnU2dkOJZf.jpg",
-      "popularity": 13.1742,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-298852",
       "tmdb_id": 298852,
       "type": "series",
@@ -303,6 +280,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
       "popularity": 12.921,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-258165",
+      "tmdb_id": 258165,
+      "type": "series",
+      "industry": "international",
+      "title": "East of Eden",
+      "original_title": "East of Eden",
+      "release_date": "2026-10-01",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "synopsis": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8WGq5Q0tmTe30YZetLnU2dkOJZf.jpg",
+      "popularity": 13.1742,
       "platform": "ott",
       "source": "TMDB",
       "official_url": "",
@@ -400,30 +400,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1515692",
-      "tmdb_id": 1515692,
-      "type": "movie",
-      "industry": "international",
-      "title": "Baththa",
-      "original_title": "பத்தா",
-      "release_date": "2026-10-01",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ta",
-      "synopsis": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bsFSlIwsH0Lrqo9TtGv4KwvgKS1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lWHobZZO6S6pn7SUMAzzjgMncBI.jpg",
-      "popularity": 5.344,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-335591",
       "tmdb_id": 335591,
       "type": "series",
@@ -461,7 +437,7 @@
         "Comedy"
       ],
       "language": "en",
-      "synopsis": "A father makes a bad parenting choice by taking his young son to a wild hip-hop festival, leading to chaos as they navigate crowds, security, and family dynamics with eccentric companions.",
+      "synopsis": "Desperate to reconnect with his 13-year-old son, Hank secretly takes him to Rolling Loud against his wife's wishes. When Zion disappears inside the massive festival, Hank teams with two unlikely allies and plunges into an increasingly insane search—while hiding the truth from his wife and confronting the harder truth that his son is growing up.",
       "poster_url": "https://image.tmdb.org/t/p/w500/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
       "popularity": 8.9987,
@@ -575,7 +551,7 @@
       ],
       "language": "hi",
       "synopsis": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7T62GSduOWDMB0gGDBs9pmtLTSB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
       "popularity": 7.5652,
       "platform": "prime_video",
@@ -673,6 +649,31 @@
       "backdrop_url": "",
       "popularity": 3.5836,
       "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1777750",
+      "tmdb_id": 1777750,
+      "type": "movie",
+      "industry": "international",
+      "title": "Detective Conan: The Counterfeit Case of Ultra 30",
+      "original_title": "名探偵コナン 30号殺人事件",
+      "release_date": "2026-10-02",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Animation",
+        "Action",
+        "Crime"
+      ],
+      "language": "ja",
+      "synopsis": "As a new 10,000-yen banknote featuring the Touto Tower design is issued and the nation is swept up in excitement, Conan and the Junior Detective League, accompanied by Professor Agasa, Ran, and Sonoko, visit the Nagano factory of the Japan Banknote Printing Bureau. Meanwhile, counterfeit money is discovered at the scene of a murder in Tokyo, prompting the Metropolitan Police Department to establish an investigation headquarters. As the unprecedented circulation of counterfeit new banknotes throws the public into confusion, Conan and Heiji head to Osaka, where the counterfeit money is believed to have been printed.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/v0T74v8LPZBSL247oGeTOp06tnm.jpg",
+      "popularity": 5.514,
+      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -791,7 +792,7 @@
       "language": "ja",
       "synopsis": "It may be a ruined city ravaged by zombies, but to Aki and her friends, it's amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they've never felt more alive.",
       "poster_url": "https://image.tmdb.org/t/p/w500/h7m78927thNbw6ODJsES0euPCFy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gEbVNBlxBVvyphlpDBUqGNpfXNc.jpg",
       "popularity": 5.8981,
       "platform": "ott",
       "source": "TMDB",
@@ -1740,30 +1741,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-320909",
-      "tmdb_id": 320909,
-      "type": "series",
-      "industry": "international",
-      "title": "Firefly Wedding",
-      "original_title": "ホタルの嫁入り",
-      "release_date": "2026-10-09",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Animation",
-        "Drama"
-      ],
-      "language": "ja",
-      "synopsis": "On the surface, Satoko has it all—she's beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family's eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/954dt0dTqoUhIW0EvMFZ0KvVQmk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
-      "popularity": 4.5016,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1767115",
       "tmdb_id": 1767115,
       "type": "movie",
@@ -1921,6 +1898,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3eaeeLaStTyYpG6KrRHbUcdEL2Z.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/8QA5wsfCIBKzXA9SLZyhWfThKjy.jpg",
       "popularity": 4.8677,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-331693",
+      "tmdb_id": 331693,
+      "type": "series",
+      "industry": "international",
+      "title": "My Love, the Black Sea",
+      "original_title": "Sevdam Karadeniz",
+      "release_date": "2026-10-12",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "tr",
+      "synopsis": "The series “Sevdam Karadeniz” tells the story of the enmity between two well-established families of the Black Sea region, which began with the unfinished love of Hafize Alazlı and Durali Yeniceli and, years later, drives their grandchildren Kuzey and Zeyşan into a forced marriage.\n\nAmid secrets, forbidden loves, and vows of revenge, the two young people are forced to make a choice that will change the fate of their families.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zOqcJuBcEgzwKax9jHQM4MGAy0y.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iR0uB1YKK4jOF2pqlL4Sy2XdprY.jpg",
+      "popularity": 9.9274,
       "platform": "ott",
       "source": "TMDB",
       "official_url": "",
@@ -2352,29 +2352,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1479690",
-      "tmdb_id": 1479690,
-      "type": "movie",
-      "industry": "bollywood",
-      "title": "RaftaaR",
-      "original_title": "RaftaaR",
-      "release_date": "2026-10-16",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "hi",
-      "synopsis": "",
-      "poster_url": "https://image.tmdb.org/t/p/w500/srvDYDyaYTh27ObUvOcggyT1ZGn.jpg",
-      "backdrop_url": "",
-      "popularity": 1.8082,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1081010",
       "tmdb_id": 1081010,
       "type": "movie",
@@ -2393,6 +2370,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/g2bZzjWzdPZ5GXrN8dQ8sixant3.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
       "popularity": 1.9262,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1479690",
+      "tmdb_id": 1479690,
+      "type": "movie",
+      "industry": "bollywood",
+      "title": "RaftaaR",
+      "original_title": "RaftaaR",
+      "release_date": "2026-10-16",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "hi",
+      "synopsis": "",
+      "poster_url": "https://image.tmdb.org/t/p/w500/srvDYDyaYTh27ObUvOcggyT1ZGn.jpg",
+      "backdrop_url": "",
+      "popularity": 1.8082,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -2540,27 +2540,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-313137",
-      "tmdb_id": 313137,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "The Golden Life",
-      "original_title": "The Golden Life",
-      "release_date": "2026-10-20",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [],
-      "language": "en",
-      "synopsis": "Bound by decades of shared history, fallouts and friendship, this fan-favorite group of New Yorkers are starting fresh together in the Sunshine State. In this new ‘golden’ era of life, the longtime friends are thriving in and around Palm Beach with fabulous second homes and a bustling social scene. With their signature humor and non-stop hijinks, the group navigates dating, family, and career milestones. Though skies are bright in Florida, unresolved drama looms as they reconnect after years of highs and lows.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/i01BY5a3Qgw17QadDBDUHU3SPTI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aFMQmMMLxcjO5EXP7ooetzqo6N7.jpg",
-      "popularity": 2.5272,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-275139",
       "tmdb_id": 275139,
       "type": "series",
@@ -2580,6 +2559,27 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3vr968BrQl6ERKuoRdUib8qtlhJ.jpg",
       "backdrop_url": "",
       "popularity": 3.6276,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-313137",
+      "tmdb_id": 313137,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "The Golden Life",
+      "original_title": "The Golden Life",
+      "release_date": "2026-10-20",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [],
+      "language": "en",
+      "synopsis": "Bound by decades of shared history, fallouts and friendship, this fan-favorite group of New Yorkers are starting fresh together in the Sunshine State. In this new ‘golden’ era of life, the longtime friends are thriving in and around Palm Beach with fabulous second homes and a bustling social scene. With their signature humor and non-stop hijinks, the group navigates dating, family, and career milestones. Though skies are bright in Florida, unresolved drama looms as they reconnect after years of highs and lows.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i01BY5a3Qgw17QadDBDUHU3SPTI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aFMQmMMLxcjO5EXP7ooetzqo6N7.jpg",
+      "popularity": 2.5272,
       "platform": "ott",
       "source": "TMDB",
       "official_url": "",
@@ -3391,29 +3391,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1286656",
-      "tmdb_id": 1286656,
-      "type": "movie",
-      "industry": "international",
-      "title": "I Play Rocky",
-      "original_title": "I Play Rocky",
-      "release_date": "2026-11-06",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-      "popularity": 4.8016,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1495662",
       "tmdb_id": 1495662,
       "type": "movie",
@@ -3677,6 +3654,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1286656",
+      "tmdb_id": 1286656,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "I Play Rocky",
+      "original_title": "I Play Rocky",
+      "release_date": "2026-11-13",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "synopsis": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+      "popularity": 4.8016,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-336199",
       "tmdb_id": 336199,
       "type": "series",
@@ -3865,31 +3865,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1457866",
-      "tmdb_id": 1457866,
-      "type": "movie",
-      "industry": "international",
-      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-      "original_title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-      "release_date": "2026-11-25",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Thriller"
-      ],
-      "language": "en",
-      "synopsis": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
-      "popularity": 10.726,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1538497",
       "tmdb_id": 1538497,
       "type": "movie",
@@ -3909,6 +3884,31 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
       "popularity": 11.6596,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1457866",
+      "tmdb_id": 1457866,
+      "type": "movie",
+      "industry": "international",
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "original_title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "release_date": "2026-11-25",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "en",
+      "synopsis": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
+      "popularity": 10.726,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -4985,10 +4985,10 @@
       "id": "movie-1425472",
       "tmdb_id": 1425472,
       "type": "movie",
-      "industry": "hollywood",
+      "industry": "international",
       "title": "The Rescue",
       "original_title": "The Rescue",
-      "release_date": "2027-01-29",
+      "release_date": "2027-01-28",
       "release_time": "",
       "status": "confirmed",
       "genres": [
@@ -5029,5 +5029,5 @@
       "trailer_url": ""
     }
   ],
-  "updated_at": "2026-09-30T04:08:11.674164Z"
+  "updated_at": "2026-09-30T11:58:41.851971Z"
 }
