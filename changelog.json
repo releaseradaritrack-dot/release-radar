@@ -9819,5 +9819,76 @@
         "detected_at": "2026-09-30T11:58:40.436696Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-30T17:56:28.319495Z",
+    "new_titles": [
+      {
+        "id": "tv-335205",
+        "title": "Drop in",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-297903",
+        "title": "PSYREN",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "movie-1443151",
+        "title": "Double Trouble",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1773109",
+        "title": "Termination Point",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-306565",
+        "title": "DARK MACHINE THE ANIMATION",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1458099",
+        "title": "The Only Living Pickpocket in New York",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-307478",
+        "title": "The Perfect Lie",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1771231",
+        "title": "Maintaining Normalcy",
+        "release_date": "2026-11-05"
+      },
+      {
+        "id": "tv-291074",
+        "title": "Ted: The Animated Series",
+        "release_date": "2026-12-17"
+      },
+      {
+        "id": "movie-1440769",
+        "title": "The Beekeeper 2",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "old_date": "2027-01-08",
+        "new_date": "2027-01-06",
+        "detected_at": "2026-09-30T17:56:28.316924Z"
+      },
+      {
+        "id": "movie-1425472",
+        "title": "The Rescue",
+        "old_date": "2027-01-28",
+        "new_date": "2027-01-29",
+        "detected_at": "2026-09-30T17:56:28.316938Z"
+      }
+    ]
   }
 ]
