@@ -9772,5 +9772,21 @@
         "detected_at": "2026-09-29T21:54:56.178257Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-30T04:08:10.900916Z",
+    "new_titles": [
+      {
+        "id": "tv-328361",
+        "title": "NOVA: Evolution",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1425472",
+        "title": "The Rescue",
+        "release_date": "2027-01-29"
+      }
+    ],
+    "date_changes": []
   }
 ]
