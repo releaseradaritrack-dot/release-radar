@@ -9890,5 +9890,66 @@
         "detected_at": "2026-09-30T17:56:28.316938Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-30T21:57:56.787823Z",
+    "new_titles": [
+      {
+        "id": "tv-336999",
+        "title": "Special Branch",
+        "release_date": "2026-09-30"
+      },
+      {
+        "id": "tv-300508",
+        "title": "Bishop",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-332808",
+        "title": "Archive X: Unexplained Phenomena",
+        "release_date": "2026-10-01"
+      },
+      {
+        "id": "tv-334888",
+        "title": "Africa Earth's Wild Home",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-284558",
+        "title": "Kill Jackie",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-301139",
+        "title": "#I'm Looking for Zombie",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "tv-293607",
+        "title": "100 Days of Deception",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-336418",
+        "title": "The Pet Cemetery Murders: A Ghost Story",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "tv-204084",
+        "title": "Dreamland",
+        "release_date": "2026-10-17"
+      },
+      {
+        "id": "tv-313137",
+        "title": "The Golden Life",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "tv-335087",
+        "title": "Visceral",
+        "release_date": "2026-12-13"
+      }
+    ],
+    "date_changes": []
   }
 ]
