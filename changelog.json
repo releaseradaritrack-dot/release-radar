@@ -9951,5 +9951,36 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-01T04:19:57.798859Z",
+    "new_titles": [
+      {
+        "id": "tv-336337",
+        "title": "Sveriges nästa stjärnkock – New York",
+        "release_date": "2026-10-13"
+      },
+      {
+        "id": "tv-329575",
+        "title": "The Pellikandy Show",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "tv-334273",
+        "title": "Marina i Futa",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1137888",
+        "title": "The Man with the Bag",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "release_date": "2027-01-29"
+      }
+    ],
+    "date_changes": []
   }
 ]
