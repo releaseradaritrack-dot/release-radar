@@ -10011,5 +10011,88 @@
         "detected_at": "2026-10-01T12:30:07.211295Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-01T22:22:41.454396Z",
+    "new_titles": [
+      {
+        "id": "tv-332649",
+        "title": "真田十勇士 SHADOWS OF THE TEN NINJA",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-285710",
+        "title": "Suikoden: The Anime",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "movie-1742441",
+        "title": "V/H/S/Mixtape",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-239384",
+        "title": "Teach Me, Touch Me",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1774838",
+        "title": "Half Moon",
+        "release_date": "2026-10-18"
+      },
+      {
+        "id": "movie-1596275",
+        "title": "Drive - The Pretenders",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "tv-326007",
+        "title": "Learning with Pibby: Armageddon",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-303044",
+        "title": "Campus Drivers",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-336478",
+        "title": "Doozie's Doghouse",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "movie-1202167",
+        "title": "Nakhrewaalii",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-321389",
+        "title": "Tomfoolers",
+        "release_date": "2026-12-03"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-656908",
+        "title": "Ramayana",
+        "old_date": "2026-11-05",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-10-01T22:22:41.451822Z"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-12",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-10-01T22:22:41.451833Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-10-01T22:22:41.451840Z"
+      }
+    ]
   }
 ]
