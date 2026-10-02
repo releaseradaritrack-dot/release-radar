@@ -10094,5 +10094,101 @@
         "detected_at": "2026-10-01T22:22:41.451840Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-02T04:13:06.385900Z",
+    "new_titles": [
+      {
+        "id": "tv-300925",
+        "title": "Paul, la série",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-336480",
+        "title": "Paige Prater: Perfect Holiday",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "tv-297903",
+        "title": "PSYREN",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-336311",
+        "title": "Finding Bond",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "tv-328361",
+        "title": "NOVA: Evolution",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-329575",
+        "title": "The Pellikandy Show",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1458099",
+        "title": "The Only Living Pickpocket in New York",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-322051",
+        "title": "The Sound of Sugar Cubes",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-333103",
+        "title": "De Kroesjes",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "tv-334273",
+        "title": "Marina i Futa",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1001315",
+        "title": "The Arab",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1770782",
+        "title": "The Excrement",
+        "release_date": "2026-11-08"
+      },
+      {
+        "id": "tv-320507",
+        "title": "The Secret Lives of Mormon Wives: Orange County",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "movie-1765774",
+        "title": "Montpellier",
+        "release_date": "2026-11-17"
+      },
+      {
+        "id": "tv-330569",
+        "title": "Lumine",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1286656",
+        "title": "I Play Rocky",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-10-02T04:13:06.382965Z"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-12",
+        "detected_at": "2026-10-02T04:13:06.382981Z"
+      }
+    ]
   }
 ]
