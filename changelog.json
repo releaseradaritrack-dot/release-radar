@@ -10190,5 +10190,39 @@
         "detected_at": "2026-10-02T04:13:06.382981Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-02T11:56:28.807608Z",
+    "new_titles": [
+      {
+        "id": "tv-298852",
+        "title": "WAR",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-290699",
+        "title": "Shadow Punisher",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-283938",
+        "title": "Even the Student Council Has Its Holes!",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "tv-331822",
+        "title": "Sunshine Girls",
+        "release_date": "2026-12-07"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-791523",
+        "title": "Wildwood",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-22",
+        "detected_at": "2026-10-02T11:56:28.804723Z"
+      }
+    ]
   }
 ]
