@@ -10263,5 +10263,71 @@
         "detected_at": "2026-10-02T17:36:25.725547Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-02T21:51:22.501484Z",
+    "new_titles": [
+      {
+        "id": "tv-300925",
+        "title": "Paul, la série",
+        "release_date": "2026-10-02"
+      },
+      {
+        "id": "tv-287556",
+        "title": "Mírame así, el camino de Noa",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "movie-1769370",
+        "title": "Awake",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "tv-239384",
+        "title": "Teach Me Touch Me",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1596275",
+        "title": "Drive - The Pretenders",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "movie-1567605",
+        "title": "Ebenezer",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-313767",
+        "title": "Hurt",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-320507",
+        "title": "The Secret Lives of Mormon Wives: Orange County",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-331962",
+        "title": "Skimmer",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1766531",
+        "title": "TV Land",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-283220",
+        "title": "Quiztopia",
+        "release_date": "2026-12-17"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": []
   }
 ]
