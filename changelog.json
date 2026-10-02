@@ -10224,5 +10224,44 @@
         "detected_at": "2026-10-02T11:56:28.804723Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-02T17:36:25.730605Z",
+    "new_titles": [
+      {
+        "id": "movie-1777808",
+        "title": "Amped",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "movie-1777435",
+        "title": "Видеопрокат",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-288458",
+        "title": "Ben-Hur: A Série",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-289517",
+        "title": "Dead-End Job",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1633831",
+        "title": "Villains",
+        "release_date": "2027-01-22"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1375156",
+        "title": "Udta Teer",
+        "old_date": "2026-10-09",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-10-02T17:36:25.725547Z"
+      }
+    ]
   }
 ]
