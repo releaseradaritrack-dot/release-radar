@@ -10400,5 +10400,34 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-03T11:09:28.734280Z",
+    "new_titles": [
+      {
+        "id": "tv-324637",
+        "title": "Locker Diaries: Camp Rock",
+        "release_date": "2026-10-03"
+      },
+      {
+        "id": "movie-1400837",
+        "title": "Other Mommy",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-1384758",
+        "title": "Ice Age: Boiling Point",
+        "release_date": "2027-02-05"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-12",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-10-03T11:09:28.731320Z"
+      }
+    ]
   }
 ]
