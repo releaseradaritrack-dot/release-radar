@@ -10460,5 +10460,83 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-03T20:37:32.174578Z",
+    "new_titles": [
+      {
+        "id": "tv-330627",
+        "title": "MR -医薬情報担当者-",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "tv-318634",
+        "title": "Twisted Tie",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-336287",
+        "title": "TV Land",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-336418",
+        "title": "The Pet Cemetery Murders: A Ghost Story",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "tv-329896",
+        "title": "Locker Diaries: Coven Academy",
+        "release_date": "2026-10-17"
+      },
+      {
+        "id": "movie-1776601",
+        "title": "Pranker",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-307478",
+        "title": "The Perfect Lie",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1776413",
+        "title": "Lilya",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "movie-1510775",
+        "title": "Gunmaaster G9",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-313701",
+        "title": "A Filipino Christmas",
+        "release_date": "2026-12-03"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1737740",
+        "title": "Fresh Meat",
+        "old_date": "2026-10-12",
+        "new_date": "2026-10-15",
+        "detected_at": "2026-10-03T20:37:32.172936Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-10-03T20:37:32.172951Z"
+      },
+      {
+        "id": "movie-1384758",
+        "title": "Ice Age: Boiling Point",
+        "old_date": "2027-02-05",
+        "new_date": "2027-01-28",
+        "detected_at": "2026-10-03T20:37:32.172956Z"
+      }
+    ]
   }
 ]
