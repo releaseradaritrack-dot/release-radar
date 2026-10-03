@@ -10329,5 +10329,76 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-03T03:55:55.733786Z",
+    "new_titles": [
+      {
+        "id": "tv-283938",
+        "title": "Even the Student Council Has Its Holes!",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "movie-1381078",
+        "title": "Love of Your Life",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-313346",
+        "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-332733",
+        "title": "Sign: The Way I Hear You",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-323830",
+        "title": "Rangbazz: The story of Deva",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-328361",
+        "title": "NOVA: Evolution",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-329575",
+        "title": "The Pellikandy Show",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1771367",
+        "title": "Pemuja Syaitan",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1787082",
+        "title": "Poniiy",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1727734",
+        "title": "Ali G: Who Iz I?",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1001315",
+        "title": "The Arab",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1599230",
+        "title": "Elsinore",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1775266",
+        "title": "Fridged",
+        "release_date": "2026-12-08"
+      }
+    ],
+    "date_changes": []
   }
 ]
