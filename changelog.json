@@ -10538,5 +10538,39 @@
         "detected_at": "2026-10-03T20:37:32.172956Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-04T04:28:17.941782Z",
+    "new_titles": [
+      {
+        "id": "tv-332912",
+        "title": "The White House Is Fake",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "tv-334361",
+        "title": "What Remains",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1713789",
+        "title": "Reverse Myself",
+        "release_date": "2027-02-01"
+      },
+      {
+        "id": "tv-299648",
+        "title": "Civil War",
+        "release_date": "2027-02-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-12",
+        "detected_at": "2026-10-04T04:28:17.939100Z"
+      }
+    ]
   }
 ]
