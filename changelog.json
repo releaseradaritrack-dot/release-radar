@@ -10572,5 +10572,34 @@
         "detected_at": "2026-10-04T04:28:17.939100Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-04T11:49:44.806589Z",
+    "new_titles": [
+      {
+        "id": "tv-283938",
+        "title": "Even the Student Council Has Its Holes!",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "tv-335194",
+        "title": "Magical Explorer",
+        "release_date": "2026-10-04"
+      },
+      {
+        "id": "tv-305313",
+        "title": "Romelia War Chronicle",
+        "release_date": "2026-10-05"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1003596",
+        "title": "Avengers: Doomsday",
+        "old_date": "2026-12-15",
+        "new_date": "2026-12-16",
+        "detected_at": "2026-10-04T11:49:44.803892Z"
+      }
+    ]
   }
 ]
