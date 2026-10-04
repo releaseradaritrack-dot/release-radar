@@ -2073,27 +2073,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-335319",
-      "tmdb_id": 335319,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "The New Stanford Prison Experiment",
-      "original_title": "The New Stanford Prison Experiment",
-      "release_date": "2026-10-21",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [],
-      "language": "en",
-      "synopsis": "In this modern reimagining of the infamous study, 30 people enter a real prison for two weeks and shifting power dynamics expose what they're capable of.",
-      "poster_url": "",
-      "backdrop_url": "",
-      "popularity": 1.6415,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1195803",
       "tmdb_id": 1195803,
       "type": "movie",
@@ -2114,6 +2093,27 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
       "popularity": 9.1298,
       "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-335319",
+      "tmdb_id": 335319,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "The New Stanford Prison Experiment",
+      "original_title": "The New Stanford Prison Experiment",
+      "release_date": "2026-10-21",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [],
+      "language": "en",
+      "synopsis": "In this modern reimagining of the infamous study, 30 people enter a real prison for two weeks and shifting power dynamics expose what they're capable of.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 1.6415,
+      "platform": "ott",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -2775,6 +2775,32 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1117898",
+      "tmdb_id": 1117898,
+      "type": "movie",
+      "industry": "international",
+      "title": "The Cat in the Hat",
+      "original_title": "The Cat in the Hat",
+      "release_date": "2026-11-04",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Adventure",
+        "Fantasy"
+      ],
+      "language": "en",
+      "synopsis": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "popularity": 12.6307,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1562642",
       "tmdb_id": 1562642,
       "type": "movie",
@@ -2817,32 +2843,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
       "popularity": 11.3031,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1117898",
-      "tmdb_id": 1117898,
-      "type": "movie",
-      "industry": "international",
-      "title": "The Cat in the Hat",
-      "original_title": "The Cat in the Hat",
-      "release_date": "2026-11-04",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Adventure",
-        "Fantasy"
-      ],
-      "language": "en",
-      "synopsis": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-      "popularity": 12.6307,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -5046,5 +5046,5 @@
       "trailer_url": ""
     }
   ],
-  "updated_at": "2026-10-04T16:29:19.497591Z"
+  "updated_at": "2026-10-04T20:54:11.305977Z"
 }
