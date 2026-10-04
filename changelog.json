@@ -10601,5 +10601,69 @@
         "detected_at": "2026-10-04T11:49:44.803892Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-04T16:29:18.470359Z",
+    "new_titles": [
+      {
+        "id": "tv-334151",
+        "title": "Pierre",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-320909",
+        "title": "Firefly Wedding",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-336287",
+        "title": "TV Land",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-318356",
+        "title": "Okolochny",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1561726",
+        "title": "Masterplan",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-332204",
+        "title": "Vanderpump Rules: Lisa Las Vegas",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "movie-1480665",
+        "title": "The Hunchback: Soul of Paris",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-292117",
+        "title": "Teen Kauwe",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-333434",
+        "title": "Sal's Big Planet",
+        "release_date": "2027-01-03"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1737740",
+        "title": "Fresh Meat",
+        "old_date": "2026-10-15",
+        "new_date": "2026-10-12",
+        "detected_at": "2026-10-04T16:29:18.467377Z"
+      }
+    ]
   }
 ]
