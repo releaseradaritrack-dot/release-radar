@@ -10665,5 +10665,21 @@
         "detected_at": "2026-10-04T16:29:18.467377Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-05T04:13:44.662025Z",
+    "new_titles": [
+      {
+        "id": "tv-328361",
+        "title": "NOVA: Evolution",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-301354",
+        "title": "The Great King Munmu",
+        "release_date": "2026-11-14"
+      }
+    ],
+    "date_changes": []
   }
 ]
