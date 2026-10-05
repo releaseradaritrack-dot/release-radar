@@ -10681,5 +10681,59 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-05T13:41:41.826816Z",
+    "new_titles": [
+      {
+        "id": "tv-326382",
+        "title": "Death is Coming",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-297903",
+        "title": "PSYREN",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-329096",
+        "title": "From Far Away",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-335790",
+        "title": "I'm Dating a Dark Summoner",
+        "release_date": "2026-10-05"
+      },
+      {
+        "id": "tv-312850",
+        "title": "Nia Liston: The Merciless Maiden",
+        "release_date": "2026-10-06"
+      },
+      {
+        "id": "tv-313346",
+        "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-334279",
+        "title": "Resistance to the Daleks, Part One",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "tv-325484",
+        "title": "New Wave",
+        "release_date": "2026-11-23"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-656908",
+        "title": "Ramayana",
+        "old_date": "2026-11-04",
+        "new_date": "2026-11-05",
+        "detected_at": "2026-10-05T13:41:41.823972Z"
+      }
+    ]
   }
 ]
