@@ -10774,5 +10774,51 @@
         "detected_at": "2026-10-05T23:46:40.372760Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-06T05:02:18.338283Z",
+    "new_titles": [
+      {
+        "id": "tv-303272",
+        "title": "Magic Knight Rayearth",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-333103",
+        "title": "De Kroesjes",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "tv-334273",
+        "title": "Marina i Futa",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-300523",
+        "title": "Blue Road",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-313701",
+        "title": "A Filipino Christmas",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "movie-1492198",
+        "title": "Artificial",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-336768",
+        "title": "Aaj",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1425859",
+        "title": "Remain",
+        "release_date": "2027-02-05"
+      }
+    ],
+    "date_changes": []
   }
 ]
