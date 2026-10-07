@@ -10984,5 +10984,49 @@
         "detected_at": "2026-10-07T04:29:10.005817Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-07T12:42:57.884145Z",
+    "new_titles": [
+      {
+        "id": "tv-303272",
+        "title": "Magic Knight Rayearth",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-1783159",
+        "title": "The Ordinary Star",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1771231",
+        "title": "Maintaining Normalcy",
+        "release_date": "2026-11-05"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "tv-336768",
+        "title": "Aaj",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1560399",
+        "title": "Milo",
+        "release_date": "2027-01-20"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-12",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-10-07T12:42:57.881728Z"
+      }
+    ]
   }
 ]
