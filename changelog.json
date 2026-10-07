@@ -10940,5 +10940,49 @@
         "detected_at": "2026-10-06T22:22:18.333853Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-07T04:29:10.008193Z",
+    "new_titles": [
+      {
+        "id": "tv-337653",
+        "title": "Ishqa Ishqa",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-334321",
+        "title": "SQUALL",
+        "release_date": "2026-10-19"
+      },
+      {
+        "id": "tv-333103",
+        "title": "De Kroesjes",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "tv-334273",
+        "title": "Marina i Futa",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-306179",
+        "title": "Awkwafina: The Unlikely Cook",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-317945",
+        "title": "Eurovision Song Contest Asia",
+        "release_date": "2026-11-14"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-567189",
+        "title": "Tom Clancy's Without Remorse",
+        "old_date": "2021-04-30",
+        "new_date": "2026-10-14",
+        "detected_at": "2026-10-07T04:29:10.005817Z"
+      }
+    ]
   }
 ]
