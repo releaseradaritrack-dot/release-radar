@@ -11028,5 +11028,89 @@
         "detected_at": "2026-10-07T12:42:57.881728Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-07T22:45:53.400425Z",
+    "new_titles": [
+      {
+        "id": "movie-1773608",
+        "title": "Explore Freedom",
+        "release_date": "2026-09-10"
+      },
+      {
+        "id": "movie-1715215",
+        "title": "Almari",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "movie-1784301",
+        "title": "Matloub Aaeleyan",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-313346",
+        "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "release_date": "2026-10-07"
+      },
+      {
+        "id": "tv-311883",
+        "title": "Saban",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-294446",
+        "title": "The Vanishing Beauty",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-300146",
+        "title": "Where the Mask Ends",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-329896",
+        "title": "Locker Diaries: Coven Academy",
+        "release_date": "2026-10-17"
+      },
+      {
+        "id": "movie-1783196",
+        "title": "Green Grass",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1781678",
+        "title": "Mama, finek?",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1781527",
+        "title": "PH1SHed_",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "tv-314271",
+        "title": "Bass X Machina",
+        "release_date": "2026-11-03"
+      },
+      {
+        "id": "tv-256726",
+        "title": "Tantara",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-718833",
+        "title": "Bokshi",
+        "old_date": "2026-10-09",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-10-07T22:45:53.397633Z"
+      }
+    ]
   }
 ]
