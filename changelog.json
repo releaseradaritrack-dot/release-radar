@@ -11112,5 +11112,51 @@
         "detected_at": "2026-10-07T22:45:53.397633Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-08T04:39:59.352928Z",
+    "new_titles": [
+      {
+        "id": "movie-1447963",
+        "title": "Found Alive",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-1545690",
+        "title": "WWE Money in the Bank 2026",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-283371",
+        "title": "The Trap",
+        "release_date": "2026-10-13"
+      },
+      {
+        "id": "tv-298550",
+        "title": "Friends Sex and Games",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1781025",
+        "title": "Zoey & Ben",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "movie-1778088",
+        "title": "Hotel Alcohol",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      }
+    ],
+    "date_changes": []
   }
 ]
