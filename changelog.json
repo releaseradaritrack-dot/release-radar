@@ -11158,5 +11158,59 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-08T12:52:12.826915Z",
+    "new_titles": [
+      {
+        "id": "tv-323937",
+        "title": "Dandivine",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-335813",
+        "title": "Gnomes",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "tv-310794",
+        "title": "The Collective",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "tv-111298",
+        "title": "Dream of Red Chamber",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "tv-328361",
+        "title": "NOVA: Evolution",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1458099",
+        "title": "The Only Living Pickpocket in New York",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-316702",
+        "title": "Final Table",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1630464",
+        "title": "Clarissa",
+        "release_date": "2026-12-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-12",
+        "detected_at": "2026-10-08T12:52:12.824010Z"
+      }
+    ]
   }
 ]
