@@ -11212,5 +11212,54 @@
         "detected_at": "2026-10-08T12:52:12.824010Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-08T22:56:57.240554Z",
+    "new_titles": [
+      {
+        "id": "movie-1735950",
+        "title": "Camouflage",
+        "release_date": "2026-10-08"
+      },
+      {
+        "id": "movie-1545690",
+        "title": "WWE Money in the Bank 2026",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-298550",
+        "title": "Friends Sex and Games",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1543469",
+        "title": "Heartland",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1770183",
+        "title": "Doctor Who: The Satan Pit",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "movie-1782793",
+        "title": "Marriage Party",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1782630",
+        "title": "KILL ROOM",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "old_date": "2026-11-12",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-10-08T22:56:57.238408Z"
+      }
+    ]
   }
 ]
