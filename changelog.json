@@ -11322,5 +11322,41 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-09T12:37:56.166752Z",
+    "new_titles": [
+      {
+        "id": "tv-255613",
+        "title": "Eyes",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-304452",
+        "title": "The Lament of Autumn",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "movie-1792449",
+        "title": "Hudke Ki Pyaang Pyaang",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-337904",
+        "title": "AndherPura Curse",
+        "release_date": "2026-11-21"
+      },
+      {
+        "id": "movie-1736335",
+        "title": "Gods Don't Give Gifts",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      }
+    ],
+    "date_changes": []
   }
 ]
