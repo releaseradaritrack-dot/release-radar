@@ -11358,5 +11358,106 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-09T22:18:28.334033Z",
+    "new_titles": [
+      {
+        "id": "movie-1783050",
+        "title": "Bonded",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-302020",
+        "title": "TETSURYO! Meet with Tetsudou Musume",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-311955",
+        "title": "Hakone Ekiden: Our Story",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "movie-1792643",
+        "title": "Onnopata",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1389379",
+        "title": "Ranabaali",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-320754",
+        "title": "Money Trap",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1747592",
+        "title": "As Far Back As I Can Remember... The Story of Goodfellas",
+        "release_date": "2026-10-17"
+      },
+      {
+        "id": "movie-1781025",
+        "title": "Zoey & Ben",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "tv-336770",
+        "title": "Just One Before I Die",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1782625",
+        "title": "Orang Minyak",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1783255",
+        "title": "Cinemanía",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "tv-313738",
+        "title": "One of a Kind Romance",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "release_date": "2027-01-15"
+      },
+      {
+        "id": "tv-285887",
+        "title": "Bloodaxe",
+        "release_date": "2027-01-20"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "release_date": "2027-01-29"
+      },
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "release_date": "2027-02-19"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1698932",
+        "title": "Kaali Kheti",
+        "old_date": "2026-10-23",
+        "new_date": "2026-11-20",
+        "detected_at": "2026-10-09T22:18:28.331535Z"
+      },
+      {
+        "id": "movie-940009",
+        "title": "Ray Gunn",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-10-09T22:18:28.331546Z"
+      }
+    ]
   }
 ]
