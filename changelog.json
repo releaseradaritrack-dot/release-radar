@@ -11261,5 +11261,66 @@
         "detected_at": "2026-10-08T22:56:57.238408Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-09T04:43:22.083551Z",
+    "new_titles": [
+      {
+        "id": "movie-1792167",
+        "title": "Only Me",
+        "release_date": "2026-10-09"
+      },
+      {
+        "id": "tv-307176",
+        "title": "Dustfall",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "tv-336337",
+        "title": "Sveriges nästa stjärnkock – New York",
+        "release_date": "2026-10-13"
+      },
+      {
+        "id": "tv-336973",
+        "title": "Hometown Giants",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-320754",
+        "title": "Money Trap",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-334703",
+        "title": "Couldn't Agree Less with Allison & Isaac",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1778088",
+        "title": "Hotel Alcohol",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-332912",
+        "title": "The White House Is Fake",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "tv-334361",
+        "title": "What Remains",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "release_date": "2027-01-08"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": []
   }
 ]
