@@ -11540,5 +11540,24 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-10T11:57:48.325797Z",
+    "new_titles": [
+      {
+        "id": "movie-1642568",
+        "title": "The Last Temptation of Becky",
+        "release_date": "2026-11-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-940009",
+        "title": "Ray Gunn",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-10-10T11:57:48.323413Z"
+      }
+    ]
   }
 ]
