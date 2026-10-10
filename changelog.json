@@ -11559,5 +11559,51 @@
         "detected_at": "2026-10-10T11:57:48.323413Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-10T17:11:05.778724Z",
+    "new_titles": [
+      {
+        "id": "tv-295420",
+        "title": "The Vermilion Mask",
+        "release_date": "2026-10-10"
+      },
+      {
+        "id": "tv-306611",
+        "title": "Good Boy",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "tv-295002",
+        "title": "This City Never Sleeps",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "tv-307826",
+        "title": "Love on Hire",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1496785",
+        "title": "Aadarsha Kutumbam House No: 47 - AK47",
+        "release_date": "2026-11-09"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-21",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-10-10T17:11:05.775662Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-10-10T17:11:05.775693Z"
+      }
+    ]
   }
 ]
