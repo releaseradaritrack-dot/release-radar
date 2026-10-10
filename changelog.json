@@ -11605,5 +11605,111 @@
         "detected_at": "2026-10-10T17:11:05.775693Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-10T21:12:11.463230Z",
+    "new_titles": [
+      {
+        "id": "tv-307176",
+        "title": "Dustfall",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "tv-204084",
+        "title": "Dreamland",
+        "release_date": "2026-10-17"
+      },
+      {
+        "id": "tv-334703",
+        "title": "Couldn't Agree Less with Allison & Isaac",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1371730",
+        "title": "Love Language",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1780841",
+        "title": "The Evaluation",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1778694",
+        "title": "The Fixation",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-939541",
+        "title": "Christmas at the Kringles",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1783266",
+        "title": "As augas",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "tv-334708",
+        "title": "Desperately Devoted",
+        "release_date": "2026-11-02"
+      },
+      {
+        "id": "tv-337031",
+        "title": "Munawwara Ka Khadim",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-258862",
+        "title": "Sacred Jewel",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "tv-331822",
+        "title": "Sunshine Girls",
+        "release_date": "2026-12-07"
+      },
+      {
+        "id": "movie-1726776",
+        "title": "3rd FLOOR",
+        "release_date": "2026-12-27"
+      },
+      {
+        "id": "movie-1419019",
+        "title": "Dawn of Soengsang",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "tv-285887",
+        "title": "Bloodaxe",
+        "release_date": "2027-01-20"
+      },
+      {
+        "id": "tv-337347",
+        "title": "LEGO Ninjago: Dragons' Fury",
+        "release_date": "2027-02-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1195803",
+        "title": "Wicker",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-21",
+        "detected_at": "2026-10-10T21:12:11.460211Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-10-10T21:12:11.460238Z"
+      }
+    ]
   }
 ]
