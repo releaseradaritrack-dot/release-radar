@@ -11459,5 +11459,86 @@
         "detected_at": "2026-10-09T22:18:28.331546Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-10T04:28:57.321805Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "tv-310794",
+        "title": "The Collective",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "tv-303001",
+        "title": "Invisible",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-306565",
+        "title": "DARK MACHINE THE ANIMATION",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-311648",
+        "title": "Make Me Tingle",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "tv-320953",
+        "title": "Wild Eyes: The Woman of the Prince",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1458099",
+        "title": "The Only Living Pickpocket in New York",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-322051",
+        "title": "The Sound of Sugar Cubes",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1780841",
+        "title": "The Evaluation",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1778694",
+        "title": "The Fixation",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "tv-316702",
+        "title": "Final Table",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1697911",
+        "title": "Drummer Boy",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1770183",
+        "title": "Doctor Who: The Satan Pit",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "movie-1630464",
+        "title": "Clarissa",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-334361",
+        "title": "What Remains",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": []
   }
 ]
