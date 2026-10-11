@@ -11752,5 +11752,64 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-11T21:31:33.181530Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "movie-1794481",
+        "title": "Memories of her",
+        "release_date": "2026-10-11"
+      },
+      {
+        "id": "movie-1489932",
+        "title": "Always Lalisa",
+        "release_date": "2026-10-12"
+      },
+      {
+        "id": "tv-283371",
+        "title": "The Trap",
+        "release_date": "2026-10-13"
+      },
+      {
+        "id": "tv-337609",
+        "title": "Swipe Right on the Devil",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1674938",
+        "title": "Tenfa",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1458300",
+        "title": "The Mosquito Bowl",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1599189",
+        "title": "剑来院线剧场版 十三之争",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-322079",
+        "title": "The Rookie: North",
+        "release_date": "2027-01-06"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1727734",
+        "title": "Ali G: Who Iz I?",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-22",
+        "detected_at": "2026-10-11T21:31:33.179523Z"
+      }
+    ]
   }
 ]
