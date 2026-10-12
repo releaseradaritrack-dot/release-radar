@@ -11811,5 +11811,51 @@
         "detected_at": "2026-10-11T21:31:33.179523Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-12T04:29:40.495361Z",
+    "new_titles": [
+      {
+        "id": "tv-334810",
+        "title": "Blue Flower, Forest of Vessels",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "movie-1794830",
+        "title": "Stray Girls",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-300755",
+        "title": "Rinnan",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-243555",
+        "title": "Akka",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-335087",
+        "title": "Visceral",
+        "release_date": "2026-12-13"
+      },
+      {
+        "id": "tv-329249",
+        "title": "The Orange SMP",
+        "release_date": "2026-12-17"
+      },
+      {
+        "id": "tv-290825",
+        "title": "The Wanted Man",
+        "release_date": "2027-01-06"
+      },
+      {
+        "id": "tv-330403",
+        "title": "Into the madness",
+        "release_date": "2027-01-08"
+      }
+    ],
+    "date_changes": []
   }
 ]
