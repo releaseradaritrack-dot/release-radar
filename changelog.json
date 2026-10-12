@@ -11857,5 +11857,89 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-12T14:30:49.634936Z",
+    "new_titles": [
+      {
+        "id": "tv-300146",
+        "title": "Where the Mask Ends",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1794929",
+        "title": "Doosra",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-316702",
+        "title": "Final Table",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1794887",
+        "title": "Dreamboat",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-337395",
+        "title": "Baddies USA: Chapter 3",
+        "release_date": "2026-11-01"
+      },
+      {
+        "id": "movie-1795128",
+        "title": "The Torch",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1795121",
+        "title": "The Girl Beneath The Sun",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1480276",
+        "title": "Inherit",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "movie-1522938",
+        "title": "Suryaa",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1519780",
+        "title": "Diary of a Wimpy Kid Christmas: The Getaway",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-334361",
+        "title": "What Remains",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "release_date": "2027-01-08"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "release_date": "2027-01-29"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-791523",
+        "title": "Wildwood",
+        "old_date": "2026-10-22",
+        "new_date": "2026-10-19",
+        "detected_at": "2026-10-12T14:30:49.631868Z"
+      }
+    ]
   }
 ]
