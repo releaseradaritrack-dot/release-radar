@@ -12138,5 +12138,86 @@
         "detected_at": "2026-10-13T13:37:58.178257Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-13T22:18:26.555454Z",
+    "new_titles": [
+      {
+        "id": "movie-1784175",
+        "title": "The Scale",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1760638",
+        "title": "You Can't Leave",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1632305",
+        "title": "Her Song",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1778108",
+        "title": "Liquid Courage",
+        "release_date": "2026-10-18"
+      },
+      {
+        "id": "tv-326132",
+        "title": "Love Island VIPS",
+        "release_date": "2026-10-19"
+      },
+      {
+        "id": "tv-338390",
+        "title": "Apsara",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1084409",
+        "title": "A Talent for Murder",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-335951",
+        "title": "Summer Vacation",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "movie-1788052",
+        "title": "First, Do No Harm",
+        "release_date": "2026-11-10"
+      },
+      {
+        "id": "movie-1519780",
+        "title": "Diary of a Wimpy Kid Christmas: The Getaway",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1739612",
+        "title": "Sunnyside",
+        "release_date": "2026-12-26"
+      },
+      {
+        "id": "tv-327107",
+        "title": "Avenida Brasil 2",
+        "release_date": "2027-01-25"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1727734",
+        "title": "Ali G: Who Iz I?",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-22",
+        "detected_at": "2026-10-13T22:18:26.552301Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-10-13T22:18:26.552330Z"
+      }
+    ]
   }
 ]
