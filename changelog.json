@@ -11941,5 +11941,156 @@
         "detected_at": "2026-10-12T14:30:49.631868Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-13T00:11:25.790102Z",
+    "new_titles": [
+      {
+        "id": "movie-1794745",
+        "title": "Kalpana Aur Yatharth",
+        "release_date": "2026-10-13"
+      },
+      {
+        "id": "movie-1784175",
+        "title": "The Scale",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "movie-1786666",
+        "title": "Horizon",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1771719",
+        "title": "Lady Liberty: Secrets of an Icon",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1779641",
+        "title": "Zebras",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-320754",
+        "title": "Money Trap",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1750223",
+        "title": "When Wine Meets Coffee",
+        "release_date": "2026-10-17"
+      },
+      {
+        "id": "movie-1735981",
+        "title": "The Craft",
+        "release_date": "2026-10-17"
+      },
+      {
+        "id": "movie-1783929",
+        "title": "Whiskey Throttle",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-336552",
+        "title": "Moordcast",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-332975",
+        "title": "Nederlands Domste",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1782208",
+        "title": "Dazing Gaze",
+        "release_date": "2026-10-25"
+      },
+      {
+        "id": "tv-336898",
+        "title": "CRIMINEEL NEDERLAND",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "movie-1795540",
+        "title": "Halgi",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1795533",
+        "title": "Accounts of a Killing",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1590723",
+        "title": "The Sea Speaks His Name",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1784178",
+        "title": "Silt",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1783255",
+        "title": "Cinemanía",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "tv-336915",
+        "title": "Que Isso Fique Entre Nós",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-336463",
+        "title": "Catch Us",
+        "release_date": "2026-11-10"
+      },
+      {
+        "id": "movie-1763049",
+        "title": "Under Fire",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "movie-1766531",
+        "title": "TV Land",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1763356",
+        "title": "Cousin Isha",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1784275",
+        "title": "The Fog",
+        "release_date": "2027-02-05"
+      },
+      {
+        "id": "tv-291377",
+        "title": "Barbershop",
+        "release_date": "2027-02-10"
+      },
+      {
+        "id": "movie-1147572",
+        "title": "Narnia: The Magician's Nephew",
+        "release_date": "2027-02-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-213375",
+        "title": "VisionQuest",
+        "old_date": "2026-10-14",
+        "new_date": "2026-10-13",
+        "detected_at": "2026-10-13T00:11:25.787256Z"
+      },
+      {
+        "id": "movie-1727734",
+        "title": "Ali G: Who Iz I?",
+        "old_date": "2026-10-22",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-10-13T00:11:25.787283Z"
+      }
+    ]
   }
 ]
