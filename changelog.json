@@ -12312,5 +12312,53 @@
         "detected_at": "2026-10-14T11:15:54.076937Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-14T16:36:37.984420Z",
+    "new_titles": [
+      {
+        "id": "tv-303001",
+        "title": "Invisible",
+        "release_date": "2026-10-14"
+      },
+      {
+        "id": "tv-334321",
+        "title": "SQUALL",
+        "release_date": "2026-10-19"
+      },
+      {
+        "id": "tv-300523",
+        "title": "Blue Road",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-283220",
+        "title": "Quiztopia",
+        "release_date": "2026-12-17"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-10-14T16:36:37.981650Z"
+      },
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "old_date": "2027-01-15",
+        "new_date": "2027-01-14",
+        "detected_at": "2026-10-14T16:36:37.981670Z"
+      },
+      {
+        "id": "movie-1147572",
+        "title": "Narnia: The Magician's Nephew",
+        "old_date": "2027-02-12",
+        "new_date": "2027-02-10",
+        "detected_at": "2026-10-14T16:36:37.981674Z"
+      }
+    ]
   }
 ]
