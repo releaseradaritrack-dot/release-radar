@@ -12219,5 +12219,79 @@
         "detected_at": "2026-10-13T22:18:26.552330Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-14T03:40:15.576230Z",
+    "new_titles": [
+      {
+        "id": "tv-329575",
+        "title": "The Pellikandy Show",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1786667",
+        "title": "Home, Almost",
+        "release_date": "2026-10-15"
+      },
+      {
+        "id": "movie-1769248",
+        "title": "Cabaret Boys",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1479690",
+        "title": "RaftaaR",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-210224",
+        "title": "Veronika com K",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1794929",
+        "title": "Doosra",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-336552",
+        "title": "Moordcast",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-332649",
+        "title": "Shadows of the Ten Ninja",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1794887",
+        "title": "Dreamboat",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1794830",
+        "title": "Stray Girls",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-313767",
+        "title": "Hurt",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "movie-1510775",
+        "title": "Gunmaaster G9",
+        "release_date": "2026-11-27"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1234139",
+        "title": "Jailer 2",
+        "old_date": "2026-10-15",
+        "new_date": "2026-10-14",
+        "detected_at": "2026-10-14T03:40:15.573030Z"
+      }
+    ]
   }
 ]
