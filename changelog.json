@@ -12569,5 +12569,63 @@
         "detected_at": "2026-10-15T10:54:29.946755Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-15T16:22:18.904236Z",
+    "new_titles": [
+      {
+        "id": "movie-858035",
+        "title": "Klara and the Sun",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "tv-334810",
+        "title": "Blue Flower, Forest of Vessels",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "movie-1450523",
+        "title": "The Assignment",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "tv-296244",
+        "title": "Frisco King",
+        "release_date": "2026-12-18"
+      },
+      {
+        "id": "tv-334919",
+        "title": "Call the Midwife: Sisters in Arms",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-289549",
+        "title": "Prodigies",
+        "release_date": "2027-02-10"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1727734",
+        "title": "Ali G: Who Iz I?",
+        "old_date": "2026-10-22",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-10-15T16:22:18.900863Z"
+      },
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-10-15T16:22:18.900893Z"
+      },
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "old_date": "2026-12-10",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-10-15T16:22:18.900906Z"
+      }
+    ]
   }
 ]
