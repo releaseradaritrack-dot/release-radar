@@ -12627,5 +12627,93 @@
         "detected_at": "2026-10-15T16:22:18.900906Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-15T20:57:53.596644Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "movie-1760638",
+        "title": "You Can't Leave",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "tv-337803",
+        "title": "THE WATCH: America’s Nuclear Mission",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1798181",
+        "title": "Damned",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-939541",
+        "title": "Christmas at the Kringles",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1603262",
+        "title": "Everest: The Other Side",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-333526",
+        "title": "Your Dearest, Darkest Friend with Ted Raimi",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1788052",
+        "title": "First, Do No Harm",
+        "release_date": "2026-11-10"
+      },
+      {
+        "id": "tv-326247",
+        "title": "Fool Night",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1115030",
+        "title": "Animal Friends",
+        "release_date": "2027-01-22"
+      },
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "release_date": "2027-02-04"
+      },
+      {
+        "id": "movie-1562032",
+        "title": "Father Joe",
+        "release_date": "2027-02-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-10-15T20:57:53.593395Z"
+      },
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-10-15T20:57:53.593411Z"
+      },
+      {
+        "id": "movie-1425859",
+        "title": "Remain",
+        "old_date": "2027-02-05",
+        "new_date": "2027-02-03",
+        "detected_at": "2026-10-15T20:57:53.593424Z"
+      }
+    ]
   }
 ]
