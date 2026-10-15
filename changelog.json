@@ -12486,5 +12486,49 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-15T03:21:10.862272Z",
+    "new_titles": [
+      {
+        "id": "movie-1779641",
+        "title": "Zebras",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1781025",
+        "title": "Zoey & Ben",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "tv-307826",
+        "title": "Love on Hire",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-313767",
+        "title": "Hurt",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-334361",
+        "title": "What Remains",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1411327",
+        "title": "Naagzilla",
+        "release_date": "2027-02-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-10",
+        "detected_at": "2026-10-15T03:21:10.859650Z"
+      }
+    ]
   }
 ]
