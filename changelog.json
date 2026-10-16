@@ -12861,5 +12861,74 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-16T20:32:47.942645Z",
+    "new_titles": [
+      {
+        "id": "movie-1760638",
+        "title": "You Can't Leave",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1620918",
+        "title": "Norm: The Tale of Norm Macdonald",
+        "release_date": "2026-10-16"
+      },
+      {
+        "id": "movie-1778108",
+        "title": "Liquid Courage",
+        "release_date": "2026-10-18"
+      },
+      {
+        "id": "tv-338112",
+        "title": "Only Fools And Horses: The Lost Archive",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "tv-337952",
+        "title": "5 mins to vomit",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1050981",
+        "title": "Being Heumann",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-306179",
+        "title": "Awkwafina: The Unlikely Cook",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1713050",
+        "title": "Alias Rukmini",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1630464",
+        "title": "Clarissa",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "movie-1789220",
+        "title": "Trimmed",
+        "release_date": "2027-02-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D: The Birth of Christ",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-03",
+        "detected_at": "2026-10-16T20:32:47.939913Z"
+      }
+    ]
   }
 ]
