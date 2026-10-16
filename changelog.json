@@ -12764,5 +12764,51 @@
         "detected_at": "2026-10-16T03:16:48.070753Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-16T10:46:09.751004Z",
+    "new_titles": [
+      {
+        "id": "movie-1437981",
+        "title": "Coward",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "tv-285625",
+        "title": "Small Town Remedy",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1798823",
+        "title": "Distance",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1366773",
+        "title": "109 Billion Followers",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1595210",
+        "title": "Nuisance Bear",
+        "release_date": "2026-11-06"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-322051",
+        "title": "The Sound of Sugar Cubes",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-22",
+        "detected_at": "2026-10-16T10:46:09.747709Z"
+      },
+      {
+        "id": "movie-1440769",
+        "title": "The Beekeeper 2",
+        "old_date": "2027-01-15",
+        "new_date": "2027-01-13",
+        "detected_at": "2026-10-16T10:46:09.747747Z"
+      }
+    ]
   }
 ]
