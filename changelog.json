@@ -12810,5 +12810,56 @@
         "detected_at": "2026-10-16T10:46:09.747747Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-16T16:08:08.143438Z",
+    "new_titles": [
+      {
+        "id": "tv-300527",
+        "title": "Did Someone Happen to Mention Me?",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-334986",
+        "title": "Wake Up",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-332649",
+        "title": "Shadows of the Ten Ninja",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-335951",
+        "title": "Summer Vacation",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "tv-331766",
+        "title": "Bakeskolen",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-323031",
+        "title": "Omerta",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-338740",
+        "title": "Supreme Solaris",
+        "release_date": "2026-11-22"
+      },
+      {
+        "id": "tv-258862",
+        "title": "Sacred Jewel",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "tv-309176",
+        "title": "Are You a Landmine, Chihara-san?",
+        "release_date": "2027-01-07"
+      }
+    ],
+    "date_changes": []
   }
 ]
