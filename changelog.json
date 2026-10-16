@@ -12715,5 +12715,54 @@
         "detected_at": "2026-10-15T20:57:53.593424Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-16T03:16:48.073978Z",
+    "new_titles": [
+      {
+        "id": "movie-1472813",
+        "title": "The Diary of a Chambermaid",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-336552",
+        "title": "Moordcast",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-336915",
+        "title": "Que Isso Fique Entre Nós",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-313767",
+        "title": "Hurt",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-303182",
+        "title": "Murder in Galicia",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-327346",
+        "title": "Astral Watch",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "movie-1782793",
+        "title": "Marriage Party",
+        "release_date": "2026-12-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1727734",
+        "title": "Ali G: Who Iz I?",
+        "old_date": "2026-10-23",
+        "new_date": "2026-10-22",
+        "detected_at": "2026-10-16T03:16:48.070753Z"
+      }
+    ]
   }
 ]
