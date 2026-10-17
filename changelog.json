@@ -13074,5 +13074,51 @@
         "detected_at": "2026-10-17T15:00:23.615626Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-17T20:10:48.925183Z",
+    "new_titles": [
+      {
+        "id": "tv-338918",
+        "title": "Chaar Yaar",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1799668",
+        "title": "Dhood (Sandstorm)",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1799925",
+        "title": "Neighbours of the Beast",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-249565",
+        "title": "The Good Daughter",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-291074",
+        "title": "TED: The Animated Series",
+        "release_date": "2026-12-17"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-10-17T20:10:48.921941Z"
+      },
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "old_date": "2027-01-15",
+        "new_date": "2027-01-14",
+        "detected_at": "2026-10-17T20:10:48.921958Z"
+      }
+    ]
   }
 ]
