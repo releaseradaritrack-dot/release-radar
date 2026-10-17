@@ -12981,5 +12981,98 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-17T15:00:23.618561Z",
+    "new_titles": [
+      {
+        "id": "movie-1154730",
+        "title": "La Gradiva",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1437981",
+        "title": "Coward",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "tv-334703",
+        "title": "Couldn't Agree Less with Allison & Isaac",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-335481",
+        "title": "A Course Called Ireland",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-336552",
+        "title": "Moordcast",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1791511",
+        "title": "Four Corners",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "tv-334810",
+        "title": "Blue Flower, Forest of Vessels",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "movie-1791529",
+        "title": "Hotel Utopia",
+        "release_date": "2026-10-27"
+      },
+      {
+        "id": "tv-334470",
+        "title": "It Gets Worse",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-326975",
+        "title": "What a Boss Wants",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "movie-1501247",
+        "title": "Holy Light",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1287520",
+        "title": "November 1963",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1789499",
+        "title": "Witching Hour",
+        "release_date": "2026-12-09"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-10-17T15:00:23.615605Z"
+      },
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D: The Birth of Christ",
+        "old_date": "2026-12-03",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-10-17T15:00:23.615617Z"
+      },
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "old_date": "2027-01-14",
+        "new_date": "2027-01-15",
+        "detected_at": "2026-10-17T15:00:23.615626Z"
+      }
+    ]
   }
 ]
