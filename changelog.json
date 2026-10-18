@@ -13212,5 +13212,56 @@
         "detected_at": "2026-10-18T15:25:33.668017Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-18T20:08:55.772489Z",
+    "new_titles": [
+      {
+        "id": "movie-1584779",
+        "title": "The Body in the Locker",
+        "release_date": "2025-11-23"
+      },
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "tv-285625",
+        "title": "Small Town Remedy",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "tv-286171",
+        "title": "Tigers Sniff the Rose",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-313699",
+        "title": "Balaraw: Blood Island",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1791596",
+        "title": "Earworm",
+        "release_date": "2026-11-01"
+      },
+      {
+        "id": "tv-331962",
+        "title": "Skimmer",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-335857",
+        "title": "Kevin and PJ Obsessed",
+        "release_date": "2026-12-12"
+      },
+      {
+        "id": "tv-327107",
+        "title": "Avenida Brasil 2",
+        "release_date": "2027-01-25"
+      }
+    ],
+    "date_changes": []
   }
 ]

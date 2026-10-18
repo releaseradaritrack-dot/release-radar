@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "movie-1584779",
+      "tmdb_id": 1584779,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "The Body in the Locker",
+      "original_title": "The Body in the Locker",
+      "release_date": "2025-11-23",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "language": "en",
+      "synopsis": "When Amy, the CEO of a major charity, loses her father, she's shocked to discover he owned a mysterious storage locker with a deadly secret inside - the body of a woman. Was her father a murderer? Who was this woman?",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg",
+      "popularity": 4.5376,
+      "platform": "disney_plus",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1523553",
+      "tmdb_id": 1523553,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Dark Horse",
+      "original_title": "Dark Horse",
+      "release_date": "2026-06-15",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "language": "en",
+      "synopsis": "Follows Jair Messias Bolsonaro, a man driven by his political career after disappointment with the direction of his country, in the journey to become the 38th president of Brazil.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jBK8cQzKLDaeqZKftB4SHFrpYco.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sxsNJDiKvtVYMGlC9gcQ3NuAYD8.jpg",
+      "popularity": 4.1135,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-791523",
       "tmdb_id": 791523,
       "type": "movie",
@@ -242,7 +290,7 @@
       "id": "tv-335319",
       "tmdb_id": 335319,
       "type": "series",
-      "industry": "hollywood",
+      "industry": "international",
       "title": "The New Stanford Prison Experiment",
       "original_title": "The New Stanford Prison Experiment",
       "release_date": "2026-10-21",
@@ -330,24 +378,24 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1783196",
-      "tmdb_id": 1783196,
-      "type": "movie",
+      "id": "tv-285625",
+      "tmdb_id": 285625,
+      "type": "series",
       "industry": "international",
-      "title": "Green Grass",
-      "original_title": "Green Grass",
-      "release_date": "2026-10-22",
+      "title": "Small Town Remedy",
+      "original_title": "小城良方",
+      "release_date": "2026-10-21",
       "release_time": "",
       "status": "confirmed",
       "genres": [
         "Drama"
       ],
-      "language": "en",
-      "synopsis": "It's no secret that Declan is the university class coaster, which is why his friends refuse to partner with him on their next assignment. Out of options, Declan is forced to pair up with Claire, the new Deaf student who is everything Declan isn't; academic, driven and fiercely proud of her identity. Set against the backdrop of coastal university life on the south coast of England, Green Grass dips into the murky waters of strained friendships, sustainability, and D/deaf identity in this coming-of-age drama.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qTx5ncxy4f5qjrM2GtFnkk140ph.jpg",
-      "backdrop_url": "",
-      "popularity": 5.8852,
-      "platform": "theatrical",
+      "language": "zh",
+      "synopsis": "After losing his job at a top-tier hospital due to an unexpected incident, Liu Zhengliang returns to his hometown and begins working in the emergency department of a local community hospital. While healing patients one after another, he finds himself continually healed by their resilience and humanity, creating a mutual journey of recovery and growth between caregiver and those in need.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yXlDXC1dPDoVAGWOk0Pb25zggqE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nhQKKALP3SOi1Ft5MZU6KU05VcY.jpg",
+      "popularity": 4.3732,
+      "platform": "ott",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -370,6 +418,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/7GxXdTAbSSLMuEVbkzoGUpx4Mvc.jpg",
       "popularity": 5.9021,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1783196",
+      "tmdb_id": 1783196,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Green Grass",
+      "original_title": "Green Grass",
+      "release_date": "2026-10-22",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "synopsis": "It's no secret that Declan is the university class coaster, which is why his friends refuse to partner with him on their next assignment. Out of options, Declan is forced to pair up with Claire, the new Deaf student who is everything Declan isn't; academic, driven and fiercely proud of her identity. Set against the backdrop of coastal university life on the south coast of England, Green Grass dips into the murky waters of strained friendships, sustainability, and D/deaf identity in this coming-of-age drama.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qTx5ncxy4f5qjrM2GtFnkk140ph.jpg",
+      "backdrop_url": "",
+      "popularity": 5.8852,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -567,7 +638,7 @@
       "id": "movie-1375156",
       "tmdb_id": 1375156,
       "type": "movie",
-      "industry": "international",
+      "industry": "bollywood",
       "title": "Udta Teer",
       "original_title": "उड़ता तीर",
       "release_date": "2026-10-23",
@@ -796,6 +867,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/jBLsCvL1jzdAEKRqSfiY5uJjAOQ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/622AG0Xy1oow2TmxmF7YifeBKgP.jpg",
       "popularity": 4.3807,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-286171",
+      "tmdb_id": 286171,
+      "type": "series",
+      "industry": "international",
+      "title": "Tigers Sniff the Rose",
+      "original_title": "尚公主",
+      "release_date": "2026-10-23",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "zh",
+      "synopsis": "Tells the story of Mu Wanyao, a noble daughter unwilling to accept her fate, and Yan Shang, a brilliant young man from a humble background. Together, they fight to build a peaceful world. Amidst the chaos of a troubled era, can their dreams come true?",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dLyAOtj1lvhOD0Ka3lxJc8OMlei.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2dRFJ8ESfyYia7Pf9qdbMyyoQRl.jpg",
+      "popularity": 4.2388,
       "platform": "ott",
       "source": "TMDB",
       "official_url": "",
@@ -1381,6 +1475,30 @@
       "trailer_url": ""
     },
     {
+      "id": "tv-313699",
+      "tmdb_id": 313699,
+      "type": "series",
+      "industry": "international",
+      "title": "Balaraw: Blood Island",
+      "original_title": "Balaraw",
+      "release_date": "2026-10-29",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "language": "tl",
+      "synopsis": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hmdREhKDHJaMXOk8y2nuLDldDbn.jpg",
+      "popularity": 5.326,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-331766",
       "tmdb_id": 331766,
       "type": "series",
@@ -1450,27 +1568,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-334273",
-      "tmdb_id": 334273,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "Marina i Futa",
-      "original_title": "Marina i Futa",
-      "release_date": "2026-10-30",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [],
-      "language": "en",
-      "synopsis": "\"Marina and Futa\" follows the rise of two young artists seeking their place in the music scene of the era, charting their journey to becoming one of the most renowned songwriting duos in the former Yugoslavia.\n\nWhile crafting hits for the biggest stars of the time, Marina and Futa navigate personal challenges, crucial life decisions, and changes that shape their family. Their relationship, life together, and creative work are portrayed through a story of inspiring love, a family that provides strength, and music that lives on across generations.",
-      "poster_url": "",
-      "backdrop_url": "",
-      "popularity": 1.2345,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-333526",
       "tmdb_id": 333526,
       "type": "series",
@@ -1489,6 +1586,27 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/nv0b4hptm1g76MSIymNE5KmY04Q.jpg",
       "backdrop_url": "",
       "popularity": 1.315,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-334273",
+      "tmdb_id": 334273,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "Marina i Futa",
+      "original_title": "Marina i Futa",
+      "release_date": "2026-10-30",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [],
+      "language": "en",
+      "synopsis": "\"Marina and Futa\" follows the rise of two young artists seeking their place in the music scene of the era, charting their journey to becoming one of the most renowned songwriting duos in the former Yugoslavia.\n\nWhile crafting hits for the biggest stars of the time, Marina and Futa navigate personal challenges, crucial life decisions, and changes that shape their family. Their relationship, life together, and creative work are portrayed through a story of inspiring love, a family that provides strength, and music that lives on across generations.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 1.2345,
       "platform": "ott",
       "source": "TMDB",
       "official_url": "",
@@ -1589,24 +1707,25 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1781527",
-      "tmdb_id": 1781527,
-      "type": "movie",
+      "id": "tv-337952",
+      "tmdb_id": 337952,
+      "type": "series",
       "industry": "hollywood",
-      "title": "PH1SHed_",
-      "original_title": "PH1SHed_",
+      "title": "5 mins to vomit",
+      "original_title": "5 mins to vomit",
       "release_date": "2026-10-31",
       "release_time": "",
       "status": "confirmed",
       "genres": [
-        "Thriller"
+        "Comedy",
+        "Sci-Fi & Fantasy"
       ],
       "language": "en",
-      "synopsis": "An ethical hacker sticks up for a friend who fell victim to a phishing scam, but finds herself descending into paranoia as she gets caught up in a risky game of cat and mouse with a dangerous blackhat cyber criminal.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ivoJ9u7RgPY4mKlsi8knHNwb1lT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/95AdALkg1YTdTmyuP4vbtPKy7xL.jpg",
-      "popularity": 4.043,
-      "platform": "theatrical",
+      "synopsis": "5 mins to vomit is a show about disgusting and wierd stuff in one anthology horror skit show in 5 mins.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qWpgJeHorCA5wKHCAZNuEuviPAR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3MQefye1RToF5MLlv1DtXzpFksL.jpg",
+      "popularity": 0.9712,
+      "platform": "ott",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -1633,25 +1752,25 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-337952",
-      "tmdb_id": 337952,
-      "type": "series",
+      "id": "movie-1791596",
+      "tmdb_id": 1791596,
+      "type": "movie",
       "industry": "hollywood",
-      "title": "5 mins to vomit",
-      "original_title": "5 mins to vomit",
-      "release_date": "2026-10-31",
+      "title": "Earworm",
+      "original_title": "Earworm",
+      "release_date": "2026-11-01",
       "release_time": "",
       "status": "confirmed",
       "genres": [
-        "Comedy",
-        "Sci-Fi & Fantasy"
+        "Horror",
+        "Drama"
       ],
       "language": "en",
-      "synopsis": "5 mins to vomit is a show about disgusting and wierd stuff in one anthology horror skit show in 5 mins.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qWpgJeHorCA5wKHCAZNuEuviPAR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3MQefye1RToF5MLlv1DtXzpFksL.jpg",
-      "popularity": 0.9712,
-      "platform": "ott",
+      "synopsis": "Austin is a grieving young man who can't keep himself from revisiting the room where his ex-boyfriend murdered another former partner. Meanwhile he finds himself in a co-dependent dynamic with Eve, a non-confrontational, quietly misanthropic student who now lives in the very same room.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nRsYyfajE1eGH5HtALDm5HSl9XW.jpg",
+      "backdrop_url": "",
+      "popularity": 4.4135,
+      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -1846,30 +1965,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1570488",
-      "tmdb_id": 1570488,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "A Dog's Perfect Christmas",
-      "original_title": "A Dog's Perfect Christmas",
-      "release_date": "2026-11-04",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "Follows a family in crisis where a teenager, her grandfather, and his trusty basset hound struggle to keep the household together at Christmas.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gKKwnZS3BGPSPw59V7VP4cob6uW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jfLE82CCfSCkkmutPXHpydSKY6w.jpg",
-      "popularity": 3.8972,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "tv-258989",
       "tmdb_id": 258989,
       "type": "series",
@@ -1956,7 +2051,7 @@
       ],
       "language": "hi",
       "synopsis": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b11RXdbaBI4ATpHiAMOGc6WTgvu.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
       "popularity": 15.4019,
       "platform": "theatrical",
@@ -2875,31 +2970,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1287520",
-      "tmdb_id": 1287520,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "November 1963",
-      "original_title": "November 1963",
-      "release_date": "2026-11-20",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "Follows the 48 hours after the assassination of President John F. Kennedy, the alleged involvement of Sam Giancana and the 'Chicago Outfit', and a supposed broken promise after the mob helped to get Kennedy elected.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ujp2aHu1lWMjAGoletnsmv3mcMn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ppQKMpC4WhEumnzu4aAcWjAr7WU.jpg",
-      "popularity": 3.8982,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1299329",
       "tmdb_id": 1299329,
       "type": "movie",
@@ -3373,6 +3443,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/lRnv1w65oogXDUxXiDsvqFjwblb.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/2B5WXDlBWUKGlARnFbD9oRMXlQ5.jpg",
       "popularity": 0.7827,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-331962",
+      "tmdb_id": 331962,
+      "type": "series",
+      "industry": "international",
+      "title": "Skimmer",
+      "original_title": "Skimmer",
+      "release_date": "2026-12-01",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "no",
+      "synopsis": "",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 5.0654,
       "platform": "ott",
       "source": "TMDB",
       "official_url": "",
@@ -3961,6 +4054,27 @@
       "trailer_url": ""
     },
     {
+      "id": "tv-335857",
+      "tmdb_id": 335857,
+      "type": "series",
+      "industry": "hollywood",
+      "title": "Kevin and PJ Obsessed",
+      "original_title": "Kevin and PJ Obsessed",
+      "release_date": "2026-12-12",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [],
+      "language": "en",
+      "synopsis": "In this brand-new original series, airing in December, PJ Kirby and Kevin Twomey from the I’m Grand Mam podcast jump head-first into Ireland’s most passionate and unique communities to learn what makes them tick. They will participate in initiation rituals, perform challenges and, most importantly, have a skit doing it. These people are obsessed, will the boys be too?",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 0.7445,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-335087",
       "tmdb_id": 335087,
       "type": "series",
@@ -4128,32 +4242,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-307325",
-      "tmdb_id": 307325,
-      "type": "series",
-      "industry": "hollywood",
-      "title": "The Eyes",
-      "original_title": "The Eyes",
-      "release_date": "2026-12-18",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery",
-        "Animation"
-      ],
-      "language": "en",
-      "synopsis": "Flower Forever",
-      "poster_url": "https://image.tmdb.org/t/p/w500/basW6wAOwLf39bXJbkuTChHeJU7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cblxOI93qMadC4lAxioROH1qtp2.jpg",
-      "popularity": 0.6529,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1300926",
       "tmdb_id": 1300926,
       "type": "movie",
@@ -4283,8 +4371,7 @@
       "release_time": "",
       "status": "confirmed",
       "genres": [
-        "Horror",
-        "Fantasy"
+        "Horror"
       ],
       "language": "en",
       "synopsis": "A harrowing tale of devotion, damnation and the devil within.",
@@ -4486,7 +4573,7 @@
       "id": "movie-1726776",
       "tmdb_id": 1726776,
       "type": "movie",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "3rd FLOOR",
       "original_title": "3rd FLOOR",
       "release_date": "2026-12-27",
@@ -4778,7 +4865,7 @@
       ],
       "language": "en",
       "synopsis": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mzepO3crKkX4Mhyj9Lrix3yn2sT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/tKTCTuG63KFQD82M5fvQbfO4fra.jpg",
       "popularity": 13.7631,
       "platform": "theatrical",
@@ -4931,6 +5018,29 @@
       "trailer_url": ""
     },
     {
+      "id": "tv-327107",
+      "tmdb_id": 327107,
+      "type": "series",
+      "industry": "international",
+      "title": "Avenida Brasil 2",
+      "original_title": "Avenida Brasil 2",
+      "release_date": "2027-01-25",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "pt",
+      "synopsis": "",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogyZq4wSIiQ0dsWllBp6Iuh3Cbw.jpg",
+      "backdrop_url": "",
+      "popularity": 4.1859,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1384758",
       "tmdb_id": 1384758,
       "type": "movie",
@@ -4988,8 +5098,7 @@
       "status": "confirmed",
       "genres": [
         "Romance",
-        "Horror",
-        "Thriller"
+        "Horror"
       ],
       "language": "en",
       "synopsis": "When reclusive architect Tate Gordon moves to small coastal town to complete his latest project, he encounters an alluring young woman who pulls him out of his shell, and into the center of a deadly mystery that hangs over the town.",
@@ -5044,30 +5153,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/9LMwIU9VldOYpIf8P896vuqAUdz.jpg",
       "popularity": 1.5817,
       "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1784275",
-      "tmdb_id": 1784275,
-      "type": "movie",
-      "industry": "international",
-      "title": "The Fog",
-      "original_title": "The Fog",
-      "release_date": "2027-02-05",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "After a woman mysteriously disappears, her troubled husband becomes determined to uncover the truth. As the investigation grows increasingly complex, he finds himself drawn into a dangerous mystery that threatens everything he has left.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/itACbsW1Z7jKNyd0Z7FyxrWCp3R.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hU6yqgxUHGSoIttVnN7xawaLt8H.jpg",
-      "popularity": 5.1552,
-      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -5264,5 +5349,5 @@
       "trailer_url": ""
     }
   ],
-  "updated_at": "2026-10-18T15:25:34.582893Z"
+  "updated_at": "2026-10-18T20:08:57.192069Z"
 }
