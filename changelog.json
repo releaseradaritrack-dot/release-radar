@@ -13120,5 +13120,29 @@
         "detected_at": "2026-10-17T20:10:48.921958Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-18T03:10:04.362991Z",
+    "new_titles": [
+      {
+        "id": "movie-1599230",
+        "title": "Elsinore",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-274395",
+        "title": "The Land",
+        "release_date": "2027-02-15"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D: The Birth of Christ",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-03",
+        "detected_at": "2026-10-18T03:10:04.359299Z"
+      }
+    ]
   }
 ]
