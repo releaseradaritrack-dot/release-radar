@@ -13144,5 +13144,24 @@
         "detected_at": "2026-10-18T03:10:04.359299Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-18T10:27:35.732352Z",
+    "new_titles": [
+      {
+        "id": "tv-338542",
+        "title": "Paige Prater",
+        "release_date": "2026-11-03"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-10-18T10:27:35.730132Z"
+      }
+    ]
   }
 ]
