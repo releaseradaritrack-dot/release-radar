@@ -13294,5 +13294,34 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-19T12:13:26.890753Z",
+    "new_titles": [
+      {
+        "id": "movie-1792365",
+        "title": "Look, We're in Europe",
+        "release_date": "2026-10-27"
+      },
+      {
+        "id": "movie-1801513",
+        "title": "Heartbeat",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1599230",
+        "title": "Elsinore",
+        "release_date": "2026-11-20"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-322051",
+        "title": "The Sound of Sugar Cubes",
+        "old_date": "2026-10-22",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-10-19T12:13:26.887239Z"
+      }
+    ]
   }
 ]
