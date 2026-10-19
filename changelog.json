@@ -13323,5 +13323,105 @@
         "detected_at": "2026-10-19T12:13:26.887239Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-19T22:01:20.195050Z",
+    "new_titles": [
+      {
+        "id": "tv-332713",
+        "title": "Extraordinary Attorney Minami",
+        "release_date": "2026-10-19"
+      },
+      {
+        "id": "movie-1437981",
+        "title": "Coward",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "tv-334470",
+        "title": "It Gets Worse",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-300527",
+        "title": "Did Someone Happen to Mention Me?",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-334810",
+        "title": "Blue Flower, Forest of Vessels",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "tv-338684",
+        "title": "Taken: Natalee Holloway",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-338413",
+        "title": "MP3",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1697911",
+        "title": "Drummer Boy",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-313767",
+        "title": "Hurt",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "movie-1287520",
+        "title": "November 1963",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1137888",
+        "title": "The Man with the Bag",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "movie-1783306",
+        "title": "Sakhiya Ho",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1555799",
+        "title": "Family Pack",
+        "release_date": "2027-01-11"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1584779",
+        "title": "The Body in the Locker",
+        "old_date": "2025-11-23",
+        "new_date": "2026-11-05",
+        "detected_at": "2026-10-19T22:01:20.191655Z"
+      },
+      {
+        "id": "tv-334412",
+        "title": "Student of the Year: After Dark",
+        "old_date": "2026-12-25",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-10-19T22:01:20.191671Z"
+      },
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D: The Birth of Christ",
+        "old_date": "2026-12-03",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-10-19T22:01:20.191683Z"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "old_date": "2027-01-15",
+        "new_date": "2027-01-13",
+        "detected_at": "2026-10-19T22:01:20.191690Z"
+      }
+    ]
   }
 ]
