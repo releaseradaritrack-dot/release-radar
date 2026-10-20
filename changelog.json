@@ -13423,5 +13423,51 @@
         "detected_at": "2026-10-19T22:01:20.191690Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-20T03:32:48.596846Z",
+    "new_titles": [
+      {
+        "id": "movie-410113",
+        "title": "The Loud House Movie",
+        "release_date": "2026-10-20"
+      },
+      {
+        "id": "movie-1775821",
+        "title": "Mary",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "tv-243555",
+        "title": "Akka",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-317945",
+        "title": "Eurovision Song Contest Asia",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "tv-301354",
+        "title": "Sword & Silence",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1355885",
+        "title": "From Inside Out: The Architecture of Peter Zumthor",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1630464",
+        "title": "Clarissa",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-310113",
+        "title": "Oswald",
+        "release_date": "2027-02-17"
+      }
+    ],
+    "date_changes": []
   }
 ]
