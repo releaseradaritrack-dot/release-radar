@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "movie-1584779",
+      "tmdb_id": 1584779,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "The Body in the Locker",
+      "original_title": "The Body in the Locker",
+      "release_date": "2025-11-23",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "language": "en",
+      "synopsis": "When Amy, the CEO of a major charity, loses her father, she's shocked to discover he owned a mysterious storage locker with a deadly secret inside - the body of a woman. Was her father a murderer? Who was this woman?",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg",
+      "popularity": 4.5848,
+      "platform": "disney_plus",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-410113",
       "tmdb_id": 410113,
       "type": "movie",
@@ -232,6 +256,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1790589",
+      "tmdb_id": 1790589,
+      "type": "movie",
+      "industry": "international",
+      "title": "Wild is the Wind",
+      "original_title": "Tralovento",
+      "release_date": "2026-10-21",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "gl",
+      "synopsis": "After years gone, Ana returns to her village due to the death of her father. Her intention is to leave after his funeral but she feels the need to stay, fueled by the intention of a power company to install a wind farm that divides the neighbors and affects her family’s land. Her participation in this conflict draws her back into the life of the community. A process in which Ana questions her sense of belonging, evokes a painful past and discovers a fighting spirit that she did not know she had.",
+      "poster_url": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lTna8PaNL3fKBTvNy65XbKR9Pwm.jpg",
+      "popularity": 6.0089,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1437981",
       "tmdb_id": 1437981,
       "type": "movie",
@@ -393,6 +440,30 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1783597",
+      "tmdb_id": 1783597,
+      "type": "movie",
+      "industry": "international",
+      "title": "Eclipse",
+      "original_title": "Eclipse",
+      "release_date": "2026-10-22",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "language": "it",
+      "synopsis": "In a near future, humanity has blotted out the sun with an artificial cloud in an attempt to stop climate collapse, and the world has lost its color. A photographer wanders this gray, lifeless landscape, obsessively searching for one last sign of life. When he meets a mysterious girl, he may finally have the chance to take the photograph he has been chasing all his life.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/idl0shMI7n38o34bz8nqKnl4ZuF.jpg",
+      "backdrop_url": "",
+      "popularity": 5.5676,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-334470",
       "tmdb_id": 334470,
       "type": "series",
@@ -489,7 +560,7 @@
       "id": "movie-1084409",
       "tmdb_id": 1084409,
       "type": "movie",
-      "industry": "hollywood",
+      "industry": "international",
       "title": "A Talent for Murder",
       "original_title": "A Talent for Murder",
       "release_date": "2026-10-23",
@@ -863,6 +934,30 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1781678",
+      "tmdb_id": 1781678,
+      "type": "movie",
+      "industry": "international",
+      "title": "Mama, finek?",
+      "original_title": "Mama, finek?",
+      "release_date": "2026-10-24",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "language": "ar",
+      "synopsis": "",
+      "poster_url": "https://image.tmdb.org/t/p/w500/stuDo8cNyCWxa86mPGHM5x4JUgH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cCQbqDRK1LYmlBndnIrqx0lEhYp.jpg",
+      "popularity": 5.8253,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-332975",
       "tmdb_id": 332975,
       "type": "series",
@@ -1141,23 +1236,23 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1515139",
-      "tmdb_id": 1515139,
+      "id": "movie-1437925",
+      "tmdb_id": 1437925,
       "type": "movie",
       "industry": "international",
-      "title": "Back to the Beginning: Ozzy's Final Bow",
-      "original_title": "Back to the Beginning: Ozzy's Final Bow",
+      "title": "Moulin",
+      "original_title": "Moulin",
       "release_date": "2026-10-28",
       "release_time": "",
       "status": "confirmed",
       "genres": [
-        "Documentary"
+        "Drama"
       ],
-      "language": "en",
-      "synopsis": "A powerful return to roots, this concert captures Black Sabbath in peak form - reuniting to deliver classic hits with raw energy and legendary precision.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iO8vwdtmOivoyUguheJtDLXp2Gq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hFIhPUW8oO2EJYXLAuWFMJBzjsR.jpg",
-      "popularity": 5.1984,
+      "language": "fr",
+      "synopsis": "In June 1943, Jean Moulin, leader of the French Resistance, is arrested while attempting to reunite the forces of the \"Armée Secrète.\" Interrogated by Klaus Barbie, the head of the Gestapo in Lyon, Moulin is drawn into a relentless confrontation.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f3yopLJXRBcPvgkfRji1jloDrxd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg",
+      "popularity": 6.1812,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -1371,29 +1466,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1799925",
-      "tmdb_id": 1799925,
-      "type": "movie",
-      "industry": "bollywood",
-      "title": "Neighbours of the Beast",
-      "original_title": "Neighbours of the Beast",
-      "release_date": "2026-10-29",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Documentary"
-      ],
-      "language": "hi",
-      "synopsis": "Following the triumphant return of the tigers, the natives develop a deep connection with their forest.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tTFQnU2IbUfGsWSTOELMCNJfpxg.jpg",
-      "backdrop_url": "",
-      "popularity": 0.2331,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1798823",
       "tmdb_id": 1798823,
       "type": "movie",
@@ -1411,6 +1483,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/iElPSWdGjYoahSi7EfsgQyEoUEx.jpg",
       "backdrop_url": "",
       "popularity": 0.3072,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1799925",
+      "tmdb_id": 1799925,
+      "type": "movie",
+      "industry": "bollywood",
+      "title": "Neighbours of the Beast",
+      "original_title": "Neighbours of the Beast",
+      "release_date": "2026-10-29",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Documentary"
+      ],
+      "language": "hi",
+      "synopsis": "Following the triumphant return of the tigers, the natives develop a deep connection with their forest.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tTFQnU2IbUfGsWSTOELMCNJfpxg.jpg",
+      "backdrop_url": "",
+      "popularity": 0.2331,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -1459,6 +1554,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/jKIAwCSDTv9i4J6KrAY1YpEvrGH.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/9IdxfMvkZzO8wjnygz784OzaK03.jpg",
       "popularity": 5.822,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1791638",
+      "tmdb_id": 1791638,
+      "type": "movie",
+      "industry": "international",
+      "title": "Up Again",
+      "original_title": "Znovu vstaň",
+      "release_date": "2026-10-29",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Documentary"
+      ],
+      "language": "cs",
+      "synopsis": "A triple jump on ice skates lasts just a few seconds, but requires years of physical training and mental isolation. This time-lapse portrait of Barbora Vránková, three-time Czech figure skating champion, captures a pivotal period in her life between the ages of fifteen and eighteen. Her days are filled with online lessons, physiotherapy sessions and, above all, a rigorous training routine. The camera, synchronised with the protagonist’s movements, takes us straight onto the ice, where the screech of blades and the thumping of pop hits blend with the shouts of her coaches. Without any contrived pathos, the film follows how, fall after fall, the young athlete works her way towards precision on the ice and autonomy off it.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 5.3933,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -1761,6 +1879,29 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/3MQefye1RToF5MLlv1DtXzpFksL.jpg",
       "popularity": 0.8388,
       "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1211637",
+      "tmdb_id": 1211637,
+      "type": "movie",
+      "industry": "international",
+      "title": "Lost Tape",
+      "original_title": "Lost Tape",
+      "release_date": "2026-10-31",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "synopsis": "A videotape capturing the final moments of an amateur urban exploration group, who break into the long abandoned home of an unsolved murder.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 5.5678,
+      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -2073,6 +2214,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1794955",
+      "tmdb_id": 1794955,
+      "type": "movie",
+      "industry": "international",
+      "title": "Small Spaces",
+      "original_title": "Small Spaces",
+      "release_date": "2026-11-04",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "synopsis": "When an eccentric stranger promises to cure his claustrophobia, a sceptical man agrees to her treatment, only to discover that escaping his fear may cost him far more than living with it.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hveJ8MuuDknN1L9pgS9oxrRy9xX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jBYG6mO1djhG07aBd0KCCjh2s8e.jpg",
+      "popularity": 6.1816,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-279246",
       "tmdb_id": 279246,
       "type": "series",
@@ -2120,30 +2284,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1584779",
-      "tmdb_id": 1584779,
-      "type": "movie",
-      "industry": "international",
-      "title": "The Body in the Locker",
-      "original_title": "The Body in the Locker",
-      "release_date": "2026-11-05",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "language": "en",
-      "synopsis": "When Amy, the CEO of a major charity, loses her father, she's shocked to discover he owned a mysterious storage locker with a deadly secret inside - the body of a woman. Was her father a murderer? Who was this woman?",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg",
-      "popularity": 4.5848,
-      "platform": "disney_plus",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-656908",
       "tmdb_id": 656908,
       "type": "movie",
@@ -2163,6 +2303,30 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
       "popularity": 41.6541,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1791657",
+      "tmdb_id": 1791657,
+      "type": "movie",
+      "industry": "international",
+      "title": "Houpačky",
+      "original_title": "Houpačky",
+      "release_date": "2026-11-05",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "cs",
+      "synopsis": "",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 5.9519,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -2681,7 +2845,7 @@
       "id": "movie-1763049",
       "tmdb_id": 1763049,
       "type": "movie",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "Under Fire",
       "original_title": "Under Fire",
       "release_date": "2026-11-12",
@@ -2797,7 +2961,7 @@
       "id": "movie-1381273",
       "tmdb_id": 1381273,
       "type": "movie",
-      "industry": "hollywood",
+      "industry": "international",
       "title": "Paper Tiger",
       "original_title": "Paper Tiger",
       "release_date": "2026-11-13",
@@ -3170,6 +3334,32 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1595124",
+      "tmdb_id": 1595124,
+      "type": "movie",
+      "industry": "international",
+      "title": "Steps",
+      "original_title": "Steps",
+      "release_date": "2026-11-20",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "language": "en",
+      "synopsis": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8Kj6Fsgdsdr7XsxrgHwIlSFF1fz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "popularity": 8.2766,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1287520",
       "tmdb_id": 1287520,
       "type": "movie",
@@ -3222,7 +3412,7 @@
       "id": "movie-1698932",
       "tmdb_id": 1698932,
       "type": "movie",
-      "industry": "bollywood",
+      "industry": "international",
       "title": "Kaali Kheti",
       "original_title": "Kaali Kheti",
       "release_date": "2026-11-20",
@@ -3285,55 +3475,6 @@
       "poster_url": "",
       "backdrop_url": "",
       "popularity": 2.1118,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1595124",
-      "tmdb_id": 1595124,
-      "type": "movie",
-      "industry": "international",
-      "title": "Steps",
-      "original_title": "Steps",
-      "release_date": "2026-11-20",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Comedy",
-        "Adventure"
-      ],
-      "language": "en",
-      "synopsis": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8Kj6Fsgdsdr7XsxrgHwIlSFF1fz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-      "popularity": 8.2766,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1599230",
-      "tmdb_id": 1599230,
-      "type": "movie",
-      "industry": "international",
-      "title": "Elsinore",
-      "original_title": "Elsinore",
-      "release_date": "2026-11-20",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
-      "popularity": 5.3181,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -3527,29 +3668,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/nuLUxzJ4bVVxafru5lgWfmcPOm7.jpg",
       "popularity": 16.16,
       "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1355885",
-      "tmdb_id": 1355885,
-      "type": "movie",
-      "industry": "international",
-      "title": "From Inside Out: The Architecture of Peter Zumthor",
-      "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
-      "release_date": "2026-11-26",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Documentary"
-      ],
-      "language": "de",
-      "synopsis": "We all come from houses in which we live, dream, love and die. This long-term documentary project explores the significance of architecture in our everyday lives and takes its audience on a journey to the most impressive places designed by Swiss architect Peter Zumthor.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ca0wQJILxFbgleAdcUrKhc2i5Qh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/oep5pxCHuMgx6UyNpPEd2Snsgtw.jpg",
-      "popularity": 4.862,
-      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -3768,6 +3886,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1452168",
+      "tmdb_id": 1452168,
+      "type": "movie",
+      "industry": "international",
+      "title": "Behemoth!",
+      "original_title": "Behemoth!",
+      "release_date": "2026-12-02",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "synopsis": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gI3s8kkXsG0VHkpWjtZBKOz6sOk.jpg",
+      "popularity": 5.9067,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1556316",
       "tmdb_id": 1556316,
       "type": "movie",
@@ -3807,29 +3948,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/eVyHdSC53TJhwPxhpG1P8mtsKqY.jpg",
       "popularity": 5.4856,
       "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1452168",
-      "tmdb_id": 1452168,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "Behemoth!",
-      "original_title": "Behemoth!",
-      "release_date": "2026-12-04",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gI3s8kkXsG0VHkpWjtZBKOz6sOk.jpg",
-      "popularity": 5.9067,
-      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -4068,6 +4186,30 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1391239",
+      "tmdb_id": 1391239,
+      "type": "movie",
+      "industry": "international",
+      "title": "The Debut",
+      "original_title": "The Debut",
+      "release_date": "2026-12-10",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "en",
+      "synopsis": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role—even if it means waging war against the show’s domineering director.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+      "popularity": 41.4366,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-270596",
       "tmdb_id": 270596,
       "type": "series",
@@ -4116,10 +4258,10 @@
       "id": "movie-1532610",
       "tmdb_id": 1532610,
       "type": "movie",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "Ink",
       "original_title": "Ink",
-      "release_date": "2026-12-10",
+      "release_date": "2026-12-11",
       "release_time": "",
       "status": "confirmed",
       "genres": [
@@ -4130,30 +4272,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/sWtM1GfbjMkcvpj2riGW8QxlTr.jpg",
       "popularity": 5.2814,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1391239",
-      "tmdb_id": 1391239,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "The Debut",
-      "original_title": "The Debut",
-      "release_date": "2026-12-11",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role—even if it means waging war against the show’s domineering director.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
-      "popularity": 41.4366,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -4892,37 +5010,13 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-621304",
-      "tmdb_id": 621304,
-      "type": "movie",
-      "industry": "international",
-      "title": "Children of Blood and Bone",
-      "original_title": "Children of Blood and Bone",
-      "release_date": "2027-01-13",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Fantasy",
-        "Adventure"
-      ],
-      "language": "en",
-      "synopsis": "In the world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iJHHwaFZumvMLx96apZPNhhIb1A.jpg",
-      "popularity": 5.1467,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1520592",
       "tmdb_id": 1520592,
       "type": "movie",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "River",
       "original_title": "River",
-      "release_date": "2027-01-14",
+      "release_date": "2027-01-15",
       "release_time": "",
       "status": "confirmed",
       "genres": [
@@ -4934,6 +5028,30 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/xe9V5utoUjyb92g5eBWbro1MSKd.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/gDpRamKdIUrlea0KyzaPnS9NM8K.jpg",
       "popularity": 5.2324,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-621304",
+      "tmdb_id": 621304,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Children of Blood and Bone",
+      "original_title": "Children of Blood and Bone",
+      "release_date": "2027-01-15",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "language": "en",
+      "synopsis": "In the world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iJHHwaFZumvMLx96apZPNhhIb1A.jpg",
+      "popularity": 5.1467,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -5150,32 +5268,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1480503",
-      "tmdb_id": 1480503,
-      "type": "movie",
-      "industry": "international",
-      "title": "CoComelon: The Movie",
-      "original_title": "CoComelon: The Movie",
-      "release_date": "2027-02-04",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Comedy"
-      ],
-      "language": "en",
-      "synopsis": "JJ embarks on the biggest adventure of his life: Kindergarten. But when, on his first day at school, JJ discovers that his beloved stuffed bear Boba has gone missing, JJ and his friends Cody, CeCe and Nina will begin a quest that will transport them into a magical land ruled by Princess Harmony, who has created a world with one rule: No singing.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dDYSKF9VWmcgOy2sruIJkHs5DDG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fjLFbfay5SfILVkIGVGpJx1EQ7K.jpg",
-      "popularity": 5.3112,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1147572",
       "tmdb_id": 1147572,
       "type": "movie",
@@ -5364,6 +5456,32 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1480503",
+      "tmdb_id": 1480503,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "CoComelon: The Movie",
+      "original_title": "CoComelon: The Movie",
+      "release_date": "2027-02-19",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Comedy"
+      ],
+      "language": "en",
+      "synopsis": "JJ embarks on the biggest adventure of his life: Kindergarten. But when, on his first day at school, JJ discovers that his beloved stuffed bear Boba has gone missing, JJ and his friends Cody, CeCe and Nina will begin a quest that will transport them into a magical land ruled by Princess Harmony, who has created a world with one rule: No singing.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dDYSKF9VWmcgOy2sruIJkHs5DDG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fjLFbfay5SfILVkIGVGpJx1EQ7K.jpg",
+      "popularity": 5.3112,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1527075",
       "tmdb_id": 1527075,
       "type": "movie",
@@ -5388,5 +5506,5 @@
       "trailer_url": ""
     }
   ],
-  "updated_at": "2026-10-20T16:23:45.505985Z"
+  "updated_at": "2026-10-20T21:17:23.135374Z"
 }

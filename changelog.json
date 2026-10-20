@@ -13564,5 +13564,101 @@
         "detected_at": "2026-10-20T16:23:44.271859Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-20T21:17:22.208480Z",
+    "new_titles": [
+      {
+        "id": "movie-1790589",
+        "title": "Wild is the Wind",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1783597",
+        "title": "Eclipse",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1781678",
+        "title": "Mama, finek?",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1437925",
+        "title": "Moulin",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "movie-1791638",
+        "title": "Up Again",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1211637",
+        "title": "Lost Tape",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1794955",
+        "title": "Small Spaces",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1791657",
+        "title": "Houpačky",
+        "release_date": "2026-11-05"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1584779",
+        "title": "The Body in the Locker",
+        "old_date": "2026-11-05",
+        "new_date": "2025-11-23",
+        "detected_at": "2026-10-20T21:17:22.205070Z"
+      },
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-10-20T21:17:22.205111Z"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-10",
+        "detected_at": "2026-10-20T21:17:22.205116Z"
+      },
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "old_date": "2026-12-10",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-10-20T21:17:22.205118Z"
+      },
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "old_date": "2027-01-14",
+        "new_date": "2027-01-15",
+        "detected_at": "2026-10-20T21:17:22.205126Z"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "old_date": "2027-01-13",
+        "new_date": "2027-01-15",
+        "detected_at": "2026-10-20T21:17:22.205127Z"
+      },
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "old_date": "2027-02-04",
+        "new_date": "2027-02-19",
+        "detected_at": "2026-10-20T21:17:22.205132Z"
+      }
+    ]
   }
 ]
