@@ -13498,5 +13498,71 @@
         "detected_at": "2026-10-20T10:58:05.297804Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-20T16:23:44.273834Z",
+    "new_titles": [
+      {
+        "id": "tv-254969",
+        "title": "Breendonk",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "tv-334986",
+        "title": "Wake Up",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-338685",
+        "title": "Paige Prater: Forever-Friendship",
+        "release_date": "2026-11-01"
+      },
+      {
+        "id": "movie-1570488",
+        "title": "A Dog's Perfect Christmas",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-338562",
+        "title": "Alicia's Law",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "movie-1788509",
+        "title": "Sludge",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-332912",
+        "title": "The White House Is Fake",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1115030",
+        "title": "Animal Friends",
+        "release_date": "2027-01-22"
+      },
+      {
+        "id": "tv-289549",
+        "title": "Prodigies",
+        "release_date": "2027-02-10"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-10-20T16:23:44.271848Z"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "old_date": "2026-12-10",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-10-20T16:23:44.271859Z"
+      }
+    ]
   }
 ]
