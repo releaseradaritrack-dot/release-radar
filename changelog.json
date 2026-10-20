@@ -13469,5 +13469,34 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-20T10:58:05.301106Z",
+    "new_titles": [
+      {
+        "id": "movie-1251608",
+        "title": "The Blood Countess",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1802464",
+        "title": "Meethe Mein Kya Hai",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1599230",
+        "title": "Elsinore",
+        "release_date": "2026-11-20"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-10",
+        "detected_at": "2026-10-20T10:58:05.297804Z"
+      }
+    ]
   }
 ]
