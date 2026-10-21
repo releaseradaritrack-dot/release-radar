@@ -13781,5 +13781,86 @@
         "detected_at": "2026-10-21T16:40:02.266907Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-21T21:17:17.076703Z",
+    "new_titles": [
+      {
+        "id": "movie-1792643",
+        "title": "Onnopata",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1803050",
+        "title": "Bhalo Acho To?",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-332975",
+        "title": "The Netherlands' Dumbest",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1803308",
+        "title": "Adi Nyemeh – Daughters of the Forest",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1803295",
+        "title": "Delicate Darling",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1803293",
+        "title": "Udgam: The Origin of Life",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1803288",
+        "title": "The Sinking Monastery of Light",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-243555",
+        "title": "Akka",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-338256",
+        "title": "Agent-ish",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-336716",
+        "title": "Delegado",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-338684",
+        "title": "Taken: Natalee Holloway",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-322232",
+        "title": "The Wolves of Real Estate: The Alexander Brothers",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-249037",
+        "title": "The Twin",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-309176",
+        "title": "Are You a Landmine, Chihara-san?",
+        "release_date": "2027-01-07"
+      },
+      {
+        "id": "movie-1235057",
+        "title": "Love & War",
+        "release_date": "2027-01-21"
+      }
+    ],
+    "date_changes": []
   }
 ]
