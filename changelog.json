@@ -13701,5 +13701,21 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-21T11:14:09.407847Z",
+    "new_titles": [
+      {
+        "id": "movie-1599230",
+        "title": "Elsinore",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "release_date": "2027-01-28"
+      }
+    ],
+    "date_changes": []
   }
 ]
