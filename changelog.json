@@ -13717,5 +13717,69 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-21T16:40:02.270857Z",
+    "new_titles": [
+      {
+        "id": "movie-1789363",
+        "title": "The Navigator",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "tv-339474",
+        "title": "Matargashti",
+        "release_date": "2026-10-21"
+      },
+      {
+        "id": "movie-1783255",
+        "title": "Cinemanía",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1791638",
+        "title": "Up Again",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1784178",
+        "title": "Silt",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1791392",
+        "title": "Regresa",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1630464",
+        "title": "Clarissa",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1791771",
+        "title": "Amateur Hour",
+        "release_date": "2026-12-20"
+      },
+      {
+        "id": "tv-338835",
+        "title": "Pinkie Prater",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-10-21T16:40:02.266907Z"
+      }
+    ]
   }
 ]
