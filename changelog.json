@@ -13660,5 +13660,46 @@
         "detected_at": "2026-10-20T21:17:22.205132Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-21T03:26:28.936427Z",
+    "new_titles": [
+      {
+        "id": "tv-338684",
+        "title": "Taken: Natalee Holloway",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-252886",
+        "title": "Scarlet Heart Thailand",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1793000",
+        "title": "The Hangover Cure",
+        "release_date": "2026-11-24"
+      },
+      {
+        "id": "tv-327346",
+        "title": "Astral Watch",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "movie-1137888",
+        "title": "The Man with the Bag",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "tv-330569",
+        "title": "Lumine",
+        "release_date": "2027-01-01"
+      }
+    ],
+    "date_changes": []
   }
 ]
