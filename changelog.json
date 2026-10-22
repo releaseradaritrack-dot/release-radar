@@ -13862,5 +13862,66 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-22T03:25:58.837441Z",
+    "new_titles": [
+      {
+        "id": "tv-334986",
+        "title": "Wake Up",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-338873",
+        "title": "The HR of Superpowered Individuals",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1782625",
+        "title": "Orang Minyak",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1781527",
+        "title": "PH1SHed_",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "tv-334279",
+        "title": "Resistance to the Daleks, Part One",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1211637",
+        "title": "Lost Tape",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1795451",
+        "title": "Arthur & Clara",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "tv-301354",
+        "title": "Sword & Silence",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1299329",
+        "title": "Josephine",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-334361",
+        "title": "What Remains",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1423254",
+        "title": "Mupapa",
+        "release_date": "2027-02-19"
+      }
+    ],
+    "date_changes": []
   }
 ]
