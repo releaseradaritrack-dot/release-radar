@@ -14033,5 +14033,71 @@
         "detected_at": "2026-10-22T16:40:49.839807Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-22T21:13:36.618408Z",
+    "new_titles": [
+      {
+        "id": "tv-254969",
+        "title": "Breendonk",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1186823",
+        "title": "Sumo Didi",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-316702",
+        "title": "Final Table",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1741017",
+        "title": "Cafe Umbrella",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-307478",
+        "title": "The Perfect Lie",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1784178",
+        "title": "Silt",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "tv-252886",
+        "title": "Scarlet Heart Thailand",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-303044",
+        "title": "Campus Drivers",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-306179",
+        "title": "Awkwafina: The Unlikely Cook",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1788052",
+        "title": "First, Do No Harm",
+        "release_date": "2026-11-10"
+      },
+      {
+        "id": "movie-1473784",
+        "title": "Bunker",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-322546",
+        "title": "Cruzando destinos: Marruecos en el corazón",
+        "release_date": "2026-12-14"
+      }
+    ],
+    "date_changes": []
   }
 ]
