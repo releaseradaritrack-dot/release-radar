@@ -13923,5 +13923,29 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-22T11:12:25.079170Z",
+    "new_titles": [
+      {
+        "id": "movie-1028485",
+        "title": "Nilanjona",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1198746",
+        "title": "Above the Below",
+        "release_date": "2026-12-03"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1697911",
+        "title": "Drummer Boy",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-05",
+        "detected_at": "2026-10-22T11:12:25.075280Z"
+      }
+    ]
   }
 ]
