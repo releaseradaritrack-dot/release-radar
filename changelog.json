@@ -13947,5 +13947,91 @@
         "detected_at": "2026-10-22T11:12:25.075280Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-22T16:40:49.843651Z",
+    "new_titles": [
+      {
+        "id": "tv-334253",
+        "title": "アナログナース～デジタルってなんなんだよ！？～",
+        "release_date": "2026-10-22"
+      },
+      {
+        "id": "movie-1793827",
+        "title": "White Lightning",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1473439",
+        "title": "Bad Lieutenant: Tokyo",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1628116",
+        "title": "BTS: THE RETURN",
+        "release_date": "2026-10-25"
+      },
+      {
+        "id": "tv-333533",
+        "title": "The One About Matthew Perry",
+        "release_date": "2026-10-27"
+      },
+      {
+        "id": "movie-1440157",
+        "title": "My Duchess",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "tv-337803",
+        "title": "THE WATCH: America’s Nuclear Mission",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1756307",
+        "title": "SCTV: The Greatest Show You've Never Heard Of",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1425784",
+        "title": "Animol",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1381273",
+        "title": "Paper Tiger",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1316999",
+        "title": "Tangles",
+        "release_date": "2027-01-15"
+      },
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "release_date": "2027-01-15"
+      },
+      {
+        "id": "movie-1115030",
+        "title": "Animal Friends",
+        "release_date": "2027-01-22"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1727734",
+        "title": "Ali G: Who Iz I?",
+        "old_date": "2026-10-22",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-10-22T16:40:49.839783Z"
+      },
+      {
+        "id": "movie-1697911",
+        "title": "Drummer Boy",
+        "old_date": "2026-11-05",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-10-22T16:40:49.839807Z"
+      }
+    ]
   }
 ]
