@@ -14163,5 +14163,51 @@
         "detected_at": "2026-10-23T03:30:46.172758Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-23T11:03:59.455303Z",
+    "new_titles": [
+      {
+        "id": "tv-322051",
+        "title": "The Sound of Sugar Cubes",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "movie-1795451",
+        "title": "Arthur & Clara",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "tv-303552",
+        "title": "The Substitute",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "tv-310209",
+        "title": "Nine to Six",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "movie-1735284",
+        "title": "Lion Queen",
+        "release_date": "2027-02-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-13",
+        "detected_at": "2026-10-23T11:03:59.450289Z"
+      },
+      {
+        "id": "movie-1198746",
+        "title": "Above the Below",
+        "old_date": "2026-12-03",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-10-23T11:03:59.450311Z"
+      }
+    ]
   }
 ]
