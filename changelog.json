@@ -14099,5 +14099,69 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-23T03:30:46.177814Z",
+    "new_titles": [
+      {
+        "id": "tv-315323",
+        "title": "The Hidden Shadows",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-334986",
+        "title": "Wake Up",
+        "release_date": "2026-10-23"
+      },
+      {
+        "id": "tv-335951",
+        "title": "Summer Vacation",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "movie-1437925",
+        "title": "Moulin",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "tv-328010",
+        "title": "Devils' Crest",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-336500",
+        "title": "Burrito and Marshy",
+        "release_date": "2026-11-15"
+      },
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D.: The Birth of Christ",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1791771",
+        "title": "Amateur Hour",
+        "release_date": "2026-12-20"
+      },
+      {
+        "id": "tv-290825",
+        "title": "The Wanted Man",
+        "release_date": "2027-01-06"
+      },
+      {
+        "id": "tv-338589",
+        "title": "Reign of the Weredragon",
+        "release_date": "2027-01-13"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-338918",
+        "title": "Chaar Yaar",
+        "old_date": "2026-10-22",
+        "new_date": "2026-10-23",
+        "detected_at": "2026-10-23T03:30:46.172758Z"
+      }
+    ]
   }
 ]
