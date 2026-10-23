@@ -14209,5 +14209,26 @@
         "detected_at": "2026-10-23T11:03:59.450311Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-23T16:31:03.562466Z",
+    "new_titles": [
+      {
+        "id": "tv-338340",
+        "title": "A visszavágó - Kapj el, ha tudsz!",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "tv-338149",
+        "title": "Superra",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1489402",
+        "title": "Silaa",
+        "release_date": "2027-02-05"
+      }
+    ],
+    "date_changes": []
   }
 ]
