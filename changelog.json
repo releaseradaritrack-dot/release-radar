@@ -14333,5 +14333,71 @@
         "detected_at": "2026-10-23T21:01:44.591122Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-24T03:25:08.720289Z",
+    "new_titles": [
+      {
+        "id": "tv-335870",
+        "title": "The Chemistry",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-337952",
+        "title": "5 mins to vomit",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1791596",
+        "title": "Earworm",
+        "release_date": "2026-11-01"
+      },
+      {
+        "id": "tv-313738",
+        "title": "One of a Kind Romance",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "tv-305487",
+        "title": "El laberinto de las mariposas",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-336500",
+        "title": "Burrito and Marshy",
+        "release_date": "2026-11-15"
+      },
+      {
+        "id": "movie-1450523",
+        "title": "The Assignment",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "tv-310209",
+        "title": "Nine to Six",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-307325",
+        "title": "The Eyes",
+        "release_date": "2026-12-18"
+      },
+      {
+        "id": "movie-1791771",
+        "title": "Amateur Hour",
+        "release_date": "2026-12-20"
+      },
+      {
+        "id": "tv-327127",
+        "title": "Nuits Blanches",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1115030",
+        "title": "Animal Friends",
+        "release_date": "2027-01-22"
+      }
+    ],
+    "date_changes": []
   }
 ]
