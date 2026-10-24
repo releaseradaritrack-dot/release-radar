@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "movie-1798311",
+      "tmdb_id": 1798311,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Gush",
+      "original_title": "Gush",
+      "release_date": "2026-10-24",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "en",
+      "synopsis": "Elliot drags bestie Skylar along to her ex-girlfriend's Sálon. Seeking refuge from the boob-shaped discussion bowl in the bathroom; they get stuck in a tampon mishap stickier than the bad blood between old flames.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uvXkWImOGYHaUzKhgg0iDZ5cRhN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lot0sIEEgRDLpr9jT5AHzUqLppz.jpg",
+      "popularity": 4.7105,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-338873",
       "tmdb_id": 338873,
       "type": "series",
@@ -390,6 +414,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1437925",
+      "tmdb_id": 1437925,
+      "type": "movie",
+      "industry": "international",
+      "title": "Moulin",
+      "original_title": "Moulin",
+      "release_date": "2026-10-28",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "fr",
+      "synopsis": "In June 1943, Jean Moulin, leader of the French Resistance, is arrested while attempting to reunite the forces of the \"Armée Secrète.\" Interrogated by Klaus Barbie, the head of the Gestapo in Lyon, Moulin is drawn into a relentless confrontation.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f3yopLJXRBcPvgkfRji1jloDrxd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg",
+      "popularity": 7.5596,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1440157",
       "tmdb_id": 1440157,
       "type": "movie",
@@ -551,29 +598,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1783159",
-      "tmdb_id": 1783159,
-      "type": "movie",
-      "industry": "bollywood",
-      "title": "The Ordinary Star",
-      "original_title": "The Ordinary Star",
-      "release_date": "2026-10-29",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Documentary"
-      ],
-      "language": "hi",
-      "synopsis": "Actor Nawazuddin Siddiqui is asked to study Ashok, the actual resident of the room the actor is going to inhabit for the filming of Star, Dibakar Banerjee’s short in Bombay Talkies, 2013. The fiction director, the documentary filmmakers and the actor, bit by bit, construct the lead character of Bombay Talkies, Porandar Vithal. Ashok feeds this construction through his own life. The Ordinary Star is a documentary that ponders over the nature and cost of the cinematic process, it’s invasiveness, it’s need to devour so that it can create, and the endless search to live a life less ordinary.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zqhOcd2rqHBRbjwWR0OzzzahCdW.jpg",
-      "backdrop_url": "",
-      "popularity": 0.9519,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1792449",
       "tmdb_id": 1792449,
       "type": "movie",
@@ -614,6 +638,29 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/uRgybtyDqNqlp5KSGOJur1MDfzK.jpg",
       "backdrop_url": "",
       "popularity": 0.9547,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1783159",
+      "tmdb_id": 1783159,
+      "type": "movie",
+      "industry": "bollywood",
+      "title": "The Ordinary Star",
+      "original_title": "The Ordinary Star",
+      "release_date": "2026-10-29",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Documentary"
+      ],
+      "language": "hi",
+      "synopsis": "Actor Nawazuddin Siddiqui is asked to study Ashok, the actual resident of the room the actor is going to inhabit for the filming of Star, Dibakar Banerjee’s short in Bombay Talkies, 2013. The fiction director, the documentary filmmakers and the actor, bit by bit, construct the lead character of Bombay Talkies, Porandar Vithal. Ashok feeds this construction through his own life. The Ordinary Star is a documentary that ponders over the nature and cost of the cinematic process, it’s invasiveness, it’s need to devour so that it can create, and the endless search to live a life less ordinary.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zqhOcd2rqHBRbjwWR0OzzzahCdW.jpg",
+      "backdrop_url": "",
+      "popularity": 0.9519,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -710,27 +757,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1803288",
-      "tmdb_id": 1803288,
-      "type": "movie",
-      "industry": "bollywood",
-      "title": "The Sinking Monastery of Light",
-      "original_title": "Ujjale Ka Dhoobta Dham",
-      "release_date": "2026-10-29",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [],
-      "language": "hi",
-      "synopsis": "Residents of a Himalayan town sinking under its own weight reflect on the meaning and memory of home.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b7IScpXYs7veeOJG4pdpiZHd1Lh.jpg",
-      "backdrop_url": "",
-      "popularity": 0.2808,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1803295",
       "tmdb_id": 1803295,
       "type": "movie",
@@ -748,6 +774,27 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/8Ci6KOrtzSgcPedJCGuBZIL27aH.jpg",
       "backdrop_url": "",
       "popularity": 0.2874,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1803288",
+      "tmdb_id": 1803288,
+      "type": "movie",
+      "industry": "bollywood",
+      "title": "The Sinking Monastery of Light",
+      "original_title": "Ujjale Ka Dhoobta Dham",
+      "release_date": "2026-10-29",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [],
+      "language": "hi",
+      "synopsis": "Residents of a Himalayan town sinking under its own weight reflect on the meaning and memory of home.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b7IScpXYs7veeOJG4pdpiZHd1Lh.jpg",
+      "backdrop_url": "",
+      "popularity": 0.2808,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -1050,6 +1097,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1374689",
+      "tmdb_id": 1374689,
+      "type": "movie",
+      "industry": "bollywood",
+      "title": "Pyre",
+      "original_title": "Pyre",
+      "release_date": "2026-10-30",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "hi",
+      "synopsis": "In the Himalayan Mountain range, a rural village loses its inhabitants to the city’s allure while an elderly couple, Padam Singh and Tulsi, live in desolate isolation. Their days are filled with routine and occasional humour as they mask their loneliness. Their son’s absence gnaws at them, and when a letter arrives promising his return, it reignites their hearts with joy and anticipation. However, the reunion does not unfold as expected, shattering their hopes. As the film climaxes, the spectator is confronted with a more rueful plight, deeply engaging the audience’s empathy.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h8bmRYjBq5NnByC4kxgvaNfR7Fs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2IOQb9cl99JHgyTLCdyRXniT4Ew.jpg",
+      "popularity": 1.8062,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1802464",
       "tmdb_id": 1802464,
       "type": "movie",
@@ -1215,7 +1285,7 @@
       "id": "movie-1781527",
       "tmdb_id": 1781527,
       "type": "movie",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "PH1SHed_",
       "original_title": "PH1SHed_",
       "release_date": "2026-10-31",
@@ -1329,6 +1399,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1796421",
+      "tmdb_id": 1796421,
+      "type": "movie",
+      "industry": "international",
+      "title": "Inside",
+      "original_title": "Vo vnútri",
+      "release_date": "2026-10-31",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Documentary"
+      ],
+      "language": "sk",
+      "synopsis": "Anonymous accounts of women who became victims of societal stigma after undergoing an abortion.",
+      "poster_url": "",
+      "backdrop_url": "",
+      "popularity": 7.3145,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1795451",
       "tmdb_id": 1795451,
       "type": "movie",
@@ -1347,30 +1440,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/5dUjPFAUUJbgheF0VOBMWNjl1DM.jpg",
       "backdrop_url": "",
       "popularity": 6.0865,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1791596",
-      "tmdb_id": 1791596,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "Earworm",
-      "original_title": "Earworm",
-      "release_date": "2026-11-01",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Horror",
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "Austin is a grieving young man who can't keep himself from revisiting the room where his ex-boyfriend murdered another former partner. Meanwhile he finds himself in a co-dependent dynamic with Eve, a non-confrontational, quietly misanthropic student who now lives in the very same room.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nRsYyfajE1eGH5HtALDm5HSl9XW.jpg",
-      "backdrop_url": "",
-      "popularity": 3.8284,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -1447,7 +1516,7 @@
       "id": "tv-314271",
       "tmdb_id": 314271,
       "type": "series",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "Bass X Machina",
       "original_title": "Bass X Machina",
       "release_date": "2026-11-03",
@@ -1730,29 +1799,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-336915",
-      "tmdb_id": 336915,
-      "type": "series",
-      "industry": "international",
-      "title": "Que Isso Fique Entre Nós",
-      "original_title": "Que Isso Fique Entre Nós",
-      "release_date": "2026-11-04",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "pt",
-      "synopsis": "",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ghJ36JgNsm1QqGjIZtPJZLJ8MGq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/i3w7EYQCKsOvqK2gUanHuQmlz2Q.jpg",
-      "popularity": 4.4022,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1697911",
       "tmdb_id": 1697911,
       "type": "movie",
@@ -1781,7 +1827,7 @@
       "type": "movie",
       "industry": "international",
       "title": "Ramayana: Rise of a Legend",
-      "original_title": "रामायण",
+      "original_title": "रामायणम",
       "release_date": "2026-11-05",
       "release_time": "",
       "status": "confirmed",
@@ -1792,8 +1838,8 @@
       ],
       "language": "hi",
       "synopsis": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
       "popularity": 29.2129,
       "platform": "theatrical",
       "source": "TMDB",
@@ -2429,29 +2475,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-323031",
-      "tmdb_id": 323031,
-      "type": "series",
-      "industry": "international",
-      "title": "Omerta",
-      "original_title": "Omerta",
-      "release_date": "2026-11-12",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "nl",
-      "synopsis": "The series delves into the life of the prominent and influential Van Loo family, where behind their perfect image and luxurious lifestyle lies a web of secrets that must remain hidden at all costs.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jD7Rcbz4s3CrxNhIEx0dYeGM4r3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qIbNVYZuCCLCSvSzo5Z3KG8V91x.jpg",
-      "popularity": 4.0861,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1379486",
       "tmdb_id": 1379486,
       "type": "movie",
@@ -2495,31 +2518,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/1VhgzeA0tBbd7GtAw1d2nL3UUBk.jpg",
       "popularity": 5.5759,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1788509",
-      "tmdb_id": 1788509,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "Sludge",
-      "original_title": "Sludge",
-      "release_date": "2026-11-13",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "en",
-      "synopsis": "A rambunctious young man embarks on a nightmarish journey after a prank on his best friend goes horribly wrong.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tGn4yopZDooxh0XUfNkh5udttDb.jpg",
-      "backdrop_url": "",
-      "popularity": 4.1648,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -2732,6 +2730,30 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1798903",
+      "tmdb_id": 1798903,
+      "type": "movie",
+      "industry": "international",
+      "title": "KILL/SAVE",
+      "original_title": "KILL/SAVE",
+      "release_date": "2026-11-17",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Sci-Fi",
+        "Action"
+      ],
+      "language": "en",
+      "synopsis": "In a locked-down megacity where reality is optional, a lonely programmer risks his mind to rescue his girlfriend from a virtual prison — only to face a truth that challenges the very meaning of salvation and free will.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sFT8SPdPwgYCtnESmMJt9zAqR81.jpg",
+      "backdrop_url": "",
+      "popularity": 7.4525,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-1300968",
       "tmdb_id": 1300968,
       "type": "movie",
@@ -2748,7 +2770,7 @@
       ],
       "language": "en",
       "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "popularity": 20.3138,
       "platform": "theatrical",
@@ -2830,7 +2852,7 @@
       "id": "tv-308007",
       "tmdb_id": 308007,
       "type": "series",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "The Altruists",
       "original_title": "The Altruists",
       "release_date": "2026-11-19",
@@ -3021,24 +3043,25 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1599230",
-      "tmdb_id": 1599230,
-      "type": "movie",
+      "id": "tv-300523",
+      "tmdb_id": 300523,
+      "type": "series",
       "industry": "international",
-      "title": "Elsinore",
-      "original_title": "Elsinore",
+      "title": "The Blue Road",
+      "original_title": "푸른길",
       "release_date": "2026-11-20",
       "release_time": "",
       "status": "confirmed",
       "genres": [
-        "Drama"
+        "Crime",
+        "Mystery"
       ],
-      "language": "en",
-      "synopsis": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
-      "popularity": 7.1178,
-      "platform": "theatrical",
+      "language": "ko",
+      "synopsis": "Two detectives from Japan and Korea join forces to hunt a serial killer behind gruesome cross-border murders marked by cryptic dying messages.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rHgC4wYhpI8Vx7kSwA1OTvwQRh0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+      "popularity": 5.131,
+      "platform": "ott",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -3426,6 +3449,30 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1741641",
+      "tmdb_id": 1741641,
+      "type": "movie",
+      "industry": "hollywood",
+      "title": "Checking Inn for Christmas",
+      "original_title": "Checking Inn for Christmas",
+      "release_date": "2026-11-28",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "language": "en",
+      "synopsis": "Ambitious writer Claire visits a new Christmas retreat for a career-making article, but falling for owner Julian forces her to choose between chasing headlines and embracing the season's true magic and her heart.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tfmKg7ish76aNHiymy82lRsziQ5.jpg",
+      "backdrop_url": "",
+      "popularity": 4.5436,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-331962",
       "tmdb_id": 331962,
       "type": "series",
@@ -3593,30 +3640,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1763356",
-      "tmdb_id": 1763356,
-      "type": "movie",
-      "industry": "bollywood",
-      "title": "Cousin Isha",
-      "original_title": "Cousin Isha",
-      "release_date": "2026-12-04",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "hi",
-      "synopsis": "After being publicly humiliated and heartbroken when his lover marries someone else, Ajit, the son of a small-town sweet shop owner, hits rock bottom-until Isha, his bold and fashionable distant cousin, unexpectedly enters his life, turning his pain into a potential new beginning.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nld4WDfBFA2sAhkGhln2O5Vq2CM.jpg",
-      "backdrop_url": "",
-      "popularity": 1.7839,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1569625",
       "tmdb_id": 1569625,
       "type": "movie",
@@ -3635,6 +3658,30 @@
       "poster_url": "",
       "backdrop_url": "",
       "popularity": 1.9965,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1763356",
+      "tmdb_id": 1763356,
+      "type": "movie",
+      "industry": "bollywood",
+      "title": "Cousin Isha",
+      "original_title": "Cousin Isha",
+      "release_date": "2026-12-04",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "hi",
+      "synopsis": "After being publicly humiliated and heartbroken when his lover marries someone else, Ajit, the son of a small-town sweet shop owner, hits rock bottom-until Isha, his bold and fashionable distant cousin, unexpectedly enters his life, turning his pain into a potential new beginning.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nld4WDfBFA2sAhkGhln2O5Vq2CM.jpg",
+      "backdrop_url": "",
+      "popularity": 1.7839,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -3805,7 +3852,7 @@
       "id": "movie-1789499",
       "tmdb_id": 1789499,
       "type": "movie",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "Witching Hour",
       "original_title": "Witching Hour",
       "release_date": "2026-12-09",
@@ -4094,7 +4141,7 @@
       "language": "en",
       "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "poster_url": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xaA2vNo563CwmchBWztkAYRf86Y.jpg",
       "popularity": 694.3652,
       "platform": "theatrical",
       "source": "TMDB",
@@ -4225,29 +4272,6 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1791771",
-      "tmdb_id": 1791771,
-      "type": "movie",
-      "industry": "hollywood",
-      "title": "Amateur Hour",
-      "original_title": "Amateur Hour",
-      "release_date": "2026-12-20",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Comedy"
-      ],
-      "language": "en",
-      "synopsis": "When Bharles Billiam and Sam Jones set out to make their very own movie, they learn that it might not be as easy as it seems. Together, the two entirely unqualified \"filmmakers\" struggle to find a cast, a budget, and any competency at all, putting them through a series of absurd misadventures along the way.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2zOdQXZ9RaBzirrmIvHWjIdakFm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/A6N3l890CGYfBYtxu4quvP3P2bo.jpg",
-      "popularity": 4.3715,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1260649",
       "tmdb_id": 1260649,
       "type": "movie",
@@ -4264,7 +4288,7 @@
       ],
       "language": "en",
       "synopsis": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/Vql0GLUnLtf0oQo2VQsTFqjXEo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qGFuvcXqQdXS5ZNblDlVTOmK6mq.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/pYN5Zjc3l1hj2hMeBbzRYDYTC1E.jpg",
       "popularity": 13.5106,
       "platform": "theatrical",
@@ -4393,7 +4417,7 @@
       "id": "movie-1372443",
       "tmdb_id": 1372443,
       "type": "movie",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "Mr. Irrelevant",
       "original_title": "Mr. Irrelevant",
       "release_date": "2026-12-25",
@@ -5115,29 +5139,6 @@
       "trailer_url": ""
     },
     {
-      "id": "tv-327107",
-      "tmdb_id": 327107,
-      "type": "series",
-      "industry": "international",
-      "title": "Avenida Brasil 2",
-      "original_title": "Avenida Brasil 2",
-      "release_date": "2027-01-25",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "pt",
-      "synopsis": "",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ogyZq4wSIiQ0dsWllBp6Iuh3Cbw.jpg",
-      "backdrop_url": "",
-      "popularity": 4.2175,
-      "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
       "id": "movie-1384758",
       "tmdb_id": 1384758,
       "type": "movie",
@@ -5220,12 +5221,12 @@
       "status": "confirmed",
       "genres": [
         "Romance",
-        "Horror"
+        "Thriller"
       ],
       "language": "en",
       "synopsis": "When reclusive architect Tate Gordon moves to small coastal town to complete his latest project, he encounters an alluring young woman who pulls him out of his shell, and into the center of a deadly mystery that hangs over the town.",
       "poster_url": "https://image.tmdb.org/t/p/w500/5hPNq5h2y8Ux6nPBRMEwZ8npVTp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tWUizVQOYarekT6JRqPtQogIY3s.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/v7kL3an4ornAOWOxZucZilfTDbR.jpg",
       "popularity": 8.1726,
       "platform": "theatrical",
       "source": "TMDB",
@@ -5351,7 +5352,7 @@
       "id": "movie-1789220",
       "tmdb_id": 1789220,
       "type": "movie",
-      "industry": "international",
+      "industry": "hollywood",
       "title": "Trimmed",
       "original_title": "Trimmed",
       "release_date": "2027-02-12",
@@ -5489,5 +5490,5 @@
       "trailer_url": ""
     }
   ],
-  "updated_at": "2026-10-24T10:20:16.295797Z"
+  "updated_at": "2026-10-24T15:25:51.939514Z"
 }

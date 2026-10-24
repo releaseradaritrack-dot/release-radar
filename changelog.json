@@ -14415,5 +14415,46 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-24T15:25:51.055524Z",
+    "new_titles": [
+      {
+        "id": "movie-1798311",
+        "title": "Gush",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "movie-1437925",
+        "title": "Moulin",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "movie-1374689",
+        "title": "Pyre",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1796421",
+        "title": "Inside",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1798903",
+        "title": "KILL/SAVE",
+        "release_date": "2026-11-17"
+      },
+      {
+        "id": "tv-300523",
+        "title": "The Blue Road",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1741641",
+        "title": "Checking Inn for Christmas",
+        "release_date": "2026-11-28"
+      }
+    ],
+    "date_changes": []
   }
 ]
