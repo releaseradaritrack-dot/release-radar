@@ -14456,5 +14456,51 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-24T20:16:53.352403Z",
+    "new_titles": [
+      {
+        "id": "tv-334856",
+        "title": "あにいもうと",
+        "release_date": "2026-10-24"
+      },
+      {
+        "id": "tv-330613",
+        "title": "The Rules",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "tv-336915",
+        "title": "Que Isso Fique Entre Nós",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-323031",
+        "title": "Omerta",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-336592",
+        "title": "Win the Mall",
+        "release_date": "2026-11-18"
+      },
+      {
+        "id": "movie-1599230",
+        "title": "Elsinore",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-334379",
+        "title": "Empress of Flames",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "tv-327107",
+        "title": "Avenida Brasil 2",
+        "release_date": "2027-01-25"
+      }
+    ],
+    "date_changes": []
   }
 ]
