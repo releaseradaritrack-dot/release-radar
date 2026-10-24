@@ -14399,5 +14399,21 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-24T10:20:15.667643Z",
+    "new_titles": [
+      {
+        "id": "movie-1629064",
+        "title": "Campeón Gabacho",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1313587",
+        "title": "GROTESQQQUE",
+        "release_date": "2026-11-06"
+      }
+    ],
+    "date_changes": []
   }
 ]
