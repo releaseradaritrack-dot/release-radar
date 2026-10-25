@@ -14624,5 +14624,81 @@
         "detected_at": "2026-10-25T15:36:24.433543Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-25T20:24:44.113738Z",
+    "new_titles": [
+      {
+        "id": "movie-1440157",
+        "title": "My Duchess",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "movie-1629064",
+        "title": "Campeón Gabacho",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-333526",
+        "title": "Your Dearest, Darkest Friend with Ted Raimi",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-338256",
+        "title": "Agent-ish",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-336716",
+        "title": "Delegado",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-328010",
+        "title": "Devils' Crest",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-299764",
+        "title": "Happy Anding",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-338562",
+        "title": "Alicia's Law",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-312661",
+        "title": "Miracles of the ER",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "movie-1594516",
+        "title": "Holiday Ever After: A Disney World Wish Come True",
+        "release_date": "2026-11-28"
+      },
+      {
+        "id": "movie-1137888",
+        "title": "The Man with the Bag",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "movie-1379537",
+        "title": "The Gallerist",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-283220",
+        "title": "Quiztopia",
+        "release_date": "2026-12-17"
+      },
+      {
+        "id": "movie-1675781",
+        "title": "Mate's Rate",
+        "release_date": "2027-01-21"
+      }
+    ],
+    "date_changes": []
   }
 ]
