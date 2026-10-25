@@ -14561,5 +14561,29 @@
         "detected_at": "2026-10-25T03:20:50.112115Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-25T10:47:48.131691Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "tv-338641",
+        "title": "Adultery",
+        "release_date": "2026-10-25"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-656908",
+        "title": "Ramayana: Rise of a Legend",
+        "old_date": "2026-11-05",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-10-25T10:47:48.128716Z"
+      }
+    ]
   }
 ]
