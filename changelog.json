@@ -14700,5 +14700,21 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-26T03:22:43.100790Z",
+    "new_titles": [
+      {
+        "id": "tv-313738",
+        "title": "One of a Kind Romance",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "tv-307325",
+        "title": "The Eyes",
+        "release_date": "2026-12-18"
+      }
+    ],
+    "date_changes": []
   }
 ]
