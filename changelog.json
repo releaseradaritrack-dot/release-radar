@@ -14716,5 +14716,104 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-26T22:19:20.030187Z",
+    "new_titles": [
+      {
+        "id": "tv-335951",
+        "title": "Summer Vacation",
+        "release_date": "2026-10-26"
+      },
+      {
+        "id": "movie-1251608",
+        "title": "The Blood Countess",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1458300",
+        "title": "The Mosquito Bowl",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-300755",
+        "title": "The Traitor Within",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1642568",
+        "title": "The Last Temptation of Becky",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1772726",
+        "title": "Confession",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-303182",
+        "title": "Murder in Galicia",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1796954",
+        "title": "Pop Pop",
+        "release_date": "2026-11-15"
+      },
+      {
+        "id": "tv-339503",
+        "title": "The Circle",
+        "release_date": "2026-11-17"
+      },
+      {
+        "id": "movie-1723807",
+        "title": "Break",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "movie-1723637",
+        "title": "Father's House",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "movie-1808244",
+        "title": "Pratap",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-303552",
+        "title": "The Substitute",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "tv-335857",
+        "title": "Kevin and PJ Obsessed",
+        "release_date": "2026-12-12"
+      },
+      {
+        "id": "movie-1492198",
+        "title": "Artificial",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-327293",
+        "title": "The Ambassador",
+        "release_date": "2027-01-05"
+      },
+      {
+        "id": "tv-248172",
+        "title": "Baywatch",
+        "release_date": "2027-01-06"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1379486",
+        "title": "Victorian Psycho",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-11",
+        "detected_at": "2026-10-26T22:19:20.024925Z"
+      }
+    ]
   }
 ]
