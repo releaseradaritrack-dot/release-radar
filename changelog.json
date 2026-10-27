@@ -14815,5 +14815,49 @@
         "detected_at": "2026-10-26T22:19:20.024925Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-27T03:50:25.809071Z",
+    "new_titles": [
+      {
+        "id": "tv-313767",
+        "title": "Hurt",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-312661",
+        "title": "Miracles of the ER",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-300523",
+        "title": "The Blue Road",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-310209",
+        "title": "Nine to Six",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-334379",
+        "title": "Empress of Flames",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "tv-307325",
+        "title": "The Eyes",
+        "release_date": "2026-12-18"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-337395",
+        "title": "Baddies USA: Chapter 3",
+        "old_date": "2026-11-01",
+        "new_date": "2026-11-08",
+        "detected_at": "2026-10-27T03:50:25.804502Z"
+      }
+    ]
   }
 ]
