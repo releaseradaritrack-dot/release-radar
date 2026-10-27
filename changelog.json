@@ -14859,5 +14859,41 @@
         "detected_at": "2026-10-27T03:50:25.804502Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-27T17:30:38.930526Z",
+    "new_titles": [
+      {
+        "id": "tv-305935",
+        "title": "Les Disparus des Argonnes",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1405002",
+        "title": "Fiesta Pagäna",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1796414",
+        "title": "Lyrical Vengeance",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-338841",
+        "title": "Somos así",
+        "release_date": "2026-11-18"
+      },
+      {
+        "id": "tv-302837",
+        "title": "Toos: The Van der Valk Kidnapping",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-334919",
+        "title": "Call the Midwife: Sisters in Arms",
+        "release_date": "2026-12-25"
+      }
+    ],
+    "date_changes": []
   }
 ]
