@@ -14895,5 +14895,56 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-27T21:51:23.032955Z",
+    "new_titles": [
+      {
+        "id": "movie-1664264",
+        "title": "A Very Arctic Christmas",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1798823",
+        "title": "Distance",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1797116",
+        "title": "Shores",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1795121",
+        "title": "The Girl Beneath The Sun",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-339752",
+        "title": "Prominent verwandt",
+        "release_date": "2026-11-10"
+      },
+      {
+        "id": "tv-332205",
+        "title": "Small Town Trouble: Texas",
+        "release_date": "2026-11-18"
+      },
+      {
+        "id": "movie-1545540",
+        "title": "Axolodyssey",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-335299",
+        "title": "A Living Canvas",
+        "release_date": "2027-01-23"
+      }
+    ],
+    "date_changes": []
   }
 ]
