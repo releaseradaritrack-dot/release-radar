@@ -14996,5 +14996,135 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-28T22:13:17.635766Z",
+    "new_titles": [
+      {
+        "id": "movie-1552079",
+        "title": "The Last Roman God",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-939541",
+        "title": "Christmas at the Kringles",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1603262",
+        "title": "Everest: The Other Side",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1802192",
+        "title": "Frank Stein M.D.",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1810711",
+        "title": "Dilwali diwali",
+        "release_date": "2026-11-05"
+      },
+      {
+        "id": "tv-328010",
+        "title": "Devils' Crest",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-313738",
+        "title": "One of a Kind Romance",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "tv-313767",
+        "title": "Hurt",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-303182",
+        "title": "Murder in Galicia",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-305487",
+        "title": "El laberinto de las mariposas",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1280115",
+        "title": "Way of the Warrior Kid",
+        "release_date": "2026-11-24"
+      },
+      {
+        "id": "movie-1137888",
+        "title": "The Man with the Bag",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "movie-1084728",
+        "title": "Asterix: The Kingdom of Nubia",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-334379",
+        "title": "Empress of Flames",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "movie-1771940",
+        "title": "Yes, Santa",
+        "release_date": "2026-12-07"
+      },
+      {
+        "id": "tv-328853",
+        "title": "The Panini Family – Album of Dreams",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-333434",
+        "title": "Sal's Big Planet",
+        "release_date": "2027-01-03"
+      },
+      {
+        "id": "tv-339981",
+        "title": "Paige Prater: Austintown Fitch",
+        "release_date": "2027-01-11"
+      },
+      {
+        "id": "movie-1676026",
+        "title": "Serial Teachers 3: Back in Times",
+        "release_date": "2027-02-10"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1458300",
+        "title": "The Mosquito Bowl",
+        "old_date": "2026-10-30",
+        "new_date": "2026-10-29",
+        "detected_at": "2026-10-28T22:13:17.630602Z"
+      },
+      {
+        "id": "tv-305935",
+        "title": "Les Disparus des Argonnes",
+        "old_date": "2026-10-30",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-10-28T22:13:17.630640Z"
+      },
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D.: The Birth of Christ",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-03",
+        "detected_at": "2026-10-28T22:13:17.630667Z"
+      },
+      {
+        "id": "movie-1115030",
+        "title": "Animal Friends",
+        "old_date": "2027-01-22",
+        "new_date": "2027-01-21",
+        "detected_at": "2026-10-28T22:13:17.630692Z"
+      }
+    ]
   }
 ]
