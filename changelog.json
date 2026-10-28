@@ -14946,5 +14946,39 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-28T04:09:28.765688Z",
+    "new_titles": [
+      {
+        "id": "tv-340197",
+        "title": "Hostel Haadsa",
+        "release_date": "2026-10-28"
+      },
+      {
+        "id": "tv-339785",
+        "title": "Bradley Walsh's Million Pound Shot",
+        "release_date": "2026-11-01"
+      },
+      {
+        "id": "movie-1402181",
+        "title": "Scene",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-312661",
+        "title": "Miracles of the ER",
+        "release_date": "2026-11-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1316999",
+        "title": "Tangles",
+        "old_date": "2027-01-15",
+        "new_date": "2026-11-27",
+        "detected_at": "2026-10-28T04:09:28.762732Z"
+      }
+    ]
   }
 ]
