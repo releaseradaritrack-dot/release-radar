@@ -14980,5 +14980,21 @@
         "detected_at": "2026-10-28T04:09:28.762732Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-28T12:11:00.891836Z",
+    "new_titles": [
+      {
+        "id": "tv-299764",
+        "title": "Happy Anding",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-339503",
+        "title": "The Circle",
+        "release_date": "2026-11-17"
+      }
+    ],
+    "date_changes": []
   }
 ]
