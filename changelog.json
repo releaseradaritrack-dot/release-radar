@@ -15176,5 +15176,130 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-29T22:28:08.953001Z",
+    "new_titles": [
+      {
+        "id": "movie-1664264",
+        "title": "A Very Arctic Christmas",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1251608",
+        "title": "The Blood Countess",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1731816",
+        "title": "Kudrat 1968: High Council",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "movie-1578978",
+        "title": "Jonna: Crónicas de una policía novata",
+        "release_date": "2026-10-29"
+      },
+      {
+        "id": "tv-300755",
+        "title": "The Traitor Within",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-338793",
+        "title": "Yo no creo en los hombres",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1241478",
+        "title": "Jimmy",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-328440",
+        "title": "Lá na Minha Terra",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "movie-1608787",
+        "title": "Plucked",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1185542",
+        "title": "Agnes & Amir",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "movie-1597242",
+        "title": "Cameron Winter at Carnegie Hall",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-302837",
+        "title": "Toos: The Van der Valk Kidnapping",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1732479",
+        "title": "14th",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-324091",
+        "title": "[SAMSONITE, INC.] Spectral Hunters",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "tv-327127",
+        "title": "Nuits Blanches",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-303124",
+        "title": "Bosch: Start of Watch",
+        "release_date": "2027-01-10"
+      },
+      {
+        "id": "movie-1454106",
+        "title": "Somnambule",
+        "release_date": "2027-02-03"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-939541",
+        "title": "Christmas at the Kringles",
+        "old_date": "2026-10-30",
+        "new_date": "2026-10-29",
+        "detected_at": "2026-10-29T22:28:08.950252Z"
+      },
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-10-29T22:28:08.950284Z"
+      },
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-10-29T22:28:08.950286Z"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "old_date": "2027-01-28",
+        "new_date": "2027-01-29",
+        "detected_at": "2026-10-29T22:28:08.950296Z"
+      }
+    ]
   }
 ]
