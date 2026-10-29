@@ -15160,5 +15160,21 @@
         "detected_at": "2026-10-29T04:31:25.897727Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-29T12:20:54.288545Z",
+    "new_titles": [
+      {
+        "id": "movie-1797832",
+        "title": "Sonic the Hedgehog: Memories And Beyond",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-310209",
+        "title": "Nine to Six",
+        "release_date": "2026-11-25"
+      }
+    ],
+    "date_changes": []
   }
 ]
