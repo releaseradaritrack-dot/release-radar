@@ -15126,5 +15126,39 @@
         "detected_at": "2026-10-28T22:13:17.630692Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-29T04:31:25.901944Z",
+    "new_titles": [
+      {
+        "id": "movie-1642568",
+        "title": "The Last Temptation of Becky",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1649403",
+        "title": "George Michael: The Faith Tour",
+        "release_date": "2026-11-05"
+      },
+      {
+        "id": "movie-1402181",
+        "title": "Scene",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-300398",
+        "title": "Alice",
+        "release_date": "2026-12-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1287365",
+        "title": "The Liberation",
+        "old_date": "2027-01-06",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-10-29T04:31:25.897727Z"
+      }
+    ]
   }
 ]
