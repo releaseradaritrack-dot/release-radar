@@ -15365,5 +15365,34 @@
         "detected_at": "2026-10-30T04:31:46.670541Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-30T12:11:39.700660Z",
+    "new_titles": [
+      {
+        "id": "movie-1571955",
+        "title": "Collision Course",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "movie-1268053",
+        "title": "Winnie the Pooh: Blood and Honey: The Lost Years",
+        "release_date": "2027-01-21"
+      },
+      {
+        "id": "tv-327107",
+        "title": "Avenida Brasil 2",
+        "release_date": "2027-01-25"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "old_date": "2027-01-28",
+        "new_date": "2027-01-29",
+        "detected_at": "2026-10-30T12:11:39.695959Z"
+      }
+    ]
   }
 ]
