@@ -15394,5 +15394,94 @@
         "detected_at": "2026-10-30T12:11:39.695959Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-30T21:57:24.225743Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "tv-318158",
+        "title": "Beauty",
+        "release_date": "2026-10-30"
+      },
+      {
+        "id": "tv-334862",
+        "title": "الحانوتي",
+        "release_date": "2026-11-01"
+      },
+      {
+        "id": "movie-1666787",
+        "title": "Avedon",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1612811",
+        "title": "Disco",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-328010",
+        "title": "Devils' Crest",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1773357",
+        "title": "Holiday Unplugged",
+        "release_date": "2026-11-07"
+      },
+      {
+        "id": "tv-340088",
+        "title": "Big Bargain Holiday Showdown",
+        "release_date": "2026-11-10"
+      },
+      {
+        "id": "tv-340173",
+        "title": "Far-Fetched",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-195909",
+        "title": "The Awakened",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-340164",
+        "title": "Paige Prater: Sparkles and Shadows",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-337031",
+        "title": "Munawwara Ka Khadim",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-336034",
+        "title": "Khlueng",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1492198",
+        "title": "Artificial",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-340304",
+        "title": "New State of Mind",
+        "release_date": "2027-01-07"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1260649",
+        "title": "Jumanji: Open World",
+        "old_date": "2026-12-23",
+        "new_date": "2026-11-25",
+        "detected_at": "2026-10-30T21:57:24.220645Z"
+      }
+    ]
   }
 ]
