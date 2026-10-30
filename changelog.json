@@ -15301,5 +15301,69 @@
         "detected_at": "2026-10-29T22:28:08.950296Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-30T04:31:46.675336Z",
+    "new_titles": [
+      {
+        "id": "movie-1642568",
+        "title": "The Last Temptation of Becky",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-317945",
+        "title": "Eurovision Song Contest Asia",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1299329",
+        "title": "Josephine",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1741641",
+        "title": "Checking Inn for Christmas",
+        "release_date": "2026-11-28"
+      },
+      {
+        "id": "movie-1137888",
+        "title": "The Man with the Bag",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "movie-1596287",
+        "title": "Frank & Louis",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-335299",
+        "title": "A Living Canvas",
+        "release_date": "2027-01-23"
+      },
+      {
+        "id": "movie-1676026",
+        "title": "Serial Teachers 3: Back in Times",
+        "release_date": "2027-02-10"
+      },
+      {
+        "id": "movie-1770435",
+        "title": "Cassi",
+        "release_date": "2027-02-12"
+      },
+      {
+        "id": "movie-1653818",
+        "title": "Batka Minay",
+        "release_date": "2027-02-23"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "old_date": "2027-01-29",
+        "new_date": "2027-01-28",
+        "detected_at": "2026-10-30T04:31:46.670541Z"
+      }
+    ]
   }
 ]
