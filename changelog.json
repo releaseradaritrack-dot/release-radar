@@ -15555,5 +15555,49 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-31T16:51:49.509074Z",
+    "new_titles": [
+      {
+        "id": "movie-1796321",
+        "title": "K3 Superhelden",
+        "release_date": "2026-10-31"
+      },
+      {
+        "id": "movie-1591604",
+        "title": "Soul Patrol",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1792105",
+        "title": "ReLive",
+        "release_date": "2026-11-07"
+      },
+      {
+        "id": "tv-339876",
+        "title": "Damian Ghostkeeper",
+        "release_date": "2026-11-16"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "movie-1805594",
+        "title": "The Godfathers",
+        "release_date": "2027-01-18"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "old_date": "2026-12-10",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-10-31T16:51:49.504897Z"
+      }
+    ]
   }
 ]
