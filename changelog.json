@@ -15599,5 +15599,66 @@
         "detected_at": "2026-10-31T16:51:49.504897Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-31T21:00:38.093111Z",
+    "new_titles": [
+      {
+        "id": "tv-339375",
+        "title": "The committee",
+        "release_date": "2026-11-03"
+      },
+      {
+        "id": "tv-304893",
+        "title": "LIA",
+        "release_date": "2026-11-03"
+      },
+      {
+        "id": "tv-338813",
+        "title": "Hotel Blöff",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "movie-1580582",
+        "title": "Carnaval",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-335981",
+        "title": "Cunk on Cinema",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-195909",
+        "title": "The Awakened",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-300523",
+        "title": "The Blue Road",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1480665",
+        "title": "The Hunchback: Soul of Paris",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "movie-1596287",
+        "title": "Frank & Louis",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-290825",
+        "title": "The Wanted Man",
+        "release_date": "2027-01-06"
+      },
+      {
+        "id": "movie-1235057",
+        "title": "Love & War",
+        "release_date": "2027-01-21"
+      }
+    ],
+    "date_changes": []
   }
 ]
