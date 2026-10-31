@@ -15539,5 +15539,21 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-10-31T11:43:43.319546Z",
+    "new_titles": [
+      {
+        "id": "movie-1755818",
+        "title": "Blind Game",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "movie-1493572",
+        "title": "Parivarik ManuRanjan",
+        "release_date": "2026-11-13"
+      }
+    ],
+    "date_changes": []
   }
 ]
