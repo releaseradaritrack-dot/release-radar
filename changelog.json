@@ -15483,5 +15483,61 @@
         "detected_at": "2026-10-30T21:57:24.220645Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-31T04:14:04.468142Z",
+    "new_titles": [
+      {
+        "id": "tv-337395",
+        "title": "Baddies USA: Chapter 3",
+        "release_date": "2026-11-08"
+      },
+      {
+        "id": "tv-328440",
+        "title": "Lá na Minha Terra",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "tv-332912",
+        "title": "The White House Is Fake",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "tv-310209",
+        "title": "Nine to Six",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "movie-1398505",
+        "title": "Jani Be Good",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-334919",
+        "title": "Call the Midwife: Sisters in Arms",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "movie-1800341",
+        "title": "Supervised Contact",
+        "release_date": "2027-01-04"
+      },
+      {
+        "id": "tv-335299",
+        "title": "A Living Canvas",
+        "release_date": "2027-01-23"
+      },
+      {
+        "id": "tv-334845",
+        "title": "Même pas morte",
+        "release_date": "2027-02-01"
+      },
+      {
+        "id": "movie-1770435",
+        "title": "Cassi",
+        "release_date": "2027-02-12"
+      }
+    ],
+    "date_changes": []
   }
 ]
