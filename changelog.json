@@ -15722,5 +15722,78 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-01T21:43:42.482887Z",
+    "new_titles": [
+      {
+        "id": "tv-337116",
+        "title": "Unskilled Adult",
+        "release_date": "2026-11-01"
+      },
+      {
+        "id": "tv-339375",
+        "title": "The committee",
+        "release_date": "2026-11-03"
+      },
+      {
+        "id": "tv-299764",
+        "title": "Happy Anding",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1790574",
+        "title": "Sh*t Happens",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "tv-300523",
+        "title": "The Blue Road",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1647648",
+        "title": "Broken Path",
+        "release_date": "2026-11-21"
+      },
+      {
+        "id": "movie-1137888",
+        "title": "The Man with the Bag",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "movie-1814332",
+        "title": "Durer Manush",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "movie-1464544",
+        "title": "Sender",
+        "release_date": "2027-04-23"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1697911",
+        "title": "Drummer Boy",
+        "old_date": "2026-11-05",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-11-01T21:43:42.475976Z"
+      },
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-11-01T21:43:42.476005Z"
+      },
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-10",
+        "detected_at": "2026-11-01T21:43:42.476009Z"
+      }
+    ]
   }
 ]
