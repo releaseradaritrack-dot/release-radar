@@ -15676,5 +15676,51 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-01T12:43:18.004143Z",
+    "new_titles": [
+      {
+        "id": "tv-208929",
+        "title": "Blue Planet III",
+        "release_date": "2026-11-01"
+      },
+      {
+        "id": "tv-312006",
+        "title": "Anaesthesia",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-336968",
+        "title": "The Hive",
+        "release_date": "2026-11-05"
+      },
+      {
+        "id": "tv-340053",
+        "title": "Get Huge: Looksmaxxing to Death",
+        "release_date": "2026-11-10"
+      },
+      {
+        "id": "tv-340445",
+        "title": "Black Warrant: 'The final verdict'",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "tv-295276",
+        "title": "Matar a un oso",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-337372",
+        "title": "Esref Tek",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-340056",
+        "title": "Mr. Uncle Gary's Kitchen",
+        "release_date": "2027-02-05"
+      }
+    ],
+    "date_changes": []
   }
 ]
