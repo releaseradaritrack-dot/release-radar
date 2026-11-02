@@ -15795,5 +15795,51 @@
         "detected_at": "2026-11-01T21:43:42.476009Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-02T04:36:40.390880Z",
+    "new_titles": [
+      {
+        "id": "tv-270431",
+        "title": "When I Meet the Moon",
+        "release_date": "2026-11-05"
+      },
+      {
+        "id": "tv-328440",
+        "title": "Lá na Minha Terra",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "movie-1655020",
+        "title": "John Doe",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1084728",
+        "title": "Asterix: The Kingdom of Nubia",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-300398",
+        "title": "Alice",
+        "release_date": "2026-12-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1697911",
+        "title": "Drummer Boy",
+        "old_date": "2026-11-06",
+        "new_date": "2026-11-05",
+        "detected_at": "2026-11-02T04:36:40.387870Z"
+      },
+      {
+        "id": "movie-1452168",
+        "title": "Behemoth!",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-11-02T04:36:40.387889Z"
+      }
+    ]
   }
 ]
