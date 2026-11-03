@@ -15902,5 +15902,49 @@
         "detected_at": "2026-11-02T14:50:17.781081Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-03T00:33:13.450013Z",
+    "new_titles": [
+      {
+        "id": "tv-252886",
+        "title": "Scarlet Heart Ullavee",
+        "release_date": "2026-11-04"
+      },
+      {
+        "id": "tv-312661",
+        "title": "Miracles of the ER",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-335981",
+        "title": "Cunk on Cinema",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-288120",
+        "title": "Vienna Game",
+        "release_date": "2026-11-18"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "movie-1497464",
+        "title": "Gatto",
+        "release_date": "2027-03-03"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D.: The Birth of Christ",
+        "old_date": "2026-12-03",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-11-03T00:33:13.445936Z"
+      }
+    ]
   }
 ]
