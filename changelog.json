@@ -16109,5 +16109,46 @@
         "detected_at": "2026-11-03T22:56:05.520159Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-04T04:57:11.473281Z",
+    "new_titles": [
+      {
+        "id": "tv-334848",
+        "title": "Mauvaise influence",
+        "release_date": "2026-11-05"
+      },
+      {
+        "id": "tv-328440",
+        "title": "Lá na Minha Terra",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "movie-1580582",
+        "title": "Carnaval",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-312661",
+        "title": "Miracles of the ER",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-338402",
+        "title": "Sábado à Noite",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-338589",
+        "title": "Reign of the Weredragon",
+        "release_date": "2027-01-13"
+      },
+      {
+        "id": "movie-615121",
+        "title": "The Thomas Crown Affair",
+        "release_date": "2027-03-05"
+      }
+    ],
+    "date_changes": []
   }
 ]
