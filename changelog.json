@@ -16209,5 +16209,66 @@
         "detected_at": "2026-11-04T13:49:58.907028Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-04T23:14:23.993692Z",
+    "new_titles": [
+      {
+        "id": "movie-1817236",
+        "title": "Motu Patlu & the Mystery of Nagmani",
+        "release_date": "2026-11-08"
+      },
+      {
+        "id": "tv-299764",
+        "title": "Happy Anding",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "movie-1796954",
+        "title": "Pop Pop",
+        "release_date": "2026-11-15"
+      },
+      {
+        "id": "tv-339360",
+        "title": "Honesty House",
+        "release_date": "2026-11-16"
+      },
+      {
+        "id": "movie-1461490",
+        "title": "Hershey",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-310209",
+        "title": "Nine to Six",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-294607",
+        "title": "TRINITY",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1649403",
+        "title": "George Michael: The Faith Tour",
+        "old_date": "2026-11-05",
+        "new_date": "2026-11-04",
+        "detected_at": "2026-11-04T23:14:23.988338Z"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "old_date": "2027-01-29",
+        "new_date": "2027-01-28",
+        "detected_at": "2026-11-04T23:14:23.988390Z"
+      }
+    ]
   }
 ]
