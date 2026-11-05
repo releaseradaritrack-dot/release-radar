@@ -16270,5 +16270,116 @@
         "detected_at": "2026-11-04T23:14:23.988390Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-05T05:17:04.629978Z",
+    "new_titles": [
+      {
+        "id": "tv-318560",
+        "title": "Ayda!",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "movie-1772726",
+        "title": "Confession",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "movie-1777619",
+        "title": "Sour Grapes",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-195909",
+        "title": "The Awakened",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1689918",
+        "title": "Ashland",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "tv-302837",
+        "title": "Toos: The Van der Valk Kidnapping",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-340397",
+        "title": "Never Have I Spent The Winter With The Romano Brothers",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1519780",
+        "title": "Diary of a Wimpy Kid Christmas: The Getaway",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-300398",
+        "title": "Alice",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-331480",
+        "title": "Who the Hell Is Hamish?",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "movie-1398505",
+        "title": "Jani Be Good",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "movie-1389765",
+        "title": "Batman: Knightfall Part 2: Knightquest",
+        "release_date": "2026-12-15"
+      },
+      {
+        "id": "movie-1642283",
+        "title": "Filosofi Teras",
+        "release_date": "2026-12-24"
+      },
+      {
+        "id": "tv-339979",
+        "title": "Fixer Upper: Chip Bought a Mansion",
+        "release_date": "2026-12-27"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "movie-1012137",
+        "title": "Fantomas: The New World",
+        "release_date": "2027-02-10"
+      },
+      {
+        "id": "movie-1569292",
+        "title": "Monster",
+        "release_date": "2027-03-05"
+      },
+      {
+        "id": "movie-1520508",
+        "title": "Khosla Ka Ghosla 2",
+        "release_date": "2027-03-05"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-11-05T05:17:04.625258Z"
+      },
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-10",
+        "detected_at": "2026-11-05T05:17:04.625268Z"
+      }
+    ]
   }
 ]
