@@ -16381,5 +16381,54 @@
         "detected_at": "2026-11-05T05:17:04.625268Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-05T14:01:55.806598Z",
+    "new_titles": [
+      {
+        "id": "tv-307853",
+        "title": "Sunshine Through the Rain",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-328440",
+        "title": "Lá na Minha Terra",
+        "release_date": "2026-11-09"
+      },
+      {
+        "id": "tv-332912",
+        "title": "The White House Is Fake",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "tv-340862",
+        "title": "Collect & Praise",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-335841",
+        "title": "Den Store Julefortælling",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-338402",
+        "title": "Sábado à Noite",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-340700",
+        "title": "Strictly on Ice",
+        "release_date": "2027-01-16"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1078446",
+        "title": "Violent Night 2",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-11-05T14:01:55.803536Z"
+      }
+    ]
   }
 ]
