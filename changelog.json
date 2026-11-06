@@ -16554,5 +16554,36 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-06T13:46:48.109035Z",
+    "new_titles": [
+      {
+        "id": "movie-1600653",
+        "title": "The 12 Dates of Christmas",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-332269",
+        "title": "Francesca Next Door",
+        "release_date": "2026-11-06"
+      },
+      {
+        "id": "tv-312661",
+        "title": "Miracles of the ER",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "movie-1475768",
+        "title": "Maatrubhumi:  May War Rest in Peace",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1340208",
+        "title": "Karōshi",
+        "release_date": "2027-01-28"
+      }
+    ],
+    "date_changes": []
   }
 ]
