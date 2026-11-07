@@ -16767,5 +16767,39 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-07T12:30:23.055086Z",
+    "new_titles": [
+      {
+        "id": "movie-1820303",
+        "title": "Kashti Paar",
+        "release_date": "2026-11-07"
+      },
+      {
+        "id": "tv-340615",
+        "title": "The Trials of Karen Read",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "tv-341029",
+        "title": "Paigie Sparkles",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-307325",
+        "title": "The Eyes",
+        "release_date": "2026-12-18"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D.: The Birth of Christ",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-03",
+        "detected_at": "2026-11-07T12:30:23.050233Z"
+      }
+    ]
   }
 ]
