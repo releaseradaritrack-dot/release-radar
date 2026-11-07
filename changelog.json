@@ -16696,5 +16696,76 @@
         "detected_at": "2026-11-06T22:44:41.748386Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-07T04:46:44.288944Z",
+    "new_titles": [
+      {
+        "id": "movie-1807419",
+        "title": "Edo²",
+        "release_date": "2026-11-07"
+      },
+      {
+        "id": "movie-1616687",
+        "title": "Never Surrender",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "movie-1608787",
+        "title": "Plucked",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1655020",
+        "title": "John Doe",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1796954",
+        "title": "Pop Pop",
+        "release_date": "2026-11-15"
+      },
+      {
+        "id": "tv-339362",
+        "title": "Çiçekçi Kiz",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "tv-302837",
+        "title": "Toos: The Van der Valk Kidnapping",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1316999",
+        "title": "Tangles",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "movie-1370191",
+        "title": "Tender Loving Care",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1716448",
+        "title": "The Poolrooms",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-249037",
+        "title": "The Twin",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1627840",
+        "title": "Red Zone: Dead City",
+        "release_date": "2027-01-14"
+      },
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": []
   }
 ]
