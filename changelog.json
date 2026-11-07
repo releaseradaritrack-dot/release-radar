@@ -16801,5 +16801,118 @@
         "detected_at": "2026-11-07T12:30:23.050233Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-07T21:28:25.398175Z",
+    "new_titles": [
+      {
+        "id": "movie-1812389",
+        "title": "Infection",
+        "release_date": "2026-11-07"
+      },
+      {
+        "id": "movie-1810065",
+        "title": "blood & soil",
+        "release_date": "2026-11-08"
+      },
+      {
+        "id": "tv-340067",
+        "title": "History's Mystery Files",
+        "release_date": "2026-11-10"
+      },
+      {
+        "id": "tv-340760",
+        "title": "Newborn",
+        "release_date": "2026-11-15"
+      },
+      {
+        "id": "movie-1801870",
+        "title": "Second Chance Holiday",
+        "release_date": "2026-11-17"
+      },
+      {
+        "id": "tv-318420",
+        "title": "Valentina and the 12 Signs",
+        "release_date": "2026-11-18"
+      },
+      {
+        "id": "movie-1615596",
+        "title": "Best Pancakes in the County",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-314131",
+        "title": "Melania, the Series",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1384528",
+        "title": "OM: Chapter 1",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-292113",
+        "title": "Bill's Included",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-340229",
+        "title": "Fight for My Way",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1301248",
+        "title": "2 Aile Arasında",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "tv-334919",
+        "title": "Call the Midwife: Sisters in Arms",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-329701",
+        "title": "My Little Pony: Forever Friendship",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-330569",
+        "title": "Lumine",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1482558",
+        "title": "Lice",
+        "release_date": "2027-01-27"
+      },
+      {
+        "id": "tv-340056",
+        "title": "Mr. Uncle Gary's Kitchen",
+        "release_date": "2027-02-05"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "old_date": "2026-12-10",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-11-07T21:28:25.392853Z"
+      },
+      {
+        "id": "movie-1408207",
+        "title": "Zero A.D.: The Birth of Christ",
+        "old_date": "2026-12-03",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-11-07T21:28:25.392862Z"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "old_date": "2027-01-28",
+        "new_date": "2027-01-29",
+        "detected_at": "2026-11-07T21:28:25.392875Z"
+      }
+    ]
   }
 ]
