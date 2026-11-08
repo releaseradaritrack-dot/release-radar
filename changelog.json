@@ -16955,5 +16955,34 @@
         "detected_at": "2026-11-08T04:37:27.950477Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-08T12:48:50.469865Z",
+    "new_titles": [
+      {
+        "id": "movie-1820980",
+        "title": "Saheb Bhai ki khoi Redmi",
+        "release_date": "2026-11-08"
+      },
+      {
+        "id": "tv-340862",
+        "title": "Collect & Praise",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-335880",
+        "title": "NINJAGO: New Legends",
+        "release_date": "2027-03-06"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1340208",
+        "title": "Karōshi",
+        "old_date": "2027-01-28",
+        "new_date": "2027-02-05",
+        "detected_at": "2026-11-08T12:48:50.463721Z"
+      }
+    ]
   }
 ]
