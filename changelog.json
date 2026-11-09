@@ -17108,5 +17108,59 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-09T15:17:04.680193Z",
+    "new_titles": [
+      {
+        "id": "movie-1584779",
+        "title": "The Body in the Locker",
+        "release_date": "2025-11-23"
+      },
+      {
+        "id": "tv-292113",
+        "title": "Bill's Included",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-341492",
+        "title": "Alan Carr's Great Big Bucket List",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-340445",
+        "title": "Black Warrant: 'The final verdict'",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "movie-1630464",
+        "title": "Clarissa",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1380163",
+        "title": "Pendulum",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-340700",
+        "title": "Strictly on Ice",
+        "release_date": "2027-01-16"
+      },
+      {
+        "id": "movie-1451238",
+        "title": "Drag",
+        "release_date": "2027-01-29"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1400336",
+        "title": "Focker-in-Law",
+        "old_date": "2026-11-25",
+        "new_date": "2026-11-21",
+        "detected_at": "2026-11-09T15:17:04.675009Z"
+      }
+    ]
   }
 ]
