@@ -17298,5 +17298,51 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-10T22:52:30.997559Z",
+    "new_titles": [
+      {
+        "id": "tv-339992",
+        "title": "Hunting Alice Bell",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "movie-1466007",
+        "title": "Identitti",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-306609",
+        "title": "Gunshot",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "movie-1234054",
+        "title": "Rafadan Tayfa: Gordion",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-334919",
+        "title": "Call the Midwife: Sisters in Arms",
+        "release_date": "2026-12-25"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "old_date": "2027-02-19",
+        "new_date": "2027-02-04",
+        "detected_at": "2026-11-10T22:52:30.992223Z"
+      },
+      {
+        "id": "movie-1290000",
+        "title": "Wife & Dog",
+        "old_date": "2027-02-19",
+        "new_date": "2027-02-18",
+        "detected_at": "2026-11-10T22:52:30.992233Z"
+      }
+    ]
   }
 ]
