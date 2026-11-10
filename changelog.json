@@ -17257,5 +17257,46 @@
         "detected_at": "2026-11-10T01:12:44.740175Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-10T14:23:36.476494Z",
+    "new_titles": [
+      {
+        "id": "tv-340067",
+        "title": "History's Mystery Files",
+        "release_date": "2026-11-10"
+      },
+      {
+        "id": "movie-1559980",
+        "title": "The Gospel of Christmas",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-340862",
+        "title": "Collect & Praise",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-330569",
+        "title": "Lumine",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-701244",
+        "title": "The Take",
+        "release_date": "2027-01-15"
+      },
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "release_date": "2027-02-19"
+      },
+      {
+        "id": "movie-814795",
+        "title": "Pierre the Pigeon-Hawk",
+        "release_date": "2027-02-26"
+      }
+    ],
+    "date_changes": []
   }
 ]
