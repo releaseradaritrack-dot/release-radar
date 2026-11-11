@@ -17380,5 +17380,54 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-11T13:37:43.049466Z",
+    "new_titles": [
+      {
+        "id": "movie-1772726",
+        "title": "Confession",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-336243",
+        "title": "ChiaroScuro",
+        "release_date": "2026-11-11"
+      },
+      {
+        "id": "tv-312661",
+        "title": "Miracles of the ER",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "movie-1720486",
+        "title": "Lilo & Scratch",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-341499",
+        "title": "Paige Prater: Masked Sister",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-289730",
+        "title": "The Age of Innocence",
+        "release_date": "2027-02-18"
+      },
+      {
+        "id": "tv-335880",
+        "title": "NINJAGO: New Legends",
+        "release_date": "2027-03-06"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1611767",
+        "title": "Clashing Through the Snow",
+        "old_date": "2026-11-25",
+        "new_date": "2026-11-23",
+        "detected_at": "2026-11-11T13:37:43.044506Z"
+      }
+    ]
   }
 ]
