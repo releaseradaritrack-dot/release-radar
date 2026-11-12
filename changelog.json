@@ -17597,5 +17597,70 @@
         "detected_at": "2026-11-12T14:40:41.603977Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-12T23:14:47.325354Z",
+    "new_titles": [
+      {
+        "id": "movie-1641520",
+        "title": "DNK",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-303182",
+        "title": "Murder in Galicia",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-195909",
+        "title": "The Awakened",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-279382",
+        "title": "Eldorado",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "tv-337425",
+        "title": "I Nissernes Tjeneste",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-320582",
+        "title": "She's Fine",
+        "release_date": "2027-01-26"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1493572",
+        "title": "Parivarik ManuRanjan",
+        "old_date": "2026-11-13",
+        "new_date": "2026-11-12",
+        "detected_at": "2026-11-12T23:14:47.320697Z"
+      },
+      {
+        "id": "movie-1611767",
+        "title": "Clashing Through the Snow",
+        "old_date": "2026-11-25",
+        "new_date": "2026-11-23",
+        "detected_at": "2026-11-12T23:14:47.320715Z"
+      },
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-10",
+        "detected_at": "2026-11-12T23:14:47.320724Z"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "old_date": "2027-01-15",
+        "new_date": "2027-01-13",
+        "detected_at": "2026-11-12T23:14:47.320732Z"
+      }
+    ]
   }
 ]
