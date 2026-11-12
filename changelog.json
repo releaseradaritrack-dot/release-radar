@@ -17429,5 +17429,103 @@
         "detected_at": "2026-11-11T13:37:43.044506Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-12T00:04:57.971107Z",
+    "new_titles": [
+      {
+        "id": "tv-315222",
+        "title": "Infamy",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-300523",
+        "title": "The Blue Road",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-292113",
+        "title": "Bill's Included",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1662414",
+        "title": "Propeller One-Way Night Coach",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-341492",
+        "title": "Alan Carr's Great Big Bucket List",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-337425",
+        "title": "I Nissernes Tjeneste",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-334379",
+        "title": "Empress of Flames",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "movie-1198746",
+        "title": "Above the Below",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-281722",
+        "title": "O Saathi Re",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1380163",
+        "title": "Pendulum",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-330569",
+        "title": "Lumine",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1451238",
+        "title": "Drag",
+        "release_date": "2027-01-29"
+      },
+      {
+        "id": "movie-1425472",
+        "title": "The Rescue",
+        "release_date": "2027-01-29"
+      },
+      {
+        "id": "movie-1411089",
+        "title": "Shakti Shalini",
+        "release_date": "2027-03-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1131943",
+        "title": "Madden",
+        "old_date": "2026-11-11",
+        "new_date": "2026-11-18",
+        "detected_at": "2026-11-12T00:04:57.967792Z"
+      },
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "old_date": "2027-01-15",
+        "new_date": "2027-01-14",
+        "detected_at": "2026-11-12T00:04:57.967814Z"
+      },
+      {
+        "id": "movie-1290000",
+        "title": "Wife & Dog",
+        "old_date": "2027-02-18",
+        "new_date": "2027-02-19",
+        "detected_at": "2026-11-12T00:04:57.967818Z"
+      }
+    ]
   }
 ]
