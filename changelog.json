@@ -17527,5 +17527,75 @@
         "detected_at": "2026-11-12T00:04:57.967818Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-12T14:40:41.608919Z",
+    "new_titles": [
+      {
+        "id": "movie-1780407",
+        "title": "Snoopy Presents: 12 Days of Snoopy",
+        "release_date": "2026-11-12"
+      },
+      {
+        "id": "tv-261315",
+        "title": "Blossom in Darkness",
+        "release_date": "2026-11-15"
+      },
+      {
+        "id": "movie-1798903",
+        "title": "KILL/SAVE",
+        "release_date": "2026-11-17"
+      },
+      {
+        "id": "tv-340910",
+        "title": "Ashokan",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "tv-325519",
+        "title": "SHIN JI: Double Shuffle",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-302987",
+        "title": "Gift",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "tv-293611",
+        "title": "Excitatio",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1611767",
+        "title": "Clashing Through the Snow",
+        "old_date": "2026-11-23",
+        "new_date": "2026-11-25",
+        "detected_at": "2026-11-12T14:40:41.603942Z"
+      },
+      {
+        "id": "movie-1532610",
+        "title": "Ink",
+        "old_date": "2026-12-10",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-11-12T14:40:41.603962Z"
+      },
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "old_date": "2027-01-13",
+        "new_date": "2027-01-15",
+        "detected_at": "2026-11-12T14:40:41.603971Z"
+      },
+      {
+        "id": "movie-1290000",
+        "title": "Wife & Dog",
+        "old_date": "2027-02-19",
+        "new_date": "2027-02-18",
+        "detected_at": "2026-11-12T14:40:41.603977Z"
+      }
+    ]
   }
 ]
