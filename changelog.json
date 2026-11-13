@@ -17723,5 +17723,56 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-13T13:58:24.933449Z",
+    "new_titles": [
+      {
+        "id": "movie-1127282",
+        "title": "Prima Facie",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-315222",
+        "title": "Infamy",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "movie-1716604",
+        "title": "A Proud Family Wizmas",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "tv-332912",
+        "title": "The White House Is Fake",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "tv-341219",
+        "title": "Oleg’s Play Lab",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "movie-1789518",
+        "title": "The Conjunction",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "tv-341792",
+        "title": "The Elite: Army Rangers",
+        "release_date": "2026-12-08"
+      },
+      {
+        "id": "tv-336605",
+        "title": "Gabby's Dollhouse: Makers and Bakers Holiday",
+        "release_date": "2026-12-09"
+      },
+      {
+        "id": "tv-309176",
+        "title": "Are You a Landmine, Chihara-san?",
+        "release_date": "2027-01-07"
+      }
+    ],
+    "date_changes": []
   }
 ]
