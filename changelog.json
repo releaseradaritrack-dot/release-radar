@@ -17774,5 +17774,68 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-13T23:16:21.893291Z",
+    "new_titles": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "release_date": "2026-06-15"
+      },
+      {
+        "id": "movie-1568267",
+        "title": "God with Us",
+        "release_date": "2026-11-13"
+      },
+      {
+        "id": "tv-261315",
+        "title": "Blossom in Darkness",
+        "release_date": "2026-11-15"
+      },
+      {
+        "id": "movie-1767284",
+        "title": "Scorpion",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1045968",
+        "title": "The Fox",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-326247",
+        "title": "Fool Night",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-321955",
+        "title": "Sunset P.I.",
+        "release_date": "2027-02-08"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-621304",
+        "title": "Children of Blood and Bone",
+        "old_date": "2027-01-13",
+        "new_date": "2027-01-14",
+        "detected_at": "2026-11-13T23:16:21.889439Z"
+      },
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "old_date": "2027-01-14",
+        "new_date": "2027-01-15",
+        "detected_at": "2026-11-13T23:16:21.889450Z"
+      },
+      {
+        "id": "movie-1290000",
+        "title": "Wife & Dog",
+        "old_date": "2027-02-18",
+        "new_date": "2027-02-19",
+        "detected_at": "2026-11-13T23:16:21.889454Z"
+      }
+    ]
   }
 ]
