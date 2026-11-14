@@ -17908,5 +17908,60 @@
         "detected_at": "2026-11-14T05:03:24.141093Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-14T12:59:52.338348Z",
+    "new_titles": [
+      {
+        "id": "tv-340910",
+        "title": "Ashokan",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "tv-341600",
+        "title": "Salish's 12 Games of Christmas",
+        "release_date": "2026-11-28"
+      },
+      {
+        "id": "tv-339021",
+        "title": "The Mac Kids",
+        "release_date": "2027-01-05"
+      },
+      {
+        "id": "tv-336125",
+        "title": "The Interrogator",
+        "release_date": "2027-02-09"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "old_date": "2027-02-18",
+        "new_date": "2026-06-15",
+        "detected_at": "2026-11-14T12:59:52.332765Z"
+      },
+      {
+        "id": "movie-1793000",
+        "title": "The Hangover Cure",
+        "old_date": "2026-11-24",
+        "new_date": "2026-11-28",
+        "detected_at": "2026-11-14T12:59:52.332804Z"
+      },
+      {
+        "id": "movie-1198746",
+        "title": "Above the Below",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-03",
+        "detected_at": "2026-11-14T12:59:52.332809Z"
+      },
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "old_date": "2027-01-14",
+        "new_date": "2027-01-15",
+        "detected_at": "2026-11-14T12:59:52.332822Z"
+      }
+    ]
   }
 ]
