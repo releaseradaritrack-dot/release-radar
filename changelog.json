@@ -17837,5 +17837,76 @@
         "detected_at": "2026-11-13T23:16:21.889454Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-14T05:03:24.145691Z",
+    "new_titles": [
+      {
+        "id": "tv-341219",
+        "title": "Oleg’s Play Lab",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "tv-275947",
+        "title": "Buy My Boss",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "movie-1379537",
+        "title": "The Gallerist",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-302987",
+        "title": "Gift",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "movie-1473784",
+        "title": "Bunker",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "tv-327107",
+        "title": "Avenida Brasil 2",
+        "release_date": "2027-01-25"
+      },
+      {
+        "id": "movie-1425472",
+        "title": "The Rescue",
+        "release_date": "2027-01-29"
+      },
+      {
+        "id": "movie-1451238",
+        "title": "Drag",
+        "release_date": "2027-01-29"
+      },
+      {
+        "id": "movie-1378746",
+        "title": "The Night of Broken Glass",
+        "release_date": "2027-01-29"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "old_date": "2027-01-15",
+        "new_date": "2027-01-14",
+        "detected_at": "2026-11-14T05:03:24.141082Z"
+      },
+      {
+        "id": "movie-1523553",
+        "title": "Dark Horse",
+        "old_date": "2026-06-15",
+        "new_date": "2027-02-18",
+        "detected_at": "2026-11-14T05:03:24.141093Z"
+      }
+    ]
   }
 ]
