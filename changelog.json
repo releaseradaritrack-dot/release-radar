@@ -17963,5 +17963,59 @@
         "detected_at": "2026-11-14T12:59:52.332822Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-14T21:59:37.398839Z",
+    "new_titles": [
+      {
+        "id": "movie-1776645",
+        "title": "The Christmas Yes List",
+        "release_date": "2026-11-14"
+      },
+      {
+        "id": "movie-1826011",
+        "title": "RaTaTaTurn",
+        "release_date": "2026-11-15"
+      },
+      {
+        "id": "tv-341692",
+        "title": "霓裳尽欢",
+        "release_date": "2026-11-17"
+      },
+      {
+        "id": "movie-1568060",
+        "title": "Perfect Liars",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-321595",
+        "title": "King of Bar Host",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "movie-1786829",
+        "title": "An Unexpected Christmas Plan",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "movie-1213643",
+        "title": "Killing Castro",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1115030",
+        "title": "Animal Friends",
+        "release_date": "2027-01-22"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "old_date": "2027-01-15",
+        "new_date": "2027-01-14",
+        "detected_at": "2026-11-14T21:59:37.394899Z"
+      }
+    ]
   }
 ]
