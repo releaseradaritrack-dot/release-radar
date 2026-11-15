@@ -18051,5 +18051,31 @@
         "detected_at": "2026-11-15T04:56:57.905099Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-15T13:28:29.282076Z",
+    "new_titles": [
+      {
+        "id": "tv-341219",
+        "title": "Oleg’s Play Lab",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "tv-340862",
+        "title": "Collect & Praise",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-341792",
+        "title": "The Elite: Army Rangers",
+        "release_date": "2026-12-08"
+      },
+      {
+        "id": "movie-1630464",
+        "title": "Clarissa",
+        "release_date": "2026-12-11"
+      }
+    ],
+    "date_changes": []
   }
 ]
