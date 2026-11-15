@@ -18017,5 +18017,39 @@
         "detected_at": "2026-11-14T21:59:37.394899Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-15T04:56:57.910609Z",
+    "new_titles": [
+      {
+        "id": "movie-1533928",
+        "title": "Bachelor Party D'eux",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "movie-1597242",
+        "title": "Cameron Winter at Carnegie Hall",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-336500",
+        "title": "Burrito and Marshy",
+        "release_date": "2026-12-22"
+      },
+      {
+        "id": "movie-1451238",
+        "title": "Drag",
+        "release_date": "2027-01-29"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-337904",
+        "title": "AndherPura Curse",
+        "old_date": "2026-11-21",
+        "new_date": "2026-11-28",
+        "detected_at": "2026-11-15T04:56:57.905099Z"
+      }
+    ]
   }
 ]
