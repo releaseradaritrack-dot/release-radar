@@ -18142,5 +18142,41 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-16T14:52:32.647037Z",
+    "new_titles": [
+      {
+        "id": "movie-1458914",
+        "title": "The Man I Love",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "tv-342272",
+        "title": "Queen",
+        "release_date": "2026-11-16"
+      },
+      {
+        "id": "movie-1827344",
+        "title": "Pyaade",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1630464",
+        "title": "Clarissa",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-335857",
+        "title": "Kevin and PJ Obsessed",
+        "release_date": "2026-12-12"
+      },
+      {
+        "id": "movie-1451238",
+        "title": "Drag",
+        "release_date": "2027-01-29"
+      }
+    ],
+    "date_changes": []
   }
 ]
