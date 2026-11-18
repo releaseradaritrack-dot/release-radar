@@ -18478,5 +18478,53 @@
         "detected_at": "2026-11-18T15:09:55.088523Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-18T23:54:52.666524Z",
+    "new_titles": [
+      {
+        "id": "movie-1599184",
+        "title": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
+        "release_date": "2026-11-22"
+      },
+      {
+        "id": "movie-1827989",
+        "title": "Pei Pidichirukku",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-331962",
+        "title": "Skimmer",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "release_date": "2027-02-19"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1084728",
+        "title": "Asterix: The Kingdom of Nubia",
+        "old_date": "2026-12-02",
+        "new_date": "2026-11-22",
+        "detected_at": "2026-11-18T23:54:52.661039Z"
+      },
+      {
+        "id": "movie-1391239",
+        "title": "The Debut",
+        "old_date": "2026-12-11",
+        "new_date": "2026-12-10",
+        "detected_at": "2026-11-18T23:54:52.661060Z"
+      },
+      {
+        "id": "movie-1718699",
+        "title": "Not Alone",
+        "old_date": "2027-04-16",
+        "new_date": "2027-03-18",
+        "detected_at": "2026-11-18T23:54:52.661078Z"
+      }
+    ]
   }
 ]
