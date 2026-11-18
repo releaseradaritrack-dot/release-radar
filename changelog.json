@@ -18312,5 +18312,86 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-18T00:34:45.209484Z",
+    "new_titles": [
+      {
+        "id": "movie-1131943",
+        "title": "Madden",
+        "release_date": "2026-11-18"
+      },
+      {
+        "id": "tv-339362",
+        "title": "Çiçekçi Kiz",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "movie-1568060",
+        "title": "Perfect Liars",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1599184",
+        "title": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
+        "release_date": "2026-11-22"
+      },
+      {
+        "id": "tv-321595",
+        "title": "King of Bar Host",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "tv-302837",
+        "title": "Toos: The Van der Valk Kidnapping",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-337425",
+        "title": "I Nissernes Tjeneste",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1084728",
+        "title": "Asterix: The Kingdom of Nubia",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-320933",
+        "title": "Genialna M.",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-302987",
+        "title": "Gift",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "tv-307325",
+        "title": "The Eyes",
+        "release_date": "2026-12-18"
+      },
+      {
+        "id": "tv-289549",
+        "title": "Prodigies",
+        "release_date": "2027-02-10"
+      },
+      {
+        "id": "tv-335880",
+        "title": "NINJAGO: New Legends",
+        "release_date": "2027-03-06"
+      },
+      {
+        "id": "movie-458896",
+        "title": "The Nightingale",
+        "release_date": "2027-03-19"
+      },
+      {
+        "id": "movie-1718699",
+        "title": "Not Alone",
+        "release_date": "2027-04-16"
+      }
+    ],
+    "date_changes": []
   }
 ]
