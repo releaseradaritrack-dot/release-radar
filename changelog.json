@@ -18526,5 +18526,103 @@
         "detected_at": "2026-11-18T23:54:52.661078Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-19T06:00:45.946903Z",
+    "new_titles": [
+      {
+        "id": "movie-1458914",
+        "title": "The Man I Love",
+        "release_date": "2026-09-04"
+      },
+      {
+        "id": "movie-1045968",
+        "title": "The Fox",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-337031",
+        "title": "Munawwara Ka Khadim",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "movie-1480665",
+        "title": "The Hunchback: Soul of Paris",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-336267",
+        "title": "The World as It Is",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "tv-320933",
+        "title": "Genialna M.",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-336787",
+        "title": "Quiz from God",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1213643",
+        "title": "Killing Castro",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-283356",
+        "title": "Dr. Hassan",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-338589",
+        "title": "Reign of the Weredragon",
+        "release_date": "2027-01-13"
+      },
+      {
+        "id": "tv-293611",
+        "title": "Excitatio",
+        "release_date": "2027-01-15"
+      },
+      {
+        "id": "movie-1466228",
+        "title": "The Comeback King",
+        "release_date": "2027-02-05"
+      },
+      {
+        "id": "movie-1540136",
+        "title": "Force 3",
+        "release_date": "2027-03-19"
+      },
+      {
+        "id": "tv-317137",
+        "title": "Tax Department",
+        "release_date": "2027-03-19"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-340397",
+        "title": "Never Have I Spent The Winter With The Romano Brothers",
+        "old_date": "2026-12-01",
+        "new_date": "2026-12-09",
+        "detected_at": "2026-11-19T06:00:45.942254Z"
+      },
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "old_date": "2027-02-19",
+        "new_date": "2027-02-04",
+        "detected_at": "2026-11-19T06:00:45.942284Z"
+      },
+      {
+        "id": "movie-458896",
+        "title": "The Nightingale",
+        "old_date": "2027-03-19",
+        "new_date": "2027-03-18",
+        "detected_at": "2026-11-19T06:00:45.942291Z"
+      }
+    ]
   }
 ]
