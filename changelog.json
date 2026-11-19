@@ -18624,5 +18624,108 @@
         "detected_at": "2026-11-19T06:00:45.942291Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-19T19:58:38.336718Z",
+    "new_titles": [
+      {
+        "id": "tv-341997",
+        "title": "Macca & Friends",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "tv-342646",
+        "title": "Teen Tigada",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "movie-1480276",
+        "title": "Inherit",
+        "release_date": "2026-11-19"
+      },
+      {
+        "id": "tv-340229",
+        "title": "Fight for My Way",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-321595",
+        "title": "King of Bar Host",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "movie-1519016",
+        "title": "Forty Love",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-325519",
+        "title": "Shinji: Double Shuffle",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-342475",
+        "title": "The Poppy and Viva Show",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-321397",
+        "title": "Knight Rider: Declassified",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1588626",
+        "title": "In a Holidaze",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-342604",
+        "title": "Itihasa: Ramayana Beyond Borders with Shashi Tharoor",
+        "release_date": "2026-12-07"
+      },
+      {
+        "id": "tv-314424",
+        "title": "Grand Hotel by the Sea",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-322546",
+        "title": "Cruzando destinos: Marruecos en el corazón",
+        "release_date": "2026-12-14"
+      },
+      {
+        "id": "movie-1830844",
+        "title": "The Little Monk",
+        "release_date": "2026-12-18"
+      },
+      {
+        "id": "movie-1831031",
+        "title": "Under The Turban",
+        "release_date": "2026-12-20"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1380163",
+        "title": "Pendulum",
+        "old_date": "2026-12-31",
+        "new_date": "2027-01-01",
+        "detected_at": "2026-11-19T19:58:38.331973Z"
+      },
+      {
+        "id": "movie-1466228",
+        "title": "The Comeback King",
+        "old_date": "2027-02-05",
+        "new_date": "2027-02-04",
+        "detected_at": "2026-11-19T19:58:38.331988Z"
+      },
+      {
+        "id": "movie-1718699",
+        "title": "Not Alone",
+        "old_date": "2027-03-18",
+        "new_date": "2027-04-16",
+        "detected_at": "2026-11-19T19:58:38.331993Z"
+      }
+    ]
   }
 ]
