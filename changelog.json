@@ -18727,5 +18727,61 @@
         "detected_at": "2026-11-19T19:58:38.331993Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-20T05:50:09.225866Z",
+    "new_titles": [
+      {
+        "id": "movie-1317410",
+        "title": "Tristes Tropiques",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "movie-1480665",
+        "title": "The Hunchback, Soul of Paris",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-337031",
+        "title": "Munawwara Ka Khadim",
+        "release_date": "2026-12-07"
+      },
+      {
+        "id": "movie-1630464",
+        "title": "Clarissa",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1473784",
+        "title": "Bunker",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1533611",
+        "title": "The Revenge of La Llorona",
+        "release_date": "2027-02-26"
+      },
+      {
+        "id": "tv-341080",
+        "title": "A Roadmap to Happiness",
+        "release_date": "2027-03-20"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-342646",
+        "title": "Teen Tigada",
+        "old_date": "2026-11-19",
+        "new_date": "2026-11-20",
+        "detected_at": "2026-11-20T05:50:09.221134Z"
+      },
+      {
+        "id": "movie-458896",
+        "title": "The Nightingale",
+        "old_date": "2027-03-18",
+        "new_date": "2027-03-17",
+        "detected_at": "2026-11-20T05:50:09.221168Z"
+      }
+    ]
   }
 ]
