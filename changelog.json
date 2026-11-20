@@ -18834,5 +18834,82 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-20T23:42:13.852293Z",
+    "new_titles": [
+      {
+        "id": "movie-1597242",
+        "title": "Cameron Winter at Carnegie Hall",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-342742",
+        "title": "Lipistic",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "movie-1599230",
+        "title": "Elsinore",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-340229",
+        "title": "Fight for My Way",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-340566",
+        "title": "The Witch Farm",
+        "release_date": "2026-11-22"
+      },
+      {
+        "id": "movie-1096831",
+        "title": "Maserati: The Brothers",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "movie-1370191",
+        "title": "Tender Loving Care",
+        "release_date": "2026-12-04"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1380163",
+        "title": "Pendulum",
+        "old_date": "2027-01-01",
+        "new_date": "2026-12-31",
+        "detected_at": "2026-11-20T23:42:13.848051Z"
+      },
+      {
+        "id": "movie-1520592",
+        "title": "River",
+        "old_date": "2027-01-15",
+        "new_date": "2027-01-14",
+        "detected_at": "2026-11-20T23:42:13.848065Z"
+      },
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "old_date": "2027-02-04",
+        "new_date": "2027-02-19",
+        "detected_at": "2026-11-20T23:42:13.848071Z"
+      },
+      {
+        "id": "movie-615121",
+        "title": "The Thomas Crown Affair",
+        "old_date": "2027-03-04",
+        "new_date": "2027-03-03",
+        "detected_at": "2026-11-20T23:42:13.848073Z"
+      },
+      {
+        "id": "movie-1718699",
+        "title": "Not Alone",
+        "old_date": "2027-04-16",
+        "new_date": "2027-03-18",
+        "detected_at": "2026-11-20T23:42:13.848076Z"
+      }
+    ]
   }
 ]
