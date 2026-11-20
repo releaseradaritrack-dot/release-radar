@@ -18783,5 +18783,56 @@
         "detected_at": "2026-11-20T05:50:09.221168Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-20T14:55:59.986881Z",
+    "new_titles": [
+      {
+        "id": "movie-920167",
+        "title": "Witch on the Holy Night",
+        "release_date": "2026-11-20"
+      },
+      {
+        "id": "tv-341249",
+        "title": "Dateline Canada",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-338930",
+        "title": "Always on Call",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-340591",
+        "title": "Dry Summer",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1213643",
+        "title": "Killing Castro",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-335857",
+        "title": "Kevin and PJ Obsessed",
+        "release_date": "2026-12-12"
+      },
+      {
+        "id": "movie-1830818",
+        "title": "Echoes of the Herd",
+        "release_date": "2026-12-20"
+      },
+      {
+        "id": "tv-327127",
+        "title": "Nuits Blanches",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-347196",
+        "title": "Wolf Creek: Legacy",
+        "release_date": "2027-03-19"
+      }
+    ],
+    "date_changes": []
   }
 ]
