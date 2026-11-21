@@ -18980,5 +18980,56 @@
         "detected_at": "2026-11-21T05:45:11.298276Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-21T14:15:41.663184Z",
+    "new_titles": [
+      {
+        "id": "tv-318009",
+        "title": "The Secret City",
+        "release_date": "2026-11-23"
+      },
+      {
+        "id": "tv-342644",
+        "title": "My Favorite Murder",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "tv-285919",
+        "title": "Accidental Tourist",
+        "release_date": "2026-12-08"
+      },
+      {
+        "id": "tv-314424",
+        "title": "Grand Hotel by the Sea",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-342511",
+        "title": "Raising the Cannons",
+        "release_date": "2026-12-18"
+      },
+      {
+        "id": "movie-1300926",
+        "title": "The Angry Birds Movie 3",
+        "release_date": "2026-12-23"
+      },
+      {
+        "id": "tv-334361",
+        "title": "What Remains",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-276109",
+        "title": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+        "release_date": "2027-01-07"
+      },
+      {
+        "id": "tv-293611",
+        "title": "Excitatio",
+        "release_date": "2027-01-15"
+      }
+    ],
+    "date_changes": []
   }
 ]
