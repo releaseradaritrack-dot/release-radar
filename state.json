@@ -1072,7 +1072,7 @@
       "id": "tv-337600",
       "tmdb_id": 337600,
       "type": "series",
-      "industry": "hollywood",
+      "industry": "international",
       "title": "The Boy Who Stole Billions?",
       "original_title": "The Boy Who Stole Billions?",
       "release_date": "2026-11-30",
@@ -1299,6 +1299,29 @@
       "trailer_url": ""
     },
     {
+      "id": "movie-1452168",
+      "tmdb_id": 1452168,
+      "type": "movie",
+      "industry": "international",
+      "title": "Behemoth!",
+      "original_title": "Behemoth!",
+      "release_date": "2026-12-02",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "synopsis": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
+      "popularity": 7.0321,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "movie-940009",
       "tmdb_id": 940009,
       "type": "movie",
@@ -1318,29 +1341,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
       "popularity": 6.9443,
-      "platform": "theatrical",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1452168",
-      "tmdb_id": 1452168,
-      "type": "movie",
-      "industry": "international",
-      "title": "Behemoth!",
-      "original_title": "Behemoth!",
-      "release_date": "2026-12-02",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama"
-      ],
-      "language": "en",
-      "synopsis": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
-      "popularity": 7.0321,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -1367,6 +1367,30 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/pi8c5iEPamGFaZSnxaMSVSLhMlr.jpg",
       "popularity": 6.6875,
       "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "tv-320933",
+      "tmdb_id": 320933,
+      "type": "series",
+      "industry": "international",
+      "title": "Genialna M.",
+      "original_title": "Genialna M.",
+      "release_date": "2026-12-02",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Crime",
+        "Comedy"
+      ],
+      "language": "pl",
+      "synopsis": "Marta works as a cleaner at a police station in Bielsko-Biała. One evening, unable to resist the temptation, she begins tidying up an investigation board for a complex case that has reached a dead end. To the officers' surprise, she uncovers a clue that brings them significantly closer to catching the perpetrator. It soon emerges that Marta possesses an exceptionally high IQ of 160. Although her superior intellect offers little advantage in her everyday life, it proves to be a powerful weapon in the fight against crime—leading the sharp-witted cleaner to begin assisting the police in solving criminal cases.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o7LwG1IVKMSKIGgb8tCDdbkbJcv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8DHwT0V6Pp07VHUHXoo2TtaQTNA.jpg",
+      "popularity": 2.2291,
+      "platform": "ott",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -1553,7 +1577,7 @@
       ],
       "language": "en",
       "synopsis": "Chronicles the Maserati family's journey, from its founding in 1914 to becoming a renowned Italian luxury car manufacturer, alongside rivals Ferrari and Lamborghini.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4wj4JLxP8Bq9MOlcHQnfyBtc7nI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xBw8gSPWZLYP9T58f1S9uLnjE6o.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/2DFlJCi9QtRQSVcNdnPvOvLcH0A.jpg",
       "popularity": 2.7954,
       "platform": "theatrical",
@@ -1651,6 +1675,30 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2uifxB5QsZoxgy1keRHTXJh1rwt.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/1v5YyPDfLpAhcyaU7pWsOcM2MGY.jpg",
       "popularity": 1.9384,
+      "platform": "theatrical",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
+      "id": "movie-1475768",
+      "tmdb_id": 1475768,
+      "type": "movie",
+      "industry": "international",
+      "title": "Maatrubhumi:  May War Rest in Peace",
+      "original_title": "मातृभूमि",
+      "release_date": "2026-12-04",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "hi",
+      "synopsis": "Based on the events that took place between the Indian and Chinese troops at the Galwan region on June 15, 2020 when 200 Indian soldiers bravely defended their territory against a force of 1200 Chinese Liberation Army soldiers",
+      "poster_url": "https://image.tmdb.org/t/p/w500/si4RdbdCGZSy39N2EzN8dabszim.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/p1VCtvROMZ0g60UqMeTY2e7MTUX.jpg",
+      "popularity": 2.8943,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -1793,30 +1841,6 @@
       "backdrop_url": "",
       "popularity": 1.2076,
       "platform": "ott",
-      "source": "TMDB",
-      "official_url": "",
-      "trailer_url": ""
-    },
-    {
-      "id": "movie-1370191",
-      "tmdb_id": 1370191,
-      "type": "movie",
-      "industry": "international",
-      "title": "Tender Loving Care",
-      "original_title": "Tender Loving Care",
-      "release_date": "2026-12-04",
-      "release_time": "",
-      "status": "confirmed",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "language": "en",
-      "synopsis": "Amy, a government child protection worker, moves back with her upbeat best friend Rosie, a social services officer facing daily anger and resentment. Amy's aging parents worry about her happiness while dealing with their own crisis.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ritUkpIiQU1IofeQdG4RFMrSu9J.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/m04AhCtEgzRHH3lhzuBqsZHxBqk.jpg",
-      "popularity": 2.5132,
-      "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
       "trailer_url": ""
@@ -2129,7 +2153,8 @@
       "release_time": "",
       "status": "confirmed",
       "genres": [
-        "Drama"
+        "Drama",
+        "Crime"
       ],
       "language": "en",
       "synopsis": "Inspired by an industrious fraudster, and the group of victims who eventually decided they had had enough of him, the charming and cultured Hamish sets his sights on Bec, a recently divorced single mother with three sons and access to a significant family trust. When Bec notices gaps in his story and some odd behaviour, what starts as private unease widens into something far larger: a pattern of deception spanning continents and suspected of leaving more than $70 million in its wake.",
@@ -2374,24 +2399,24 @@
       "trailer_url": ""
     },
     {
-      "id": "movie-1506980",
-      "tmdb_id": 1506980,
+      "id": "movie-1473784",
+      "tmdb_id": 1473784,
       "type": "movie",
       "industry": "international",
-      "title": "Where the River Takes You",
-      "original_title": "Se a Maré te Trouxe, Fica",
+      "title": "Bunker",
+      "original_title": "Bunker",
       "release_date": "2026-12-11",
       "release_time": "",
       "status": "confirmed",
       "genres": [
-        "Fantasy",
-        "Romance"
+        "Thriller",
+        "Drama"
       ],
-      "language": "pt",
-      "synopsis": "During a farewell carnival, a young artist falls for a stranger who hides a supernatural secret.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dnboj8XkMsGZzGOBjOskYGkU6D8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/j3v6X31G84DPKjeMBbPjddcRUar.jpg",
-      "popularity": 2.2529,
+      "language": "en",
+      "synopsis": "When an architect accepts a morally ambiguous project — building a survivalist bunker for a tech billionaire — his wife of 17 years begins to question their relationship.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gPo96q7vKzoCiZlLH4T78FYStk0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6wGVsj5R33KSSCiZpQy6akylJ0y.jpg",
+      "popularity": 2.878,
       "platform": "theatrical",
       "source": "TMDB",
       "official_url": "",
@@ -2459,7 +2484,7 @@
       ],
       "language": "en",
       "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gknAq4pAuToh1Aq5CJfVkGQkExT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
       "popularity": 37.9289,
       "platform": "theatrical",
@@ -2532,8 +2557,8 @@
       ],
       "language": "en",
       "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "popularity": 173.0649,
       "platform": "theatrical",
       "source": "TMDB",
@@ -2780,7 +2805,7 @@
       "id": "movie-1300926",
       "tmdb_id": 1300926,
       "type": "movie",
-      "industry": "hollywood",
+      "industry": "international",
       "title": "The Angry Birds Movie 3",
       "original_title": "The Angry Birds Movie 3",
       "release_date": "2026-12-23",
@@ -3761,6 +3786,29 @@
       "trailer_url": ""
     },
     {
+      "id": "tv-327107",
+      "tmdb_id": 327107,
+      "type": "series",
+      "industry": "international",
+      "title": "Avenida Brasil 2",
+      "original_title": "Avenida Brasil 2",
+      "release_date": "2027-01-18",
+      "release_time": "",
+      "status": "confirmed",
+      "genres": [
+        "Drama"
+      ],
+      "language": "pt",
+      "synopsis": "",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dz89csfjF9bgOpEUEUdujo9tSVe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/PltT9Xrt6sAaPdYYigMvPFOv46.jpg",
+      "popularity": 2.393,
+      "platform": "ott",
+      "source": "TMDB",
+      "official_url": "",
+      "trailer_url": ""
+    },
+    {
       "id": "tv-285887",
       "tmdb_id": 285887,
       "type": "series",
@@ -3883,7 +3931,7 @@
       "id": "tv-320582",
       "tmdb_id": 320582,
       "type": "series",
-      "industry": "hollywood",
+      "industry": "international",
       "title": "She's Fine",
       "original_title": "She's Fine",
       "release_date": "2027-01-26",
@@ -4848,5 +4896,5 @@
       "trailer_url": ""
     }
   ],
-  "updated_at": "2026-11-21T14:15:42.750146Z"
+  "updated_at": "2026-11-21T22:47:41.726564Z"
 }

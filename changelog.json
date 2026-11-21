@@ -19031,5 +19031,31 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-21T22:47:40.506511Z",
+    "new_titles": [
+      {
+        "id": "tv-320933",
+        "title": "Genialna M.",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "movie-1475768",
+        "title": "Maatrubhumi:  May War Rest in Peace",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1473784",
+        "title": "Bunker",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-327107",
+        "title": "Avenida Brasil 2",
+        "release_date": "2027-01-18"
+      }
+    ],
+    "date_changes": []
   }
 ]
