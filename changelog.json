@@ -18911,5 +18911,74 @@
         "detected_at": "2026-11-20T23:42:13.848076Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-21T05:45:11.302448Z",
+    "new_titles": [
+      {
+        "id": "movie-1755816",
+        "title": "Delhi 2021",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "movie-1317410",
+        "title": "Tristes Tropiques",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-325519",
+        "title": "Shinji: Double Shuffle",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "movie-1715686",
+        "title": "Mickey's Home Alone",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-296278",
+        "title": "Pitago Stop",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1421967",
+        "title": "Violette",
+        "release_date": "2026-12-09"
+      },
+      {
+        "id": "movie-1506980",
+        "title": "Where the River Takes You",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "tv-322546",
+        "title": "Cruzando destinos: Marruecos en el corazón",
+        "release_date": "2026-12-14"
+      },
+      {
+        "id": "movie-1559982",
+        "title": "Give Me Some Sugah",
+        "release_date": "2026-12-16"
+      },
+      {
+        "id": "tv-318274",
+        "title": "Embassy",
+        "release_date": "2027-02-07"
+      },
+      {
+        "id": "movie-1470198",
+        "title": "Bedford Park",
+        "release_date": "2027-03-05"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "old_date": "2027-02-19",
+        "new_date": "2027-02-04",
+        "detected_at": "2026-11-21T05:45:11.298276Z"
+      }
+    ]
   }
 ]
