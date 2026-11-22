@@ -19119,5 +19119,73 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-22T23:15:57.330654Z",
+    "new_titles": [
+      {
+        "id": "tv-336267",
+        "title": "The World as It Is",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "movie-1588626",
+        "title": "In a Holidaze",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-342322",
+        "title": "Literally! With Rob Lowe",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "tv-336787",
+        "title": "Quiz from God",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-340445",
+        "title": "Black Warrant: 'The final verdict'",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "tv-298802",
+        "title": "Bride of the Barrier Master",
+        "release_date": "2027-01-06"
+      },
+      {
+        "id": "tv-340304",
+        "title": "New State of Mind",
+        "release_date": "2027-01-07"
+      },
+      {
+        "id": "movie-1425472",
+        "title": "The Rescue",
+        "release_date": "2027-01-29"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1084728",
+        "title": "Asterix: The Kingdom of Nubia",
+        "old_date": "2026-12-02",
+        "new_date": "2026-11-22",
+        "detected_at": "2026-11-22T23:15:57.325061Z"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "old_date": "2027-01-29",
+        "new_date": "2027-01-28",
+        "detected_at": "2026-11-22T23:15:57.325100Z"
+      },
+      {
+        "id": "movie-1290000",
+        "title": "Wife & Dog",
+        "old_date": "2027-02-19",
+        "new_date": "2027-02-17",
+        "detected_at": "2026-11-22T23:15:57.325106Z"
+      }
+    ]
   }
 ]
