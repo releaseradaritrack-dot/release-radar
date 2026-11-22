@@ -19103,5 +19103,21 @@
         "detected_at": "2026-11-22T05:15:17.461688Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-22T14:05:50.196989Z",
+    "new_titles": [
+      {
+        "id": "movie-1813874",
+        "title": "Revenge of Her : Evil Prevails",
+        "release_date": "2026-11-24"
+      },
+      {
+        "id": "movie-1838389",
+        "title": "Selfie",
+        "release_date": "2026-12-10"
+      }
+    ],
+    "date_changes": []
   }
 ]
