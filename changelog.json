@@ -19057,5 +19057,51 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-22T05:15:17.466082Z",
+    "new_titles": [
+      {
+        "id": "movie-1370191",
+        "title": "Tender Loving Care",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1559982",
+        "title": "Give Me Some Sugah",
+        "release_date": "2026-12-16"
+      },
+      {
+        "id": "movie-1837082",
+        "title": "NO MERCY: A Brother’s Revenge",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "movie-1517333",
+        "title": "K-POP: The Debut",
+        "release_date": "2027-02-26"
+      },
+      {
+        "id": "movie-1533611",
+        "title": "The Revenge of La Llorona",
+        "release_date": "2027-02-26"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-171802",
+        "title": "Blade Runner 2099",
+        "old_date": "2026-11-25",
+        "new_date": "2026-11-24",
+        "detected_at": "2026-11-22T05:15:17.461670Z"
+      },
+      {
+        "id": "movie-1084728",
+        "title": "Asterix: The Kingdom of Nubia",
+        "old_date": "2026-11-22",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-11-22T05:15:17.461688Z"
+      }
+    ]
   }
 ]
