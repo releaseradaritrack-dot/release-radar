@@ -19187,5 +19187,49 @@
         "detected_at": "2026-11-22T23:15:57.325106Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-23T05:54:23.070873Z",
+    "new_titles": [
+      {
+        "id": "movie-1317410",
+        "title": "Tristes Tropiques",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "tv-243360",
+        "title": "Ludwig",
+        "release_date": "2026-11-29"
+      },
+      {
+        "id": "tv-334379",
+        "title": "Empress of Flames",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "tv-335857",
+        "title": "Kevin and PJ Obsessed",
+        "release_date": "2026-12-12"
+      },
+      {
+        "id": "tv-330569",
+        "title": "Lumine",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-276109",
+        "title": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+        "release_date": "2027-01-07"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1813874",
+        "title": "Revenge of Her : Evil Prevails",
+        "old_date": "2026-11-24",
+        "new_date": "2026-11-23",
+        "detected_at": "2026-11-23T05:54:23.065580Z"
+      }
+    ]
   }
 ]
