@@ -19304,5 +19304,81 @@
         "detected_at": "2026-11-23T17:27:53.436085Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-24T03:50:37.098752Z",
+    "new_titles": [
+      {
+        "id": "movie-1084814",
+        "title": "Flesh & Fuel",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "movie-1125822",
+        "title": "Eternal Return",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-233732",
+        "title": "All The Love Our Hearts Carry",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-336787",
+        "title": "Quiz from God",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-285919",
+        "title": "Accidental Tourist",
+        "release_date": "2026-12-08"
+      },
+      {
+        "id": "tv-338215",
+        "title": "The Riot",
+        "release_date": "2026-12-09"
+      },
+      {
+        "id": "tv-314424",
+        "title": "Grand Hotel by the Sea",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-335857",
+        "title": "Kevin and PJ Obsessed",
+        "release_date": "2026-12-12"
+      },
+      {
+        "id": "tv-335087",
+        "title": "Visceral",
+        "release_date": "2026-12-13"
+      },
+      {
+        "id": "tv-248334",
+        "title": "Portraits of Delusion",
+        "release_date": "2027-01-06"
+      },
+      {
+        "id": "tv-338589",
+        "title": "Reign of the Weredragon",
+        "release_date": "2027-01-13"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "tv-248172",
+        "title": "Baywatch",
+        "old_date": "2027-01-06",
+        "new_date": "2027-01-07",
+        "detected_at": "2026-11-24T03:50:37.093143Z"
+      },
+      {
+        "id": "movie-458896",
+        "title": "The Nightingale",
+        "old_date": "2027-03-19",
+        "new_date": "2027-03-17",
+        "detected_at": "2026-11-24T03:50:37.093161Z"
+      }
+    ]
   }
 ]
