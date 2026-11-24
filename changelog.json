@@ -19380,5 +19380,132 @@
         "detected_at": "2026-11-24T03:50:37.093161Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-24T16:59:49.380097Z",
+    "new_titles": [
+      {
+        "id": "tv-325519",
+        "title": "Shinji: Double Shuffle",
+        "release_date": "2026-11-25"
+      },
+      {
+        "id": "movie-1677441",
+        "title": "Schöne Seelen",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1653298",
+        "title": "Prasert",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1355885",
+        "title": "From Inside Out: The Architecture of Peter Zumthor",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "movie-1732479",
+        "title": "14th",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-342311",
+        "title": "Den ofrivillige tomten",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "movie-1588626",
+        "title": "In a Holidaze",
+        "release_date": "2026-12-02"
+      },
+      {
+        "id": "tv-321634",
+        "title": "Loveless Heroine",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "tv-343304",
+        "title": "Dalimp",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-342897",
+        "title": "Ozzy Fox",
+        "release_date": "2026-12-05"
+      },
+      {
+        "id": "tv-290789",
+        "title": "The Great Tipsy 1980s",
+        "release_date": "2026-12-06"
+      },
+      {
+        "id": "tv-343253",
+        "title": "Timberlake",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-302986",
+        "title": "Your Ground",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1417487",
+        "title": "Chor Nikal Ke Bhaga 2",
+        "release_date": "2026-12-17"
+      },
+      {
+        "id": "tv-332290",
+        "title": "Seeing is Believing: The Story of Narrative Art",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "tv-315880",
+        "title": "BLESS",
+        "release_date": "2027-01-08"
+      },
+      {
+        "id": "movie-1470198",
+        "title": "Bedford Park",
+        "release_date": "2027-03-05"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-940009",
+        "title": "Ray Gunn",
+        "old_date": "2026-12-02",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-11-24T16:59:49.375580Z"
+      },
+      {
+        "id": "movie-1370191",
+        "title": "Tender Loving Care",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-11",
+        "detected_at": "2026-11-24T16:59:49.375595Z"
+      },
+      {
+        "id": "movie-1380163",
+        "title": "Pendulum",
+        "old_date": "2026-12-31",
+        "new_date": "2027-01-01",
+        "detected_at": "2026-11-24T16:59:49.375599Z"
+      },
+      {
+        "id": "movie-1115030",
+        "title": "Animal Friends",
+        "old_date": "2027-01-21",
+        "new_date": "2027-01-22",
+        "detected_at": "2026-11-24T16:59:49.375603Z"
+      },
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "old_date": "2027-02-04",
+        "new_date": "2027-02-19",
+        "detected_at": "2026-11-24T16:59:49.375607Z"
+      }
+    ]
   }
 ]
