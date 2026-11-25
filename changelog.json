@@ -19507,5 +19507,39 @@
         "detected_at": "2026-11-24T16:59:49.375607Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-25T01:56:12.129401Z",
+    "new_titles": [
+      {
+        "id": "tv-342304",
+        "title": "90 Day: Florida",
+        "release_date": "2026-12-14"
+      },
+      {
+        "id": "movie-1600653",
+        "title": "The 12 Dates of Christmas",
+        "release_date": "2026-12-31"
+      },
+      {
+        "id": "movie-1288438",
+        "title": "Godzilla x Kong: Supernova",
+        "release_date": "2027-03-25"
+      },
+      {
+        "id": "movie-1266643",
+        "title": "Day Drinker",
+        "release_date": "2027-03-26"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-940009",
+        "title": "Ray Gunn",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-11-25T01:56:12.125935Z"
+      }
+    ]
   }
 ]
