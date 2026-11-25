@@ -19541,5 +19541,76 @@
         "detected_at": "2026-11-25T01:56:12.125935Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-25T16:50:44.410261Z",
+    "new_titles": [
+      {
+        "id": "tv-326202",
+        "title": "Reading Bones Identifying Hearts",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-339341",
+        "title": "风生水起",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "movie-1741641",
+        "title": "Checking Inn for Christmas",
+        "release_date": "2026-11-28"
+      },
+      {
+        "id": "tv-274660",
+        "title": "The Melody of Love",
+        "release_date": "2026-11-29"
+      },
+      {
+        "id": "tv-330473",
+        "title": "Calder",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-335087",
+        "title": "Visceral",
+        "release_date": "2026-12-13"
+      },
+      {
+        "id": "movie-1559982",
+        "title": "Give Me Some Sugah",
+        "release_date": "2026-12-16"
+      },
+      {
+        "id": "tv-339528",
+        "title": "Dégage",
+        "release_date": "2026-12-18"
+      },
+      {
+        "id": "tv-334919",
+        "title": "Call the Midwife: Sisters in Arms",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-334361",
+        "title": "What Remains",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-343069",
+        "title": "Paige",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-336768",
+        "title": "Aaj",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-309681",
+        "title": "Historie",
+        "release_date": "2027-01-08"
+      }
+    ],
+    "date_changes": []
   }
 ]
