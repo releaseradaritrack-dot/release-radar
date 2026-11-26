@@ -19726,5 +19726,92 @@
         "detected_at": "2026-11-26T01:36:08.500503Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-26T16:26:51.866165Z",
+    "new_titles": [
+      {
+        "id": "movie-1690098",
+        "title": "Sidelined 3: End Game",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-338930",
+        "title": "Always on Call",
+        "release_date": "2026-11-26"
+      },
+      {
+        "id": "tv-315165",
+        "title": "My Boss I Love You",
+        "release_date": "2026-11-28"
+      },
+      {
+        "id": "tv-336787",
+        "title": "Quiz from God",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-314424",
+        "title": "Grand Hotel by the Sea",
+        "release_date": "2026-12-10"
+      },
+      {
+        "id": "tv-339021",
+        "title": "The Mac Kids",
+        "release_date": "2027-01-05"
+      },
+      {
+        "id": "tv-315880",
+        "title": "BLESS",
+        "release_date": "2027-01-08"
+      },
+      {
+        "id": "tv-338589",
+        "title": "Reign of the Weredragon",
+        "release_date": "2027-01-13"
+      },
+      {
+        "id": "movie-1422008",
+        "title": "Fucktoys",
+        "release_date": "2027-02-12"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1600653",
+        "title": "The 12 Dates of Christmas",
+        "old_date": "2026-12-31",
+        "new_date": "2026-11-06",
+        "detected_at": "2026-11-26T16:26:51.862278Z"
+      },
+      {
+        "id": "movie-1715686",
+        "title": "Mickey's Home Alone",
+        "old_date": "2026-11-27",
+        "new_date": "2026-11-26",
+        "detected_at": "2026-11-26T16:26:51.862284Z"
+      },
+      {
+        "id": "movie-1198746",
+        "title": "Above the Below",
+        "old_date": "2026-12-03",
+        "new_date": "2026-12-04",
+        "detected_at": "2026-11-26T16:26:51.862292Z"
+      },
+      {
+        "id": "movie-1421903",
+        "title": "Werwulf",
+        "old_date": "2026-12-25",
+        "new_date": "2026-12-24",
+        "detected_at": "2026-11-26T16:26:51.862299Z"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "old_date": "2027-01-28",
+        "new_date": "2027-01-29",
+        "detected_at": "2026-11-26T16:26:51.862306Z"
+      }
+    ]
   }
 ]
