@@ -19612,5 +19612,119 @@
       }
     ],
     "date_changes": []
+  },
+  {
+    "run_at": "2026-11-26T01:36:08.504765Z",
+    "new_titles": [
+      {
+        "id": "movie-1433027",
+        "title": "What Happened to Doris?",
+        "release_date": "2026-09-20"
+      },
+      {
+        "id": "tv-296278",
+        "title": "Pitago Stop",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-334379",
+        "title": "Empress of Flames",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "movie-1125822",
+        "title": "Eternal Return",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1645554",
+        "title": "Dalimb",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-233732",
+        "title": "Jo Bachay Hain Sang Samait Lo",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1421967",
+        "title": "Violette",
+        "release_date": "2026-12-09"
+      },
+      {
+        "id": "movie-1630464",
+        "title": "Clarissa",
+        "release_date": "2026-12-11"
+      },
+      {
+        "id": "movie-1234054",
+        "title": "Rafadan Tayfa: Gordion",
+        "release_date": "2026-12-25"
+      },
+      {
+        "id": "tv-249037",
+        "title": "The Twin",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-248334",
+        "title": "Portraits of Delusion",
+        "release_date": "2027-01-06"
+      },
+      {
+        "id": "movie-1554131",
+        "title": "Beparwah",
+        "release_date": "2027-03-26"
+      },
+      {
+        "id": "movie-1527075",
+        "title": "Andhar",
+        "release_date": "2027-03-26"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1380163",
+        "title": "Pendulum",
+        "old_date": "2027-01-01",
+        "new_date": "2026-12-31",
+        "detected_at": "2026-11-26T01:36:08.500477Z"
+      },
+      {
+        "id": "movie-1115030",
+        "title": "Animal Friends",
+        "old_date": "2027-01-22",
+        "new_date": "2027-01-21",
+        "detected_at": "2026-11-26T01:36:08.500492Z"
+      },
+      {
+        "id": "movie-1425472",
+        "title": "The Rescue",
+        "old_date": "2027-01-29",
+        "new_date": "2027-01-28",
+        "detected_at": "2026-11-26T01:36:08.500494Z"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "old_date": "2027-01-29",
+        "new_date": "2027-01-28",
+        "detected_at": "2026-11-26T01:36:08.500495Z"
+      },
+      {
+        "id": "movie-1480503",
+        "title": "CoComelon: The Movie",
+        "old_date": "2027-02-19",
+        "new_date": "2027-02-04",
+        "detected_at": "2026-11-26T01:36:08.500497Z"
+      },
+      {
+        "id": "movie-1266643",
+        "title": "Day Drinker",
+        "old_date": "2027-03-26",
+        "new_date": "2027-03-25",
+        "detected_at": "2026-11-26T01:36:08.500503Z"
+      }
+    ]
   }
 ]
