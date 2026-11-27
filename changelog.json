@@ -19813,5 +19813,103 @@
         "detected_at": "2026-11-26T16:26:51.862306Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-27T01:30:28.277399Z",
+    "new_titles": [
+      {
+        "id": "movie-1555984",
+        "title": "Prempaatta",
+        "release_date": "2026-11-27"
+      },
+      {
+        "id": "tv-341219",
+        "title": "Oleg’s Play Lab",
+        "release_date": "2026-11-30"
+      },
+      {
+        "id": "tv-337425",
+        "title": "I Nissernes Tjeneste",
+        "release_date": "2026-12-01"
+      },
+      {
+        "id": "tv-321634",
+        "title": "Loveless Heroine",
+        "release_date": "2026-12-03"
+      },
+      {
+        "id": "movie-1125822",
+        "title": "Eternal Return",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1596282",
+        "title": "The Friend's House is Here",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "movie-1534221",
+        "title": "A Long Winter",
+        "release_date": "2026-12-04"
+      },
+      {
+        "id": "tv-290789",
+        "title": "The Great Tipsy 1980s",
+        "release_date": "2026-12-06"
+      },
+      {
+        "id": "tv-283220",
+        "title": "Quiztopia",
+        "release_date": "2026-12-17"
+      },
+      {
+        "id": "tv-330569",
+        "title": "Lumine",
+        "release_date": "2027-01-01"
+      },
+      {
+        "id": "tv-276109",
+        "title": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+        "release_date": "2027-01-07"
+      },
+      {
+        "id": "tv-309681",
+        "title": "Historie",
+        "release_date": "2027-01-09"
+      },
+      {
+        "id": "tv-293611",
+        "title": "Excitatio",
+        "release_date": "2027-01-15"
+      },
+      {
+        "id": "movie-1139422",
+        "title": "The Riders",
+        "release_date": "2027-03-25"
+      }
+    ],
+    "date_changes": [
+      {
+        "id": "movie-1198746",
+        "title": "Above the Below",
+        "old_date": "2026-12-04",
+        "new_date": "2026-12-02",
+        "detected_at": "2026-11-27T01:30:28.273006Z"
+      },
+      {
+        "id": "movie-1600653",
+        "title": "The 12 Dates of Christmas",
+        "old_date": "2026-11-06",
+        "new_date": "2026-12-31",
+        "detected_at": "2026-11-27T01:30:28.273028Z"
+      },
+      {
+        "id": "movie-1442761",
+        "title": "Slayground",
+        "old_date": "2027-01-29",
+        "new_date": "2027-01-28",
+        "detected_at": "2026-11-27T01:30:28.273036Z"
+      }
+    ]
   }
 ]
